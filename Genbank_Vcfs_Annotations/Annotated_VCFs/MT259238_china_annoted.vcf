@@ -1,0 +1,16 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
+1	1965	1965	G	C	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T1700C:p.I567T,ORF1a:cds-YP_009725295.1:exon1:c.T1700C:p.I567T	0.469	0.960016	0.944882	0.13	T	.	.	.	.	.	orf1ab polyprotein_QNSVRVLQKAAITIL	20	.	.	.	.	.	
+1	9171	9171	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8906T:p.L2969L,ORF1a:cds-YP_009725295.1:exon1:c.T8906T:p.L2969L	1.65	2.19521	0.976378	0.96	T	.	Lumenal	.	.	.	.	.	orf1ab_TYLEGSVRVVTTF 	-1	.	.	.	
+1	18214	18214	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G4747T:p.G1583C	1.65	4.256	1	0.00	D	.	.	.	.	.	orf1ab polyprotein_PKDMTYRRLISMMGF	9.4	orf1ab_RLISMMGFK 	0.04	.	.	.	
+1	18325	18325	A	G	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G4858G:p.A1620A	1.65	4.256	1	1.00	T	.	.	.	.	.	.	.	.	.	nCoV-2019_60_RIGHT	.	.	
+1	18527	18527	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G5060T:p.R1687L	1.65	4.256	1	0.00	D	.	.	.	.	.	orf1ab polyprotein_PLMYKGLPWNVVRIK	19	orf1ab_VVRIKIVQM 	0.03	.	.	.	
+1	24792	24792	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C3230G:p.T1077S	1.65	3.2969	0.905512	0.40	T	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24884	24884	T	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A3322G:p.N1108D	1.65	2.23123	0.992126	0.62	T	disulf_bond	.	.	.	.	.	.	.	.	.	.	.	
+1	24891	24891	T	A	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.A3329A:p.Y1110Y	-0.722	-1.49861	0	1.00	T	disulf_bond	.	.	.	.	.	.	.	.	.	.	.	
+1	26770	26770	G	A	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.C248A:p.A83E	1.65	3.2857	1	0.03	D	.	.	.	Transmembrane	.	.	.	.	.	.	.	.	
+1	26771	26771	G	A	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.A249A:p.A83A	0.48	1.02167	1	0.18	T	.	.	.	Transmembrane	.	.	.	.	.	.	.	.	
+1	26805	26805	G	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.T283T:p.Y95Y	1.65	2.20759	1	1.00	T	.	.	.	Transmembrane	.	membrane glycoprotein_MWLSYFIASFRLFAR	3.9	membrane glycoprotein_SYFIASFRLF	-1	.	.	.	
+1	26813	26813	C	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.T291T:p.I97I	0.412	0.913858	0.992126	0.37	T	.	.	.	Transmembrane	.	membrane glycoprotein_MWLSYFIASFRLFAR	3.9	membrane glycoprotein_SYFIASFRLF	-1	.	.	.	
+1	28724	28724	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C451T:p.P151S	1.65	3.25353	1	0.00	D	.	.	.	.	.	.	.	.	.	.	NIID-N1-F | CDCV_GERMANY_N gene_1	National Institute of Infectious Disease (NIID), Yamanashi Central Hospital (YCH ) | Christian Drosten Charite Virology, Berlin, Germany	
+1	29442	29442	T	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A1169C:p.Q390P	-0.277	0.468882	1	0.37	T	.	.	.	.	.	.	.	.	.	.	.	.	
+1	31236	31236	A	H	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

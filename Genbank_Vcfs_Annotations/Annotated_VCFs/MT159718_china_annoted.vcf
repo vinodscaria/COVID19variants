@@ -1,0 +1,3 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
+1	28409	28409	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C136T:p.P46S	1.65	3.27687	1	0.09	T	.	9b	.	.	.	.	.	nucleocapsid phosphoprotein_LPNNTASWF	0.09	nCoV-2019_94_LEFT	.	.	
+1	29736	29736	G	T	downstream	N;ORF10	dist=62	.	.	1.58	4.076	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

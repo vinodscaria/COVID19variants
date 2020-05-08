@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
+1	241	241	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	313	313	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C48T:p.L16L,ORF1a:cds-YP_009725295.1:exon1:c.C48T:p.L16L	1.65	3.28673	1	0.84	T	.	.	.	.	.	orf1ab polyprotein_KTHVQLSLPVLQVRD	19	.	.	.	.	.	
+1	6075	6075	A	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T5810T:p.F1937F,ORF1a:cds-YP_009725295.1:exon1:c.T5810T:p.F1937F	1.61	2.19047	0.905512	0.35	T	.	.	.	.	.	orf1ab polyprotein_DNFKFVCDNIKFADD	16	orf1ab_FADDLNQLTGY 	0.02	.	.	.	
+1	7553	7553	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G7288T:p.V2430F,ORF1a:cds-YP_009725295.1:exon1:c.G7288T:p.V2430F	-0.685	0.641291	1	0.06	T	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8328	8328	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8063T:p.L2688L,ORF1a:cds-YP_009725295.1:exon1:c.T8063T:p.L2688L	1.65	2.19521	0.992126	1.00	T	.	.	.	.	.	.	.	orf1ab_VENMTPRDL 	0.16	nCoV-2019_27_RIGHT	.	.	
+1	8958	8958	T	G	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8693G:p.T2898R,ORF1a:cds-YP_009725295.1:exon1:c.C8693G:p.T2898R	1.65	3.2943	1	0.00	D	.	Lumenal	.	.	.	orf1ab polyprotein_AVGNICYTPSKLIEY	18	.	.	nCoV-2019_29_RIGHT	.	.	
+1	13696	13696	T	A	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A229A:p.I77I	1.65	2.25587	1	0.55	T	.	.	.	.	.	.	.	orf1ab_HEETIYNLL 	0.03	nCoV-2019_45_RIGHT	.	.	
+1	15344	15344	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C1877T:p.S626L	1.65	3.30748	1	0.00	D	.	RdRp_catalytic	.	.	.	orf1ab polyprotein_RAMPNMLRIMASLVL	3.6	.	.	.	.	.	
+1	25998	25998	A	G	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.A606G:p.V202V	-3.3	-1.06924	0.0866142	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	

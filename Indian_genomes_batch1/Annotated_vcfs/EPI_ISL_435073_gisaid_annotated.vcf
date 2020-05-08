@@ -1,0 +1,18 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
+1	713	713	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G448T:p.G150C,ORF1a:cds-YP_009725295.1:exon1:c.G448T:p.G150C	-0.211	1.87011	1	0.14	T	.	.	.	.	.	.	.	.	.	nCoV-2019_2_RIGHT	.	.	
+1	1526	1526	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8630	8630	T	G	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8365G:p.L2789V,ORF1a:cds-YP_009725295.1:exon1:c.T8365G:p.L2789V	-3.3	-0.415118	0.338583	0.46	T	.	.	.	Transmembrane	.	orf1ab polyprotein_VTLVFLFVAAIFYLI	8.7	orf1ab_YLITPVHVM 	0.04	.	.	.	
+1	9167	9167	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	12771	12771	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14496	14496	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15016	15016	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G1549T:p.A517S	1.65	4.256	1	0.05	D	.	.	.	.	.	.	.	orf1ab_SYEDQDALFAY 	-1	.	.	.	
+1	17775	17775	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18490	18490	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	19485	19485	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T6018T:p.A2006A	-2.62	0.0464016	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23254	23254	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A1692T:p.Q564H	-2.02	-0.113764	0.992126	0.49	T	disulf_bond	.	.	.	.	.	.	.	.	.	.	.	
+1	24213	24213	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C2651G:p.S884C	1.65	3.27011	1	0.07	T	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25831	25831	C	G	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.C439G:p.L147V	0.712	1.45324	1	1.00	T	.	.	.	.	.	ORF3a protein_KNPLLYDANYFLCWH	13	ORF3a protein_LLYDANYFL	0.01	.	.	.	
+1	26635	26635	G	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.C113T:p.A38V	1.65	3.2857	1	0.00	D	.	.	.	Transmembrane	.	membrane glycoprotein_WICLLQFAYANRNRF	11	membrane glycoprotein_FAYANRNRF	0.05	.	.	.	
+1	27296	27296	C	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28451	28451	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29926	29926	C	T	downstream	N;ORF10	dist=252	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

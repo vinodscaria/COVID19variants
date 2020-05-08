@@ -1,0 +1,5 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
+1	12	12	T	G	upstream	ORF1a	dist=254	.	.	-0.0509	0.00613386	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	16	16	G	A	upstream	ORF1a	dist=250	.	.	0.495	2.76482	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17	17	G	T	upstream	ORF1a	dist=249	.	.	0.179	1.79555	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	224	224	C	T	upstream	ORF1a	dist=42	.	.	0.421	0.975402	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

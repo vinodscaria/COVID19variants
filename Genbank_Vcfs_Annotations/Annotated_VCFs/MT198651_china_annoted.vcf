@@ -1,0 +1,9 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
+1	9062	9062	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8797T:p.C2933C,ORF1a:cds-YP_009725295.1:exon1:c.T8797T:p.C2933C	1.65	2.19521	1	1.00	T	.	Lumenal	.	.	.	.	.	orf1ab_VPYCYDTNVL 	0.15	.	.	.	
+1	9757	9757	T	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T9492A:p.R3164R,ORF1a:cds-YP_009725295.1:exon1:c.T9492A:p.R3164R	0.468	0.343165	1	0.72	T	.	.	.	Transmembrane	.	orf1ab polyprotein_KHFYWFFSNYLKRRV	2	orf1ab_NYLKRRVVF 	-1	.	.	.	
+1	15287	15287	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G1820T:p.G607V	1.65	4.256	1	0.00	D	.	RdRp_catalytic	.	.	.	.	.	orf1ab_TVYSDVENPHLMGW 	0.14	.	ORF1b Reverse	China	
+1	25630	25630	C	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.G238T:p.V80F	-3.3	-0.321835	0	0.02	D	.	.	.	Transmembrane	.	ORF3a protein_KKRWQLALSKGVHFV	4.8	ORF3a protein_ALSKGVHFV	0.03	.	.	.	
+1	27261	27261	G	T	exonic	ORF6	.	nonsynonymous SNV	ORF6:cds-YP_009724394.1:exon1:c.G60T:p.R20S	-1.47	0.913858	1	0.04	D	.	.	.	.	.	ORF6 protein_IAEILLIIMRTFKVS	11	.	.	.	.	.	
+1	29426	29426	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.A1153C:p.R385R	0.461	0.914425	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29939	29939	C	T	downstream	N;ORF10	dist=265	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30145	30145	C	T	downstream	N;ORF10	dist=471	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

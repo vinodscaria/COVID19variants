@@ -1,0 +1,21 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
+1	7764	7764	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8052	8052	T	G	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A7787G:p.N2596S,ORF1a:cds-YP_009725295.1:exon1:c.A7787G:p.N2596S	1.65	2.23849	0.803346	0.08	T	.	.	.	.	.	orf1ab polyprotein_FDAYVNTFSSTFNVP	19	orf1ab_KMFDAYVNTF 	-1	.	.	.	
+1	8056	8056	A	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G7791T:p.T2597T,ORF1a:cds-YP_009725295.1:exon1:c.G7791T:p.T2597T	-3.3	-3.14154	0.00886614	1.00	T	.	.	.	.	.	orf1ab polyprotein_FDAYVNTFSSTFNVP	19	orf1ab_KMFDAYVNTF 	-1	.	.	.	
+1	8167	8167	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8812	8812	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A8547T:p.K2849N,ORF1a:cds-YP_009725295.1:exon1:c.A8547T:p.K2849N	-3.3	-0.00296063	0.984252	0.18	T	.	Lumenal	.	.	.	.	.	.	.	.	.	.	
+1	15156	15156	C	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15160	15160	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15165	15165	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15169	15169	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	16360	16360	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17777	17777	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17888	17888	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4421G:p.E1474G	1.65	2.24049	1	0.00	D	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	.	.	.	.	.	
+1	19024	19024	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	21644	21644	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T82T:p.Y28Y	-3.2	0.551307	0	1.00	T	disulf_bond	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_LPPAYTNSF	0.04	.	.	.	
+1	22210	22210	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24420	24420	G	C	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A2858C:p.N953T	1.65	2.28422	0.944882	0.00	D	.	.	.	.	Surface glycoprotein_LQDVVNQNAQALNTLVKQLSSNFGAISS	.	.	.	.	.	.	.	
+1	24724	24724	A	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G3162T:p.Q1054H	-3.3	-0.859213	0.0944882	0.02	D	.	.	.	.	.	.	.	surface glycoprotein_HLMSFPQSA	0.16	.	.	.	
+1	25800	25800	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27434	27434	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28413	28413	T	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A140C:p.N47T	1.65	2.29773	1	0.00	D	.	9b	.	.	.	.	.	nucleocapsid phosphoprotein_LPNNTASWF	0.09	nCoV-2019_94_LEFT	.	.	

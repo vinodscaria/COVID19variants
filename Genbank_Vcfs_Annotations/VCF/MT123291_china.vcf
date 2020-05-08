@@ -1,0 +1,17 @@
+##fileformat=VCFv4.1									
+##contig=<ID=1,length=29928>									
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">									
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SARS-CoV-2_IQTC02_human_2020_CHN
+1	21	.	T	G	.	.	.	GT	1
+1	22	.	T	G	.	.	.	GT	1
+1	6838	.	G	T	.	.	.	GT	1
+1	17392	.	C	T	.	.	.	GT	1
+1	19629	.	C	T	.	.	.	GT	1
+1	29546	.	G	A	.	.	.	GT	1
+1	29912	.	A	G	.	.	.	GT	1
+1	29914	.	A	G	.	.	.	GT	1
+1	29916	.	A	G	.	.	.	GT	1
+1	29918	.	A	G	.	.	.	GT	1
+1	29919	.	A	T	.	.	.	GT	1
+1	29926	.	A	T	.	.	.	GT	1
+1	29927	.	A	T	.	.	.	GT	1

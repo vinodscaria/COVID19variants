@@ -1,0 +1,5 @@
+##fileformat=VCFv4.1									
+##contig=<ID=1,length=29903>									
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">									
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SARS0CoV-2_61-TW_human_2020_
+1	24034	.	C	T	.	.	.	GT	1

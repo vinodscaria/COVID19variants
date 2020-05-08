@@ -1,0 +1,6 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
+1	9349	9349	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T9084T:p.T3028T,ORF1a:cds-YP_009725295.1:exon1:c.T9084T:p.T3028T	-3.3	-0.540378	0.292047	0.37	T	.	Lumenal	.	.	.	orf1ab polyprotein_GVFCGVDAVNLLTNM	20	.	.	.	.	.	
+1	18037	18037	C	T	exonic	ORF1b	.	stopgain	ORF1b:cds-YP_009724389.1:exon1:c.C4570T:p.Q1524X	1.65	3.32576	1	.	.	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	orf1ab_IPRRNVATL 	-1	nCoV-2019_59_RIGHT	.	.	
+1	26912	26912	C	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.C390T:p.T130T	1.65	3.2857	1	0.40	T	.	Intravirion	.	.	.	.	.	.	.	nCoV-2019_88_RIGHT	.	.	
+1	28968	28968	T	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G695C:p.S232T	0.673	2.6966	1	0.73	T	.	.	.	.	Nucleocapsid phosphoprotein_SKMSGKGQQQQGQTVTKKSA	nucleocapsid phosphoprotein_LLLLDRLNQLESKMS	9.5	.	.	.	N gene Reverse	GenScript	
+1	29809	29809	G	T	downstream	N;ORF10	dist=135	.	.	1.52	2.05405	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

@@ -1,0 +1,9 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
+1	253	253	C	T	upstream	ORF1a	dist=13	.	.	1.65	2.24291	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3049	3049	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T2784T:p.D928D,ORF1a:cds-YP_009725295.1:exon1:c.T2784T:p.D928D	-2.19	-0.131906	0.992126	0.59	T	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14420	14420	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G953T:p.G318V	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	
+1	23415	23415	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C1853G:p.T618R	1.65	3.2572	1	0.08	T	disulf_bond	.	.	.	Surface glycoprotein_FGGVSVITPGTNTSNQVAVLYQDVNCTEV	.	.	.	.	.	.	.	
+1	28893	28893	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C620A:p.P207H	1.65	3.25353	1	0.15	T	.	.	.	Transmembrane	Nucleocapsid phosphoprotein_RGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGG	.	.	.	.	.	N gene Forward	GenScript	
+1	28894	28894	G	A	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.T621A:p.P207P	-0.943	0.357496	1	0.26	T	.	.	.	Transmembrane	Nucleocapsid phosphoprotein_RGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGG	.	.	.	.	.	N gene Forward	GenScript	
+1	28895	28895	G	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G622C:p.A208P	1.65	4.256	1	0.33	T	.	.	.	Transmembrane	Nucleocapsid phosphoprotein_RGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGG	.	.	.	.	.	N gene Forward	GenScript	
+1	29882	29882	C	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

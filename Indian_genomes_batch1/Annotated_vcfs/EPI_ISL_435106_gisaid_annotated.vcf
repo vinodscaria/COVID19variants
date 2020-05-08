@@ -1,0 +1,17 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
+1	914	914	C	T	exonic	ORF1a	.	stopgain	ORF1a:cds-YP_009724389.1:exon1:c.G649T:p.E217X,ORF1a:cds-YP_009725295.1:exon1:c.G649T:p.E217X	1.65	4.256	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1427	1427	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C1162A:p.H388N,ORF1a:cds-YP_009725295.1:exon1:c.C1162A:p.H388N	1.65	3.30383	0.992126	0.30	T	.	.	.	.	.	.	.	orf1ab_AEYHNESGL 	0.04	.	.	.	
+1	8052	8052	T	G	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A7787G:p.N2596S,ORF1a:cds-YP_009725295.1:exon1:c.A7787G:p.N2596S	1.65	2.23849	0.803346	0.08	T	.	.	.	.	.	orf1ab polyprotein_FDAYVNTFSSTFNVP	19	orf1ab_KMFDAYVNTF 	-1	.	.	.	
+1	8683	8683	G	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8418T:p.I2806I,ORF1a:cds-YP_009725295.1:exon1:c.C8418T:p.I2806I	-2.35	0.0657323	0.992126	1.00	T	.	Lumenal	.	.	.	.	.	orf1ab_HTDFSSEIIGY 	0.01	.	.	.	
+1	11113	11113	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G10848T:p.M3616I,ORF1a:cds-YP_009725295.1:exon1:c.G10848T:p.M3616I	-1.97	0.278992	0.992126	0.35	T	.	.	.	Transmembrane	.	orf1ab polyprotein_FLPFAMGIIAMSAFA	14	orf1ab_FLYENAFLPFAM 	-1	.	.	.	
+1	15699	15699	T	C	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C2232C:p.F744F	0.68	1.62113	1	1.00	T	.	RdRp_catalytic	.	.	.	orf1ab polyprotein_EFYAYLRKHFSMMIL	9.7	orf1ab_YAYLRKHF 	0.07	.	.	.	
+1	16576	16576	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17912	17912	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24036	24036	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24196	24196	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24419	24419	A	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24420	24420	G	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26739	26739	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28824	28824	G	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28932	28932	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29986	29986	G	T	downstream	N;ORF10	dist=312	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

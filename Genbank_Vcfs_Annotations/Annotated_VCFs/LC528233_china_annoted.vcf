@@ -1,0 +1,9 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
+1	13	13	A	G	upstream	ORF1a	dist=253	.	.	1.06	0.602606	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11095	11095	G	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C10830T:p.A3610A,ORF1a:cds-YP_009725295.1:exon1:c.C10830T:p.A3610A	-3.3	-0.71526	0.968504	0.24	T	.	.	.	Transmembrane	.	orf1ab polyprotein_SLFFFLYENAFLPFA	18	orf1ab_FLYENAFLPFAM 	-1	.	.	.	
+1	29647	29647	C	T	exonic	ORF10	.	synonymous SNV	ORF10:cds-YP_009725255.1:exon1:c.A90T:p.V30V	1.6	2.25106	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29895	29895	A	C	downstream	N;ORF10	dist=221	.	.	.	0.577701	0.995472	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29898	29898	A	T	downstream	N;ORF10	dist=224	.	.	.	0.577701	0.978268	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29899	29899	A	G	downstream	N;ORF10	dist=225	.	.	.	0.577701	0.965591	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29900	29900	A	C	downstream	N;ORF10	dist=226	.	.	.	0	0.943858	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29901	29901	A	T	downstream	N;ORF10	dist=227	.	.	.	0	0.923937	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
