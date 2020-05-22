@@ -1,0 +1,5 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3811	3811	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C3546T:p.L1182L,ORF1a:cds-YP_009725295.1:exon1:c.C3546T:p.L1182L	-3.3	-0.313591	0.84252	1.00	T	.	Macro	.	.	.	.	.	orf1ab_AVFDKNLYDK 	-1	.	.	.	.	.	.	
+1	14692	14692	G	A	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G1225A:p.D409N	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	orf1ab_TVKPGNFNK 	-1	.	.	.	.	.	.	
+1	29711	29711	G	T	downstream	N;ORF10	dist=37	.	.	-0.394	1.60472	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

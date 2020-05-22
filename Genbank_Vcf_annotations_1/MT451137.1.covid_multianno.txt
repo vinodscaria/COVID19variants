@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	14435	14435	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A968T:p.K323I	1.65	2.24737	1	0.00	D	.	.	.	.	.	orf1ab polyprotein_LVRKIFVDGVPFVVS	15	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	
+1	15398	15398	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1931T:p.Y644F	1.65	2.24518	1	0.08	T	.	RdRp_catalytic	.	.	.	.	.	orf1ab_SLSHRFYRL 	0.06	.	.	.	.	.	.	
+1	23430	23430	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C1868G:p.A623G	-0.364	0.510488	0	0.34	T	disulf_bond	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28908	28908	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G635A:p.G212D	-0.319	2.36244	1	0.00	D	.	.	.	Transmembrane	Nucleocapsid phosphoprotein_RGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGG	.	.	.	.	.	.	.	.	.	.	
+1	28909	28909	G	A	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C636A:p.G212G	-1.25	1.1372	1	0.00	D	.	.	.	Transmembrane	Nucleocapsid phosphoprotein_RGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGG	.	.	.	.	.	.	.	.	.	.	
+1	28910	28910	G	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A637C:p.N213H	0.695	1.69413	1	0.10	T	.	.	.	Transmembrane	Nucleocapsid phosphoprotein_RGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGG	.	.	.	.	.	.	.	.	.	.	

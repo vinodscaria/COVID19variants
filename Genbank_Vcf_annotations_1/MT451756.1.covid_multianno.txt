@@ -1,0 +1,20 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1059	1059	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C794T:p.T265I,ORF1a:cds-YP_009725295.1:exon1:c.C794T:p.T265I	1.65	3.30383	0.992126	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	6705	6705	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9205	9205	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11284	11284	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14146	14146	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14900	14900	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G1433T:p.C478F	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	.	.	nCoV-2019_49_RIGHT	.	.	.	.	.	
+1	22761	22761	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24439	24439	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24683	24683	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G3121G:p.D1041D	1.65	4.256	1	0.67	T	disulf_bond	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25641	25641	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25688	25688	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26397	26397	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26843	26843	G	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.T321T:p.R107R	-1.44	0.159181	1	0.91	T	.	Intravirion	.	.	Membrane glycoprotein_RTRSMWSFNPETN	membrane glycoprotein_FIASFRLFARTRSMW	13	membrane glycoprotein_RLFARTRSM	0.03	nCoV-2019_89_LEFT	.	.	.	.	.	
+1	27278	27278	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28044	28044	C	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28411	28411	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

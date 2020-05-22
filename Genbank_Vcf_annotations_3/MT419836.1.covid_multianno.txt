@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3182	3182	A	G	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G2917G:p.E973E,ORF1a:cds-YP_009725295.1:exon1:c.G2917G:p.E973E	0.644	3.77135	0.992126	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9066	9066	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A8801T:p.Y2934F,ORF1a:cds-YP_009725295.1:exon1:c.A8801T:p.Y2934F	1.65	2.26391	1	0.16	T	.	Lumenal	.	.	.	.	.	orf1ab_VPYCYDTNVL 	0.15	.	.	.	.	.	.	
+1	16858	16858	A	G	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G3391G:p.A1131A	1.65	4.256	1	1.00	T	.	.	.	.	.	orf1ab polyprotein_DAVVYRGTTTYKLNV	9	.	.	.	.	.	.	.	.	
+1	17366	17366	G	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C3899T:p.S1300L	1.65	3.34872	1	0.00	D	.	+)RNA_virus_helicase_ATP_binding	.	.	.	.	.	orf1ab_DEISMATNY 	-1	.	.	.	.	.	.	
+1	18138	18138	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C4671T:p.F1557F	-3.3	-0.00758268	0.992228	0.82	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18249	18249	A	G	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T4782G:p.P1594P	-0.756	0.380016	0.992228	0.30	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18451	18451	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G4984T:p.A1662S	1.65	4.256	1	0.19	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23576	23576	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G2014T:p.A672S	1.65	4.256	1	0.05	D	.	.	.	.	.	.	.	surface glycoprotein_IPIGAGICASY	0.06	.	.	.	.	.	.	
+1	28574	28574	T	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A301C:p.M101L	1.65	2.29773	1	0.00	D	.	9b	.	.	.	.	.	.	.	.	.	.	.	.	.	

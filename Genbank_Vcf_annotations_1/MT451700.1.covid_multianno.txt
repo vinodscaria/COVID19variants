@@ -1,0 +1,22 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	311	311	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	5544	5544	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8772	8772	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	10778	10778	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C10513A:p.L3505I,ORF1a:cds-YP_009725295.1:exon1:c.C10513A:p.L3505I	-3.3	0.499937	0.992126	0.39	T	.	Peptidase_C30	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	10800	10800	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14037	14037	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17021	17021	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T3554G:p.F1185C	1.65	2.21463	1	0.00	D	.	+)RNA_virus_helicase_ATP_binding	.	.	.	.	.	orf1ab_YPTLNISDEF 	0.06	.	.	.	.	.	.	
+1	19062	19062	T	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20620	20620	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23018	23018	G	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25430	25430	A	G	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.T38G:p.V13G	1.65	2.12466	0.0629921	0.01	D	.	.	.	.	.	ORF3a protein_MDLFMRIFTIGTVTL	16	ORF3a protein_RIFTIGTVTLK	-1	.	.	.	.	.	.	
+1	25758	25758	C	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.A366T:p.R122S	0.482	1.17297	0.740157	0.00	D	.	.	.	.	.	ORF3a protein_LVYFLQSINFVRIIM	7.9	.	.	.	.	.	.	.	.	
+1	27127	27127	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30607	30607	G	T	downstream	ORF10	dist=933	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30802	30802	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30908	30908	G	A	intergenic	ORF10;NONE	dist=1234;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30909	30909	G	A	intergenic	ORF10;NONE	dist=1235;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30910	30910	G	C	intergenic	ORF10;NONE	dist=1236;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

@@ -1,0 +1,6 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5804	5804	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27502	27502	C	T	exonic	ORF7a	.	synonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.T109T:p.S37S	0.454	1.02167	0.818898	1.00	T	disulf_bond	X4e	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28649	28649	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A376T:p.N126Y	1.65	2.29773	1	0.04	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28986	28986	T	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

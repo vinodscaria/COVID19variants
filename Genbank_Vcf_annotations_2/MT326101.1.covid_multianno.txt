@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	150	150	T	C	upstream	ORF1a	dist=116	.	.	1.6	2.16835	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	153	153	T	G	upstream	ORF1a	dist=113	.	.	0.426	0.975402	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9439	9439	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A9174T:p.T3058T,ORF1a:cds-YP_009725295.1:exon1:c.A9174T:p.T3058T	-2.36	0.153835	1	0.67	T	.	.	.	Transmembrane	.	.	.	.	.	.	.	.	.	.	.	
+1	13443	13443	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C13178T:p.S4393L,ORF1a:cds-YP_009725295.1:exon1:c.C13178T:p.S4393L	1.65	3.31844	1	0.00	D	.	.	.	.	.	.	.	.	.	.	ORF1ab gene Reverse	GenScript; China CDC; PerkinElmer, Inc.	.	.	.	
+1	18477	18477	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T5010T:p.F1670F	-2.06	0.101307	0.976378	1.00	T	.	.	.	.	.	orf1ab polyprotein_PPGDQFKHLIPLMYK	19	.	.	.	.	.	.	.	.	
+1	18588	18588	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T5121G:p.F1707L	-2.19	0.0198425	1	0.34	T	.	.	.	.	.	.	.	orf1ab_NLSDRVVFV 	0.03	.	.	.	.	.	.	
+1	18790	18790	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G5323T:p.G1775C	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	.	.	.	ORF1b Forward	Nepal, China; National Institute of Virology, India	.	.	.	
+1	29107	29107	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.T834C:p.G278G	0.411	0.914425	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29850	29850	C	T	downstream	N;ORF10	dist=176	.	.	1.44	2.02195	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	

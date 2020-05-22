@@ -1,0 +1,4 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	186	186	C	T	upstream	ORF1a	dist=80	.	.	1.6	3.21217	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23520	23520	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C1958T:p.A653V	1.65	3.2572	1	0.52	T	.	.	.	.	Surface glycoprotein_GAEHVNNSYE	.	.	surface glycoprotein_AEHVNNSY	0.11	nCoV-2019_77_RIGHT	.	.	.	.	.	

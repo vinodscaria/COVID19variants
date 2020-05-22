@@ -1,0 +1,19 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	835	835	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	4308	4308	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	4922	4922	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5512	5512	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C5247T:p.N1749N,ORF1a:cds-YP_009725295.1:exon1:c.C5247T:p.N1749N	1.65	0.857874	1	0.47	T	.	Peptidase_C16	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11347	11347	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13757	13757	G	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15018	15018	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1551T:p.A517A	-0.757	0.461921	1	0.36	T	.	.	.	.	.	.	.	orf1ab_SYEDQDALFAY 	-1	.	.	.	.	.	.	
+1	15795	15795	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22572	22572	G	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C1010T:p.P337L	1.65	3.2572	1	0.06	T	disulf_bond	BetaCoV_S1-CTD	.	.	.	.	.	surface glycoprotein_RFPNITNLCPF	0.07	.	.	.	.	.	.	
+1	24450	24450	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T2888G:p.V963G	1.65	2.17468	0.992126	0.00	D	.	.	.	.	Surface glycoprotein_LQDVVNQNAQALNTLVKQLSSNFGAISS	.	.	.	.	nCoV-2019_80_RIGHT	.	.	.	.	.	
+1	28734	28734	T	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A461C:p.N154T	1.65	2.25106	1	0.00	D	.	.	.	.	.	.	.	.	.	.	2019-nCoV_N3-R | SARS-CoV-2_IBS_N1_F	Centers for Disease Control and Prevention (CDC), KRISHGEN BIOSYSTEMS | Korea	.	.	.	
+1	29928	29928	G	A	downstream	N;ORF10	dist=254	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29929	29929	G	A	downstream	N;ORF10	dist=255	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29930	29930	G	C	downstream	N;ORF10	dist=256	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30238	30238	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

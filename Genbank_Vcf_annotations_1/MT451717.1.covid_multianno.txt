@@ -1,0 +1,15 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	7438	7438	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T7173C:p.Y2391Y,ORF1a:cds-YP_009725295.1:exon1:c.T7173C:p.Y2391Y	-3.3	-0.955905	0.929205	0.83	T	.	.	.	.	.	orf1ab polyprotein_VRMYIFFASFYYVWK	14	orf1ab_FFASFYYVW 	-1	.	.	.	.	.	.	
+1	14408	14408	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C941T:p.P314L	1.65	3.30748	1	0.31	T	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	
+1	22053	22053	A	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23329	23329	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23347	23347	A	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23602	23602	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T2040G:p.S680S	.	-0.016189	0.015748	1.00	T	.	.	.	.	Surface glycoprotein_SYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIA	.	.	surface glycoprotein_SPRRARSVA	0.08	.	.	.	.	.	.	
+1	25499	25499	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27063	27063	A	G	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.T541G:p.L181V	-0.763	0.374803	1	0.41	T	.	Intravirion	.	.	Membrane glycoprotein_ITVATSRTLSYYKLGASQRVAGDSGFAA	membrane glycoprotein_LSYYKLGASQRVAGD	12	.	.	.	.	.	.	.	.	
+1	29435	29435	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29532	29532	G	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29585	29585	C	T	exonic	ORF10	.	nonsynonymous SNV	ORF10:cds-YP_009725255.1:exon1:c.C28T:p.P10S	1.6	3.25353	1	.	.	.	.	.	.	.	ORF10 protein_MGYINVFAFPFTIYS	9.1	ORF10 protein_GYINVFAFPF	0.09	.	.	.	.	.	.	

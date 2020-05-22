@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1271	1271	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T1006T:p.F336F,ORF1a:cds-YP_009725295.1:exon1:c.T1006T:p.F336F	1.65	2.20517	0.496063	0.60	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3358	3358	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T3093T:p.Y1031Y,ORF1a:cds-YP_009725295.1:exon1:c.T3093T:p.Y1031Y	-2.21	0.0325905	0.992126	1.00	T	.	Macro	.	.	.	orf1ab polyprotein_NSFSGYLKLTDNVYI	14	orf1ab_IEVNSFSGY 	-1	.	.	.	.	.	.	
+1	7881	7881	G	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A7616A:p.N2539N,ORF1a:cds-YP_009725295.1:exon1:c.A7616A:p.N2539N	1.65	2.23849	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14842	14842	C	T	exonic	ORF1b	.	stopgain	ORF1b:cds-YP_009724389.1:exon1:c.C1375T:p.Q459X	1.65	3.30748	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	21697	21697	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.C135T:p.S45S	-3.3	-8.13556	0	0.52	T	disulf_bond	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_KVFRSSVLH	0.14	.	.	.	.	.	.	
+1	23934	23934	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C2372G:p.T791R	1.65	3.27011	0.952756	0.23	T	.	.	.	.	.	.	.	surface glycoprotein_KQIYKTPPIK	0.04	.	.	.	.	.	.	
+1	26130	26130	G	T	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.T738T:p.I246I	0.457	0.332142	1	1.00	T	.	.	.	.	.	.	.	ORF3a protein_EEHVQIHTI	-1	.	.	.	.	.	.	
+1	27342	27342	G	T	exonic	ORF6	.	synonymous SNV	ORF6:cds-YP_009724394.1:exon1:c.T141T:p.N47N	-3.09	-0.272063	0.251969	0.45	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30497	30497	A	T	downstream	N;ORF10	dist=823	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

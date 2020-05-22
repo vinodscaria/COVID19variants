@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1059	1059	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C794T:p.T265I,ORF1a:cds-YP_009725295.1:exon1:c.C794T:p.T265I	1.65	3.30383	0.992126	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	14408	14408	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C941T:p.P314L	1.65	3.30748	1	0.31	T	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	
+1	23004	23004	T	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23543	23543	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G1981G:p.E661E	0.732	2.63294	1	1.00	T	.	.	.	.	Surface glycoprotein_GAEHVNNSYE	.	.	.	.	.	.	.	.	.	.	
+1	25703	25703	G	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.C311T:p.P104L	0.597	0.612417	0.732283	0.23	T	.	.	.	Transmembrane	.	.	.	ORF3a protein_GLEAPFLYLY	-1	.	.	.	.	.	.	
+1	27099	27099	G	A	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.T577A:p.F193I	1.65	2.20759	1	0.25	T	.	Intravirion	.	.	Membrane glycoprotein_ITVATSRTLSYYKLGASQRVAGDSGFAA	.	.	membrane glycoprotein_ASQRVAGDSGFAAY	0.05	.	.	.	.	.	.	
+1	28104	28104	C	T	exonic	ORF8	.	nonsynonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.A211T:p.I71F	0.204	-0.150102	0	0.00	D	.	.	.	.	.	.	.	.	.	nCoV-2019_93_LEFT	.	.	.	.	.	
+1	29428	29428	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

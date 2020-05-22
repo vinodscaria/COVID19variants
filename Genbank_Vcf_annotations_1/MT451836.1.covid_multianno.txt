@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	2489	2489	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	7438	7438	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T7173C:p.Y2391Y,ORF1a:cds-YP_009725295.1:exon1:c.T7173C:p.Y2391Y	-3.3	-0.955905	0.929205	0.83	T	.	.	.	.	.	orf1ab polyprotein_VRMYIFFASFYYVWK	14	orf1ab_FFASFYYVW 	-1	.	.	.	.	.	.	
+1	14648	14648	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1181T:p.N394I	1.65	2.24737	1	0.01	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15406	15406	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G1939C:p.A647P	1.65	4.256	1	0.06	T	.	RdRp_catalytic	.	.	.	.	.	orf1ab_SLSHRFYRL 	0.06	.	.	.	.	.	.	
+1	23998	23998	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.A2436G:p.P812P	-3.3	-0.454362	0.417323	0.56	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27459	27459	A	G	exonic	ORF7a	.	synonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.G66G:p.E22E	1.65	4.256	1	1.00	T	disulf_bond	X4e	.	.	.	.	.	ORF7a protein_QECVRGTTVL	0.19	nCoV-2019_91_LEFT	.	.	.	.	.	
+1	29629	29629	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30208	30208	C	T	downstream	N;ORF10	dist=534	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

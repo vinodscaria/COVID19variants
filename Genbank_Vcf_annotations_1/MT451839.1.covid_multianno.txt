@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	4540	4540	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C4275T:p.Y1425Y,ORF1a:cds-YP_009725295.1:exon1:c.C4275T:p.Y1425Y	-3.3	-0.133307	0.992126	0.36	T	.	.	.	.	.	orf1ab polyprotein_RFYFYTSKTTVASLI	18	.	.	.	.	.	.	.	.	
+1	8835	8835	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8570T:p.V2857V,ORF1a:cds-YP_009725295.1:exon1:c.T8570T:p.V2857V	1.65	2.19521	1	1.00	T	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9530	9530	T	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T9265A:p.F3089I,ORF1a:cds-YP_009725295.1:exon1:c.T9265A:p.F3089I	1.65	2.17336	1	0.34	T	.	.	.	Transmembrane	.	orf1ab polyprotein_NTLLFLMSFTVLCLT	17	.	.	.	.	.	.	.	.	
+1	15096	15096	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1629T:p.N543N	1.65	2.19157	1	1.00	T	.	.	.	.	.	orf1ab polyprotein_ITQMNLKYAISAKNR	15	orf1ab_SAKNRARTV 	0.02	.	SARS-CoV-2_IBS_RdRP2_F	Korea	.	.	.	
+1	27479	27479	G	T	exonic	ORF7a	.	synonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.T86T:p.V29V	1.65	2.20759	1	1.00	T	disulf_bond	X4e	.	.	.	.	.	ORF7a protein_QECVRGTTVL	0.19	.	.	.	.	.	.	
+1	29644	29644	T	C	exonic	ORF10	.	nonsynonymous SNV	ORF10:cds-YP_009725255.1:exon1:c.A87C:p.Q29H	1.6	2.25106	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29811	29811	C	T	downstream	N;ORF10	dist=137	.	.	1.52	2.05405	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	30157	30157	C	T	downstream	N;ORF10	dist=483	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30363	30363	C	T	downstream	N;ORF10	dist=689	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

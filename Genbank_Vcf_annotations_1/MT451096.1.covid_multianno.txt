@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6806	6806	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11083	11083	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G10818T:p.L3606F,ORF1a:cds-YP_009725295.1:exon1:c.G10818T:p.L3606F	-3.3	-1.32286	0.92126	0.01	D	.	.	.	Transmembrane	.	orf1ab polyprotein_SLFFFLYENAFLPFA	18	orf1ab_FLYENAFLPFAM 	-1	.	.	.	.	homoplasic position	.	
+1	14805	14805	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C1338T:p.Y446Y	-2.03	0.629307	1	1.00	T	.	.	.	.	.	.	.	orf1ab_NAAISDYDY 	0.07	.	.	.	.	.	.	
+1	23211	23211	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24458	24458	G	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C2896T:p.L966F	1.65	3.27011	0.984252	0.00	D	.	.	.	.	Surface glycoprotein_LQDVVNQNAQALNTLVKQLSSNFGAISS	.	.	.	.	nCoV-2019_80_RIGHT	.	.	.	.	.	
+1	25405	25405	G	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.A13T:p.M5L	0.461	0.952425	1	0.00	D	.	.	.	.	.	ORF3a protein_MDLFMRIFTIGTVTL	16	.	.	.	.	.	.	.	.	
+1	26366	26366	G	T	exonic	E	.	nonsynonymous SNV	E:cds-YP_009724392.1:exon1:c.C122T:p.A41V	1.65	3.32175	1	0.81	T	.	Intravirion	.	.	.	envelope protein_LAILTALRLCAYCCN	15	.	.	.	SARS-CoV-2_IBS_E2_R	Korea	.	.	.	
+1	28965	28965	T	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A692C:p.E231A	1.65	2.25106	1	0.33	T	.	.	.	.	.	nucleocapsid phosphoprotein_LLLLDRLNQLESKMS	9.5	.	.	.	N gene Reverse	GenScript	.	.	.	
+1	29103	29103	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G830A:p.R277H	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29914	29914	G	T	downstream	N;ORF10	dist=240	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

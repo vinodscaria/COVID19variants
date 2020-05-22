@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	578	578	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G313A:p.G105S,ORF1a:cds-YP_009725295.1:exon1:c.G313A:p.G105S	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	orf1ab_TLGVLVPHV 	0.1	.	.	.	.	.	.	
+1	5446	5446	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T5181C:p.D1727D,ORF1a:cds-YP_009725295.1:exon1:c.T5181C:p.D1727D	0.446	0.924504	1	1.00	T	.	Peptidase_C16	.	.	.	.	.	orf1ab_GELGDVRETMSY 	-1	.	.	.	.	.	.	
+1	8782	8782	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8517T:p.S2839S,ORF1a:cds-YP_009725295.1:exon1:c.C8517T:p.S2839S	-1.35	0.271811	1	0.67	T	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17747	17747	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17858	17858	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4391G:p.Y1464C	1.65	2.24049	1	0.00	D	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	orf1ab_TVDSSQGSEY 	0.02	.	.	.	.	.	.	
+1	18060	18060	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C4593T:p.L1531L	-3.3	-1.2479	0.836795	1.00	T	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	orf1ab_AENVTGLF 	0.14	nCoV-2019_59_RIGHT	.	.	.	.	.	
+1	24961	24961	A	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.C3399T:p.V1133V	-3.3	-0.432945	0.96063	1.00	T	.	.	glyco	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28411	28411	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C138C:p.P46P	0.68	1.61234	1	1.00	T	.	9b	.	.	.	.	.	nucleocapsid phosphoprotein_LPNNTASWF	0.09	nCoV-2019_94_LEFT	.	.	.	.	.	
+1	30092	30092	G	A	downstream	N;ORF10	dist=418	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

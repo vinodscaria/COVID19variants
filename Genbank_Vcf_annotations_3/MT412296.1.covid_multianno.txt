@@ -1,0 +1,14 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	36	36	C	T	upstream	ORF1a	dist=230	.	.	1.38	2.76482	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	1469	1469	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C1204T:p.R402C,ORF1a:cds-YP_009725295.1:exon1:c.C1204T:p.R402C	0.509	0.300819	1	0.01	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6616	6616	A	G	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A6351G:p.L2117L,ORF1a:cds-YP_009725295.1:exon1:c.A6351G:p.L2117L	-2.02	0.525055	0.952756	1.00	T	.	.	.	.	.	orf1ab polyprotein_NELSRVLGLKTLATH	19	orf1ab_KKPNELSRVL 	0.06	.	.	.	.	.	.	
+1	11083	11083	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G10818T:p.L3606F,ORF1a:cds-YP_009725295.1:exon1:c.G10818T:p.L3606F	-3.3	-1.32286	0.92126	0.01	D	.	.	.	Transmembrane	.	orf1ab polyprotein_SLFFFLYENAFLPFA	18	orf1ab_FLYENAFLPFAM 	-1	.	.	.	.	homoplasic position	.	
+1	14805	14805	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C1338T:p.Y446Y	-2.03	0.629307	1	1.00	T	.	.	.	.	.	.	.	orf1ab_NAAISDYDY 	0.07	.	.	.	.	.	.	
+1	17247	17247	T	C	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T3780C:p.R1260R	0.412	0.929323	1	0.85	T	.	+)RNA_virus_helicase_ATP_binding	.	.	.	.	.	orf1ab_IPARARVECF 	0.12	.	.	.	.	.	.	
+1	26144	26144	G	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.G752T:p.G251V	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	29254	29254	G	T	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.G981T:p.S327S	0.646	2.25106	1	0.66	T	.	.	.	.	.	nucleocapsid phosphoprotein_PSGTWLTYTGAIKLD	17	nucleocapsid phosphoprotein_SRIGMEVTPSGTW	0.08	.	HKU_N_Reverse	HongKong University	.	.	.	
+1	29864	29864	G	A	downstream	N;ORF10	dist=190	.	.	-0.601	1.98986	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29867	29867	T	A	downstream	N;ORF10	dist=193	.	.	0.0781	0.866551	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29868	29868	G	A	downstream	N;ORF10	dist=194	.	.	1.44	2.08614	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29870	29870	C	A	downstream	N;ORF10	dist=196	.	.	1.44	2.95269	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	

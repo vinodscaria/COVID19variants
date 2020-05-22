@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	2507	2507	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2242T:p.P748S,ORF1a:cds-YP_009725295.1:exon1:c.C2242T:p.P748S	0.712	1.45682	0.968504	0.45	T	.	.	.	.	.	.	.	orf1ab_GETLPTEVL 	0.01	nCoV-2019_9_LEFT_alt4	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	3373	3373	C	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C3108A:p.D1036E,ORF1a:cds-YP_009725295.1:exon1:c.C3108A:p.D1036E	-0.209	1.14037	1	0.77	T	.	Macro	.	.	.	orf1ab polyprotein_NSFSGYLKLTDNVYI	14	orf1ab_YLKLTDNVYIK 	-1	.	.	.	.	.	.	
+1	14559	14559	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G1092T:p.V364V	0.695	2.52635	1	0.29	T	.	.	.	.	.	orf1ab polyprotein_KELLVYAADPAMHAA	17	.	.	nCoV-2019_49_LEFT	.	.	.	.	.	
+1	29476	29476	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.T1203A:p.D401E	1.65	2.13967	1	0.37	T	.	.	.	.	.	.	.	nucleocapsid phosphoprotein_LPAADLDDF	0.06	.	.	.	.	.	.	
+1	29477	29477	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G1204A:p.D402N	1.65	4.256	1	0.65	T	.	.	.	.	.	.	.	nucleocapsid phosphoprotein_LPAADLDDF	0.06	.	.	.	.	.	.	
+1	29478	29478	G	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A1205C:p.D402A	1.65	2.25106	1	0.45	T	.	.	.	.	.	.	.	nucleocapsid phosphoprotein_LPAADLDDF	0.06	.	.	.	.	.	.	

@@ -1,0 +1,18 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	2555	2555	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	13166	13166	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C12901A:p.H4301N,ORF1a:cds-YP_009725295.1:exon1:c.C12901A:p.H4301N	1.65	3.31557	1	0.12	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15546	15546	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C2079T:p.A693A	-3.3	-0.805717	0.945323	1.00	T	.	RdRp_catalytic	.	.	.	.	.	.	.	nCoV-2019_51_RIGHT	SARS-CoV-2_IBS_RdRP1_R	Korea	.	.	.	
+1	20308	20308	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T6841T:p.Y2281Y	1.65	2.20015	1	1.00	T	.	.	.	.	.	.	.	orf1ab_RYKLEGYAF 	-1	.	.	.	.	.	.	
+1	20647	20647	G	A	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C7180A:p.P2394T	1.65	3.34955	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22758	22758	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23898	23898	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24877	24877	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.A3315G:p.T1105T	-2.27	-0.00667717	0.992126	1.00	T	disulf_bond	.	.	.	.	.	.	surface glycoprotein_GTHWFVTQR	0.09	.	.	.	.	.	.	
+1	26407	26407	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26480	26480	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30447	30447	C	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30612	30612	G	A	downstream	ORF10	dist=938	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30613	30613	G	A	downstream	ORF10	dist=939	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30614	30614	G	C	downstream	ORF10	dist=940	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

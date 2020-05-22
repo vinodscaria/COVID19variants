@@ -1,0 +1,25 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	203	203	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	635	635	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	683	683	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3096	3096	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	4058	4058	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5000	5000	C	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C4735A:p.L1579I,ORF1a:cds-YP_009725295.1:exon1:c.C4735A:p.L1579I	0.756	1.89878	1	0.06	T	.	.	.	.	.	.	.	.	.	nCoV-2019_16_RIGHT	.	.	.	.	.	
+1	9676	9676	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9723	9723	T	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T9458A:p.F3153Y,ORF1a:cds-YP_009725295.1:exon1:c.T9458A:p.F3153Y	-2.78	0.280055	0.882008	0.04	D	.	.	.	.	.	orf1ab polyprotein_TIAYIICISTKHFYW	8.2	.	.	.	.	.	.	.	.	
+1	10402	10402	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13987	13987	T	A	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C520A:p.R174S	1.65	3.31844	1	0.37	T	.	.	.	.	.	orf1ab polyprotein_PDILRVYANLGERVR	15	.	.	.	.	.	.	.	.	
+1	14282	14282	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15266	15266	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1799T:p.V600V	1.65	2.19157	1	1.00	T	.	.	.	.	.	.	.	orf1ab_TVYSDVENPHLMGW 	0.14	.	.	.	.	.	.	
+1	18575	18575	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20423	20423	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25109	25109	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27132	27132	G	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.T610T:p.Y204Y	1.65	2.20759	0.944882	1.00	T	.	Intravirion	.	.	Membrane glycoprotein_NYKLNTDHSSSSDNIA	.	.	.	.	.	.	.	.	.	.	
+1	27381	27381	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27679	27679	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28888	28888	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29297	29297	T	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A1024C:p.K342Q	1.65	2.25106	1	0.21	T	.	.	.	.	.	.	.	.	.	nCoV-2019_97_LEFT	.	.	.	.	.	
+1	29406	29406	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29810	29810	C	T	downstream	N;ORF10	dist=136	.	.	1.52	3.94762	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	30016	30016	C	T	downstream	N;ORF10	dist=342	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

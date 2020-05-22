@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1355	1355	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G1090T:p.A364S,ORF1a:cds-YP_009725295.1:exon1:c.G1090T:p.A364S	1.65	4.256	1	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3629	3629	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G3364T:p.V1122F,ORF1a:cds-YP_009725295.1:exon1:c.G3364T:p.V1122F	-1.4	0.240299	0.992126	0.36	T	.	Macro	.	.	.	.	.	orf1ab_HVVGPNVNK 	-1	.	.	.	.	.	.	
+1	5354	5354	T	C	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G5089C:p.D1697H,ORF1a:cds-YP_009725295.1:exon1:c.G5089C:p.D1697H	1.65	4.256	1	0.11	T	.	Peptidase_C16	.	.	.	.	.	orf1ab_NPPALQDAY 	0.05	.	.	.	.	.	.	
+1	10914	10914	A	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T10649T:p.L3550L,ORF1a:cds-YP_009725295.1:exon1:c.T10649T:p.L3550L	1.65	2.21226	0.992126	1.00	T	.	Peptidase_C30	.	.	.	.	.	orf1ab_ALLEDEFTPFDV 	0.15	.	.	.	.	.	.	
+1	12893	12893	C	T	exonic	ORF1a	.	stopgain	ORF1a:cds-YP_009724389.1:exon1:c.G12628T:p.E4210X,ORF1a:cds-YP_009725295.1:exon1:c.G12628T:p.E4210X	1.65	4.256	1	.	.	.	.	.	.	.	.	.	orf1ab_TELEPPCRF 	-1	.	.	.	.	.	.	
+1	16842	16842	G	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A3375C:p.K1125N	-3.3	-2.17054	0.426346	0.00	D	.	.	.	.	.	.	.	orf1ab_GEYTFEKGDY 	-1	.	.	.	.	.	.	
+1	16982	16982	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T3515T:p.I1172I	1.65	2.21463	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26983	26983	A	G	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.A461G:p.H154R	1.65	2.20759	1	0.34	T	.	Intravirion	.	.	.	.	.	membrane glycoprotein_HLRIAGHHL	0.14	.	.	.	.	.	.	
+1	28562	28562	T	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G289C:p.G97R	1.65	4.256	1	0.10	T	.	9b	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	31835	31835	C	T	intergenic	ORF10;NONE	dist=2161;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

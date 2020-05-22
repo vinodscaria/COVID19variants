@@ -1,8 +1,0 @@
-Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
-1	34	34	A	H	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	35	35	A	T	upstream	ORF1a	dist=231	.	.	1.38	1.87011	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	36	36	C	T	upstream	ORF1a	dist=230	.	.	1.38	2.76482	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	37	37	C	A	upstream	ORF1a	dist=229	.	.	-0.606	0.751724	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	1440	1440	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G1175A:p.G392D,ORF1a:cds-YP_009725295.1:exon1:c.G1175A:p.G392D	-0.619	0.374063	0.968504	0.73	T	.	.	.	.	.	.	.	orf1ab_AEYHNESGL 	0.04	.	.	.	
-1	2891	2891	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G2626A:p.A876T,ORF1a:cds-YP_009725295.1:exon1:c.G2626A:p.A876T	0.695	2.51597	0.992126	0.28	T	.	.	.	.	.	.	.	.	.	nCoV-2019_9_RIGHT_alt2	.	.	
-1	28854	28854	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C581T:p.S194L	1.65	3.25353	1	.	.	.	.	.	.	Nucleocapsid phosphoprotein_RGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGG	.	.	.	.	.	SARS-CoV-2_IBS_N2_R	Korea	

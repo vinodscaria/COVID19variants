@@ -1,0 +1,9 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	36	36	C	T	upstream	ORF1a	dist=230	.	.	1.38	2.76482	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1059	1059	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C794T:p.T265I,ORF1a:cds-YP_009725295.1:exon1:c.C794T:p.T265I	1.65	3.30383	0.992126	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	3095	3095	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T2830T:p.S944S,ORF1a:cds-YP_009725295.1:exon1:c.T2830T:p.S944S	-3.3	0.58648	0.992126	0.75	T	.	.	.	.	.	.	.	orf1ab_GDCEEEEFEPSTQY 	-1	.	.	.	.	.	.	
+1	14881	14881	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G1414T:p.D472Y	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	orf1ab_VVDKYFDCY 	0.02	nCoV-2019_50_LEFT	.	.	.	.	.	
+1	24711	24711	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T3149G:p.M1050R	1.65	2.12466	0.992126	0.01	D	.	.	.	.	.	.	.	surface glycoprotein_HLMSFPQSA	0.16	nCoV-2019_82_LEFT	.	.	.	.	.	
+1	26871	26871	G	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.A349T:p.N117Y	1.65	2.20759	1	0.00	D	.	Intravirion	.	.	Membrane glycoprotein_RTRSMWSFNPETN	.	.	.	.	.	.	.	.	.	.	

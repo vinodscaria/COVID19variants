@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	4	4	A	T	upstream	ORF1a	dist=262	.	.	-0.0765	-0.51578	0.944882	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	244	244	C	T	upstream	ORF1a	dist=22	.	.	1.65	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1062	1062	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T797T:p.F266F,ORF1a:cds-YP_009725295.1:exon1:c.T797T:p.F266F	1.65	2.20517	0.929134	0.72	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3040	3040	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2775T:p.Y925Y,ORF1a:cds-YP_009725295.1:exon1:c.C2775T:p.Y925Y	-3.3	-1.94759	0.015748	0.54	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11919	11919	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C11654T:p.S3885F,ORF1a:cds-YP_009725295.1:exon1:c.C11654T:p.S3885F	1.65	3.29452	1	0.00	D	.	.	.	.	.	orf1ab polyprotein_VLLSVLQQLRVESSS	20	.	.	.	.	.	.	.	.	
+1	14411	14411	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C944T:p.T315I	1.65	3.30748	1	0.00	D	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	
+1	19001	19001	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T5534T:p.L1845L	1.65	2.21939	1	1.00	T	.	.	.	.	.	orf1ab polyprotein_KVQHMVVKAALLADK	16	orf1ab_HMVVKAAL 	0.09	.	.	.	.	.	.	
+1	23406	23406	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T1844G:p.V615G	1.65	2.13354	0.913386	0.00	D	.	.	.	.	Surface glycoprotein_FGGVSVITPGTNTSNQVAVLYQDVNCTEV	.	.	.	.	.	.	.	.	.	.	
+1	25566	25566	G	T	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.C174T:p.S58S	0.761	1.80496	1	1.00	T	.	.	.	.	.	ORF3a protein_ALLAVFQSASKIITL	11	ORF3a protein_SASKIITLK	-1	.	.	.	.	.	.	
+1	29543	29543	G	A	upstream;downstream	ORF10;N	dist=15;dist=10	.	.	1.65	4.256	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

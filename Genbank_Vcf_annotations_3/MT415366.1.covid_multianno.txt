@@ -1,0 +1,14 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22454	22454	G	A	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G892A:p.E298K	1.65	4.256	0.496063	0.02	D	disulf_bond	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_SETKCTLKSF	-1	.	.	.	.	.	.	
+1	22462	22462	G	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G900T:p.K300N	-3.3	-0.981669	0.0866142	0.06	T	disulf_bond	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_SETKCTLKSF	-1	.	.	.	.	.	.	
+1	22465	22465	T	C	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T903C:p.C301C	-3.3	-0.981669	0	1.00	T	disulf_bond	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_SETKCTLKSF	-1	.	.	.	.	.	.	
+1	22466	22466	A	C	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A904C:p.T302P	-0.719	-0.981669	0	0.11	T	.	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_SETKCTLKSF	-1	.	.	.	.	.	.	
+1	22467	22467	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C905T:p.T302M	1.65	3.23402	0.023622	0.04	D	.	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_SETKCTLKSF	-1	.	.	.	.	.	.	
+1	22468	22468	G	A	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G906A:p.T302T	-3.3	-8.13556	0	1.00	T	.	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_SETKCTLKSF	-1	.	.	.	.	.	.	
+1	23816	23816	C	A	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C2254A:p.L752I	-3.3	-0.454362	0	0.25	T	disulf_bond	.	.	.	Surface glycoprotein_YICGDSTECSNLLLQ	.	.	.	.	.	.	.	.	.	.	
+1	23817	23817	T	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T2255G:p.L752R	1.65	2.17468	0	0.02	D	disulf_bond	.	.	.	Surface glycoprotein_YICGDSTECSNLLLQ	.	.	.	.	.	.	.	.	.	.	
+1	23818	23818	T	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T2256G:p.L752L	-3.24	-1.33071	0	1.00	T	disulf_bond	.	.	.	Surface glycoprotein_YICGDSTECSNLLLQ	.	.	.	.	.	.	.	.	.	.	
+1	23824	23824	G	A	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G2262A:p.L754L	-3.3	-2.53569	0	0.80	T	disulf_bond	.	.	.	Surface glycoprotein_YICGDSTECSNLLLQ	.	.	.	.	nCoV-2019_78_RIGHT	.	.	.	.	.	
+1	23980	23980	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.A2418G:p.L806L	-2.56	-0.563906	0.88189	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23996	23996	C	A	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C2434A:p.P812T	1.65	3.27011	0.992126	0.63	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	8922	8922	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8657C:p.P2886P,ORF1a:cds-YP_009725295.1:exon1:c.C8657C:p.P2886P	1.65	3.2943	1	0.35	T	.	Lumenal	.	.	.	.	.	orf1ab_FLPRVFSAV 	0.1	.	.	.	.	.	.	
+1	8924	8924	T	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A8659A:p.R2887R,ORF1a:cds-YP_009725295.1:exon1:c.A8659A:p.R2887R	-0.39	0.340504	1	0.73	T	.	Lumenal	.	.	.	.	.	orf1ab_FLPRVFSAV 	0.1	.	.	.	.	.	.	
+1	8925	8925	T	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G8660A:p.R2887K,ORF1a:cds-YP_009725295.1:exon1:c.G8660A:p.R2887K	1.65	4.256	1	0.28	T	.	Lumenal	.	.	.	.	.	orf1ab_FLPRVFSAV 	0.1	.	.	.	.	.	.	
+1	14631	14631	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1164T:p.S388S	-3.3	-0.207622	0.992646	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	21415	21415	T	A	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7948A:p.K2650K	1.65	2.24167	0.330709	1.00	T	.	.	.	.	.	.	.	orf1ab_SLFDMSKFPLKL 	0.16	.	.	.	.	.	.	
+1	21420	21420	G	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7953T:p.L2651F	-0.746	0.529488	0.897638	0.12	T	.	.	.	.	.	.	.	orf1ab_SLFDMSKFPLKL 	0.16	.	.	.	.	.	.	
+1	24222	24222	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C2660G:p.T887S	1.65	3.27011	0.984252	0.47	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29654	29654	G	T	exonic	ORF10	.	nonsynonymous SNV	ORF10:cds-YP_009725255.1:exon1:c.G97T:p.V33F	1.6	4.14461	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

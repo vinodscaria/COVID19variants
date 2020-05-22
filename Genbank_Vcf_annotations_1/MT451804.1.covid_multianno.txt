@@ -1,0 +1,21 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	2416	2416	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2151T:p.Y717Y,ORF1a:cds-YP_009725295.1:exon1:c.C2151T:p.Y717Y	-3.3	0.0194016	0.992126	1.00	T	.	.	.	.	.	orf1ab polyprotein_GETFVTHSKGLYRKC	19	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	4510	4510	G	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G4245T:p.V1415V,ORF1a:cds-YP_009725295.1:exon1:c.G4245T:p.V1415V	-3.3	-4.19748	0	1.00	T	.	.	.	.	.	.	.	orf1ab_QEGVVDYGARF 	-1	.	.	.	.	.	.	
+1	7765	7765	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C7500T:p.S2500S,ORF1a:cds-YP_009725295.1:exon1:c.C7500T:p.S2500S	-3.3	-3.72998	0.001	0.46	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8421	8421	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14408	14408	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C941T:p.P314L	1.65	3.30748	1	0.31	T	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	
+1	19273	19273	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	19845	19845	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20851	20851	G	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7384T:p.M2462L	1.65	2.24167	1	0.01	D	.	.	.	.	.	orf1ab polyprotein_YLNTLTLAVPYNMRV	20	orf1ab_VPYNMRVIHF 	-1	.	.	.	.	.	.	
+1	21418	21418	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22508	22508	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23576	23576	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23762	23762	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24104	24104	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G2542G:p.D848D	1.65	4.256	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26264	26264	G	T	exonic	E	.	nonsynonymous SNV	E:cds-YP_009724392.1:exon1:c.A20T:p.E7V	1.65	2.29407	1	0.00	D	.	Virion_surface	.	.	.	envelope protein_SEETGTLIVNSVLLF	14	.	.	.	SARS-CoV-2_IBS_E1_F | SARS-CoV-2_IBS_E2_F	Korea | Korea	.	.	.	
+1	28371	28371	G	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G98T:p.S33I	-3.3	-0.443843	0.937008	0.05	D	.	9b	.	.	.	.	.	.	.	.	WH-NIC N-Reverse	Thailand	.	.	.	
+1	29729	29729	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29735	29735	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

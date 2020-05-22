@@ -1,0 +1,30 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	143	143	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1166	1166	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	4823	4823	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5115	5115	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C4850T:p.T1617I,ORF1a:cds-YP_009725295.1:exon1:c.C4850T:p.T1617I	1.65	3.2806	0.992126	0.06	T	.	.	.	.	.	.	.	orf1ab_HEGKTFYVL 	0.03	.	.	.	.	.	.	
+1	6511	6511	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6982	6982	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9438	9438	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	10371	10371	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	12623	12623	C	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14774	14774	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1307T:p.D436V	1.65	2.24737	1	0.01	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15318	15318	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15874	15874	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17491	17491	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C4024T:p.P1342S	1.65	3.32576	1	0.00	D	.	+)RNA_virus_helicase_ATP_binding	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24659	24659	C	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24728	24728	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G3166G:p.A1056A	1.65	4.256	0.850394	1.00	T	.	.	.	.	.	.	.	surface glycoprotein_HLMSFPQSA	0.16	.	.	.	.	.	.	
+1	25869	25869	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26314	26314	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26344	26344	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26603	26603	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27826	27826	G	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29137	29137	C	T	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C864T:p.D288D	0.776	1.9169	1	1.00	T	.	.	.	.	.	.	.	nucleocapsid phosphoprotein_QELIRQGTDYKHW	0.11	.	NIID_N2_F	National Institute of Infectious Disease (NIID); Yamanashi Central Hospital (YCH )	.	.	.	
+1	29202	29202	G	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G929T:p.S310I	1.65	4.256	1	0.00	D	.	.	.	.	.	nucleocapsid phosphoprotein_WPQIAQFAPSASAFF	11	.	.	.	.	.	.	.	.	
+1	30206	30206	G	A	downstream	N;ORF10	dist=532	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30207	30207	G	A	downstream	N;ORF10	dist=533	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30208	30208	G	C	downstream	N;ORF10	dist=534	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30360	30360	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	2340	2340	C	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2075A:p.S692Y,ORF1a:cds-YP_009725295.1:exon1:c.C2075A:p.S692Y	0.509	0.322016	0.133858	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	4933	4933	T	G	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T4668G:p.L1556L,ORF1a:cds-YP_009725295.1:exon1:c.T4668G:p.L1556L	-3.3	-1.35256	0.212598	1.00	T	.	.	.	.	.	orf1ab polyprotein_LKTLLSLREVRTIKV	9.2	orf1ab_GEVITFDNL 	0.03	.	.	.	.	.	.	
+1	6199	6199	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	16828	16828	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25692	25692	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26522	26522	C	T	upstream;downstream	M;ORF6;ORF7a;E;ORF3a	dist=1;dist=50	.	.	-1.86	0.986118	0.929134	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27915	27915	C	T	exonic	ORF8	.	stopgain	ORF8:cds-YP_009724396.1:exon1:c.G22T:p.G8X	-2.67	1.71025	0.992126	.	.	.	.	.	.	.	ORF8 protein_FLGIITTVAAFHQEC	17	.	.	.	.	.	.	.	.	
+1	28311	28311	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C38T:p.P13L	1.65	3.27687	1	0.00	D	.	9b	.	.	.	.	.	.	.	.	.	.	.	.	.	

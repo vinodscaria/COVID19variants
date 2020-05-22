@@ -1,0 +1,18 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1368	1368	T	C	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T1103C:p.I368T,ORF1a:cds-YP_009725295.1:exon1:c.T1103C:p.I368T	1.65	2.20517	0.992126	0.39	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3354	3354	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7330	7330	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A7065T:p.A2355A,ORF1a:cds-YP_009725295.1:exon1:c.A7065T:p.A2355A	-2.62	-0.199339	0.992134	1.00	T	.	.	.	Transmembrane	.	orf1ab polyprotein_IMQLFFSYFAVHFIS	18	.	.	nCoV-2019_25_LEFT	.	.	.	.	.	
+1	8103	8103	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15121	15121	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15654	15654	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C2187T:p.D729D	0.475	0.997087	1	1.00	T	.	RdRp_catalytic	.	.	.	.	.	orf1ab_NRDVDTDFVNEFY 	0.06	.	.	.	.	.	.	
+1	18108	18108	G	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4641T:p.A1547A	-0.695	0.457535	1	1.00	T	.	.	.	.	.	.	.	orf1ab_HPTQAPTHL 	-1	.	.	.	.	.	.	
+1	19867	19867	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A6400T:p.T2134S	1.65	2.29805	0.992126	0.34	T	.	.	.	.	.	orf1ab polyprotein_VKILNNLGVDIAANT	16	.	.	.	.	.	.	.	.	
+1	21585	21585	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T23T:p.L8L	-3.25	0.806803	0	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23313	23313	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23315	23315	T	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25293	25293	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T3731T:p.L1244L	-0.81	0.419591	1	1.00	T	.	.	.	.	.	.	.	.	.	nCoV-2019_84_LEFT	.	.	.	.	.	
+1	27785	27785	G	T	exonic	ORF7b	.	synonymous SNV	ORF7b:cds-YP_009725318.1:exon1:c.T30T:p.Y10Y	-0.831	0.339465	1	1.00	T	.	.	.	Transmembrane	.	.	.	.	.	nCoV-2019_92_LEFT	.	.	.	.	.	
+1	29419	29419	T	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29719	29719	C	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29916	29916	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

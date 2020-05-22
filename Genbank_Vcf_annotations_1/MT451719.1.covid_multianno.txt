@@ -1,0 +1,13 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	6457	6457	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7438	7438	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T7173C:p.Y2391Y,ORF1a:cds-YP_009725295.1:exon1:c.T7173C:p.Y2391Y	-3.3	-0.955905	0.929205	0.83	T	.	.	.	.	.	orf1ab polyprotein_VRMYIFFASFYYVWK	14	orf1ab_FFASFYYVW 	-1	.	.	.	.	.	.	
+1	14811	14811	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1344T:p.R448R	1.65	2.19157	1	1.00	T	.	.	.	.	.	.	.	orf1ab_AISDYDYYRY 	0.02	.	.	.	.	.	.	
+1	15569	15569	T	C	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C2102C:p.T701T	1.65	3.28526	1	0.33	T	.	RdRp_catalytic	.	.	.	orf1ab polyprotein_VNALLSTDGNKIADK	17	orf1ab_STDGNKIADKY 	0.01	.	.	.	.	.	.	
+1	21629	21629	T	H	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24253	24253	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.A2691G:p.P897P	-3.3	-1.44025	0.952756	1.00	T	.	.	.	.	.	surface glycoprotein_IPFAMQMAYRFNGIG	6.5	surface glycoprotein_IPFAMQMAY	0.01	.	.	.	.	.	.	
+1	27714	27714	A	G	exonic	ORF7a	.	nonsynonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.A321G:p.I107M	0.482	1.22069	0.992126	0.06	T	.	.	.	Transmembrane	.	ORF7a protein_LYSPIFLIVAAIVFI	11	.	.	.	.	.	.	.	.	
+1	29863	29863	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30478	30478	C	T	downstream	N;ORF10	dist=804	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

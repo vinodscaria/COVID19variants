@@ -1,7 +1,0 @@
-Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
-1	24	24	A	C	upstream	ORF1a	dist=242	.	.	1.38	3.51041	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	8805	8805	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A8540T:p.N2847I,ORF1a:cds-YP_009725295.1:exon1:c.A8540T:p.N2847I	0.53	2.26391	1	0.00	D	.	Lumenal	.	.	.	.	.	.	.	.	.	.	
-1	12557	12557	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A12292T:p.I4098F,ORF1a:cds-YP_009725295.1:exon1:c.A12292T:p.I4098F	1.65	2.2408	1	0.00	D	.	.	.	.	.	.	.	orf1ab_TYASALWEI 	-1	.	.	.	
-1	13095	13095	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C12830T:p.A4277V,ORF1a:cds-YP_009725295.1:exon1:c.C12830T:p.A4277V	1.65	3.31557	1	0.05	D	.	.	.	.	.	orf1ab polyprotein_VLSFCAFAVDAAKAY	12	orf1ab_FAVDAAKAYK 	-1	nCoV-2019_43_RIGHT	.	.	
-1	28167	28167	T	C	exonic	ORF8	.	nonsynonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.G274C:p.E92Q	-2.67	-0.345929	0.00787402	0.33	T	.	.	.	.	.	.	.	.	.	nCoV-2019_92_RIGHT	.	.	
-1	29924	29924	A	T	downstream	N;ORF10	dist=250	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

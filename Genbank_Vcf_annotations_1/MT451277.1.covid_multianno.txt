@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7019	7019	C	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G6754A:p.V2252I,ORF1a:cds-YP_009725295.1:exon1:c.G6754A:p.V2252I	1.65	4.256	0.992126	0.38	T	.	Lumenal	.	.	.	orf1ab polyprotein_GSLIYSTAALGVLMS	19	.	.	.	.	.	.	.	.	
+1	7021	7021	C	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T6756A:p.V2252V,ORF1a:cds-YP_009725295.1:exon1:c.T6756A:p.V2252V	-3.3	-0.860724	0	1.00	T	.	Lumenal	.	.	.	orf1ab polyprotein_GSLIYSTAALGVLMS	19	.	.	.	.	.	.	.	.	
+1	12173	12173	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A11908T:p.N3970Y,ORF1a:cds-YP_009725295.1:exon1:c.A11908T:p.N3970Y	1.65	2.26436	1	0.01	D	.	.	.	.	.	.	.	orf1ab_AVANGDSEVVLK 	0.1	.	.	.	.	.	.	
+1	13775	13775	G	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C308T:p.P103L	1.65	3.31844	1	0.12	T	.	.	.	.	.	.	.	orf1ab_MVPHISRQRL 	-1	.	.	.	.	.	.	
+1	14820	14820	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1353T:p.L451L	-1.41	1.18726	1	0.71	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	16746	16746	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T3279T:p.G1093G	-2.29	0.0220472	1	1.00	T	.	.	.	.	.	.	.	orf1ab_VGKPRPPL 	0.1	.	.	.	.	.	.	
+1	21761	21761	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26414	26414	C	T	exonic	E	.	nonsynonymous SNV	E:cds-YP_009724392.1:exon1:c.A170T:p.Y57F	1.65	2.29407	1	0.06	T	.	Intravirion	.	.	.	envelope protein_LVKPSFYVYSRVKNL	17	envelope protein_SLVKPSFYV	0.04	.	.	.	.	.	.	
+1	30796	30796	C	T	intergenic	ORF10;NONE	dist=1122;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

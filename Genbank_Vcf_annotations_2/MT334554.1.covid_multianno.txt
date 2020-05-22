@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1403	1403	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C1138T:p.P380S,ORF1a:cds-YP_009725295.1:exon1:c.C1138T:p.P380S	1.65	3.30383	1	0.32	T	.	.	.	.	.	.	.	orf1ab_ACHNSEVGPEHSL 	0.15	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	14408	14408	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C941T:p.P314L	1.65	3.30748	1	0.31	T	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	
+1	23671	23671	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T2109G:p.N703K	-3.3	-0.235276	0	0.74	T	.	.	.	.	Surface glycoprotein_SYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIA	.	.	surface glycoprotein_LGAENSVAY	0.07	.	.	.	.	.	.	
+1	25820	25820	G	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.C428T:p.A143V	-0.126	1.17297	0.992126	0.00	D	.	.	.	.	.	ORF3a protein_KNPLLYDANYFLCWH	13	ORF3a protein_NPLLYDANY	0.03	.	.	.	.	.	.	
+1	29187	29187	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C914A:p.A305E	1.65	3.25353	1	0.01	D	.	.	.	.	.	nucleocapsid phosphoprotein_WPQIAQFAPSASAFF	11	.	.	.	.	.	.	.	.	
+1	29188	29188	G	A	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.A915A:p.A305A	0.492	1.02581	1	1.00	T	.	.	.	.	.	nucleocapsid phosphoprotein_WPQIAQFAPSASAFF	11	.	.	.	.	.	.	.	.	
+1	29189	29189	G	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C916C:p.Q306Q	1.65	3.25353	1	0.28	T	.	.	.	.	.	nucleocapsid phosphoprotein_WPQIAQFAPSASAFF	11	.	.	.	.	.	.	.	.	

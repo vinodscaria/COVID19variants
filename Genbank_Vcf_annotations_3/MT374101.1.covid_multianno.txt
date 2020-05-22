@@ -1,0 +1,6 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8782	8782	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8517T:p.S2839S,ORF1a:cds-YP_009725295.1:exon1:c.C8517T:p.S2839S	-1.35	0.271811	1	0.67	T	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	16841	16841	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A3374G:p.K1125R	1.65	2.29024	0.960709	0.19	T	.	.	.	.	.	.	.	orf1ab_GEYTFEKGDY 	-1	.	.	.	.	.	.	
+1	21707	21707	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C145T:p.H49Y	-3.3	-0.853921	0	1.00	T	disulf_bond	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_KVFRSSVLH	0.14	.	.	.	.	.	.	
+1	24213	24213	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C2651T:p.S884F	1.65	3.27011	1	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

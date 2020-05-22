@@ -1,9 +1,0 @@
-Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
-1	12	12	T	C	upstream	ORF1a	dist=254	.	.	-0.0509	0.00613386	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	13	13	A	G	upstream	ORF1a	dist=253	.	.	1.06	0.602606	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	671	671	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T406A:p.Y136N,ORF1a:cds-YP_009725295.1:exon1:c.T406A:p.Y136N	1.65	2.16835	0.976378	0.30	T	.	.	.	.	.	.	.	orf1ab_SYGADLKSF 	-1	.	.	.	
-1	6836	6836	G	T	exonic	ORF1a	.	stopgain	ORF1a:cds-YP_009724389.1:exon1:c.A6571T:p.K2191X,ORF1a:cds-YP_009725295.1:exon1:c.A6571T:p.K2191X	1.65	2.23063	1	.	.	.	.	.	.	.	.	.	orf1ab_NSRIKASM 	0.07	.	.	.	
-1	7013	7013	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T6748C:p.L2250L,ORF1a:cds-YP_009725295.1:exon1:c.T6748C:p.L2250L	-0.825	0.311858	0.992126	0.66	T	.	Lumenal	.	.	.	orf1ab polyprotein_GSLIYSTAALGVLMS	19	.	.	.	.	.	
-1	17390	17390	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G3923T:p.S1308I	1.65	4.256	1	0.00	D	.	+)RNA_virus_helicase_ATP_binding	.	.	.	orf1ab polyprotein_YDLSVVNARLRAKHY	20	.	.	nCoV-2019_58_LEFT	.	.	
-1	29544	29544	G	A	upstream;downstream	ORF10;N	dist=14;dist=11	.	.	1.65	2.25106	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	29918	29918	A	C	downstream	N;ORF10	dist=244	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

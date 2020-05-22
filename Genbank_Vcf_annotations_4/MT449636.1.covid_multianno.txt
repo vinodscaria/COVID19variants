@@ -1,0 +1,8 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	231	231	A	G	upstream	ORF1a	dist=35	.	.	1.6	2.24291	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3421	3421	T	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3156A:p.V1052V,ORF1a:cds-YP_009725295.1:exon1:c.A3156A:p.V1052V	-3.3	-0.452063	0.259843	0.79	T	.	Macro	.	.	.	orf1ab polyprotein_KVKPTVVVNAANVYL	17	.	.	.	.	.	.	.	.	
+1	8386	8386	C	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8121A:p.H2707Q,ORF1a:cds-YP_009725295.1:exon1:c.C8121A:p.H2707Q	0.72	1.92044	1	0.13	T	.	.	.	.	.	orf1ab polyprotein_SHNIALIWNVKDFMS	20	orf1ab_VAKSHNIAL 	-1	.	.	.	.	.	.	
+1	15261	15261	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1794G:p.S598R	1.65	2.19157	1	0.23	T	.	.	.	.	.	.	.	orf1ab_TVYSDVENPHLMGW 	0.14	.	.	.	.	.	.	
+1	20079	20079	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29452	29452	G	T	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.T1179T:p.T393T	-2.57	-0.0880472	0.992126	0.89	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

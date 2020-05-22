@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1655	1655	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5922	5922	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6312	6312	C	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C6047A:p.T2016K,ORF1a:cds-YP_009725295.1:exon1:c.C6047A:p.T2016K	1.61	3.29661	1	0.03	D	.	.	.	.	.	.	.	orf1ab_TKPVETSNSF 	-1	.	.	.	.	.	.	
+1	8626	8626	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13730	13730	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C263T:p.A88V	1.65	3.31844	1	0.00	D	.	.	.	.	.	.	.	orf1ab_LLKDCPAVAK 	0.13	.	.	.	.	.	.	
+1	24354	24354	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T2792T:p.I931I	1.65	2.17468	0.0551181	0.55	T	.	.	.	.	Surface glycoprotein_VLYENQKLIANQFNSAIGKIQDSLSSTASALG	.	.	.	.	.	.	.	.	.	.	
+1	27906	27906	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27935	27935	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28736	28736	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G463T:p.A155S	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	.	.	.	2019-nCoV_N3-R | SARS-CoV-2_IBS_N1_F | SARS-CoV-2_IBS_N2_F	Centers for Disease Control and Prevention (CDC), KRISHGEN BIOSYSTEMS | Korea | Korea	.	.	.	
+1	29222	29222	G	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

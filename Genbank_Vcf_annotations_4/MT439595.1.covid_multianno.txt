@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	3634	3634	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C3369T:p.N1123N,ORF1a:cds-YP_009725295.1:exon1:c.C3369T:p.N1123N	-0.764	0.240299	1	0.40	T	.	Macro	.	.	.	.	.	orf1ab_HVVGPNVNK 	-1	.	.	.	.	.	.	
+1	3742	3742	A	G	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3477G:p.I1159M,ORF1a:cds-YP_009725295.1:exon1:c.A3477G:p.I1159M	-3.3	-0.521299	0.0866142	0.11	T	.	Macro	.	.	.	orf1ab polyprotein_AGIFGADPIHSLRVC	15	.	.	.	.	.	.	.	.	
+1	14644	14644	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1177T:p.T393S	1.65	2.24737	1	0.32	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15854	15854	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T2387G:p.L796R	1.65	2.17584	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17364	17364	G	A	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T3897A:p.I1299I	-3.3	-0.431591	0.984283	0.17	T	.	+)RNA_virus_helicase_ATP_binding	.	.	.	.	.	orf1ab_DEISMATNY 	-1	.	.	.	.	.	.	
+1	23822	23822	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T2260G:p.L754V	-3.16	-0.016189	0	1.00	T	disulf_bond	.	.	.	Surface glycoprotein_YICGDSTECSNLLLQ	.	.	.	.	nCoV-2019_78_RIGHT	.	.	.	.	.	

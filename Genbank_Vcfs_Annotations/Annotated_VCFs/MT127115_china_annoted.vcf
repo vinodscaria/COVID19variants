@@ -1,5 +1,0 @@
-Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
-1	26691	26691	T	G	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.T169G:p.L57V	-0.657	0.0513701	0.96063	0.01	D	.	.	.	Transmembrane	.	.	.	.	.	.	.	.	
-1	26729	26729	T	C	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.T207C:p.A69A	0.431	0.913858	1	1.00	T	.	.	.	Transmembrane	.	membrane glycoprotein_TLACFVLAAVYRINW	11	.	.	.	.	.	
-1	26787	26787	G	C	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.G265C:p.G89R	1.65	4.256	1	0.13	T	.	.	.	Transmembrane	.	.	.	.	.	.	.	.	
-1	27338	27338	A	T	exonic	ORF6	.	nonsynonymous SNV	ORF6:cds-YP_009724394.1:exon1:c.A137T:p.E46V	0.482	1.12948	1	0.04	D	.	.	.	.	.	.	.	.	.	.	.	.	

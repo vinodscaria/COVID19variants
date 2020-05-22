@@ -1,0 +1,18 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1931	1931	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7067	7067	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11205	11205	G	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T10940T:p.V3647V,ORF1a:cds-YP_009725295.1:exon1:c.T10940T:p.V3647V	1.65	2.21226	1	0.95	T	.	.	.	Transmembrane	.	orf1ab polyprotein_LCLFLLPSLATVAYF	18	orf1ab_FLLPSLATVAY 	-1	.	.	.	.	.	.	
+1	13755	13755	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14068	14068	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14079	14079	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14927	14927	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1460T:p.N487I	1.65	2.24737	1	0.01	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17369	17369	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T3902C:p.M1301T	1.65	2.21463	1	0.00	D	.	+)RNA_virus_helicase_ATP_binding	.	.	.	.	.	orf1ab_DEISMATNY 	-1	.	.	.	.	.	.	
+1	17974	17974	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	21267	21267	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22135	22135	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25877	25877	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26676	26676	C	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.A154T:p.I52F	0.695	1.66854	1	0.38	T	.	.	.	Transmembrane	.	membrane glycoprotein_NRNRFLYIIKLIFLW	14	.	.	.	.	.	.	.	.	
+1	26710	26710	G	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.C188T:p.A63V	1.65	3.2857	1	0.22	T	.	.	.	Transmembrane	.	membrane glycoprotein_TLACFVLAAVYRINW	11	.	.	.	.	.	.	.	.	
+1	28688	28688	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.T415A:p.L139M	-2.12	0.134724	0.992126	0.18	T	.	.	.	.	.	.	.	.	.	nCoV-2019_95_LEFT	2019-nCoV_N3-F	Centers for Disease Control and Prevention (CDC); KRISHGEN BIOSYSTEMS	.	.	.	
+1	29259	29259	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

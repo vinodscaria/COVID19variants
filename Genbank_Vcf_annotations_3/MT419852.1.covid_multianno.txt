@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1116	1116	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T851T:p.I284I,ORF1a:cds-YP_009725295.1:exon1:c.T851T:p.I284I	1.65	2.20517	1	0.99	T	.	.	.	.	.	orf1ab polyprotein_PNFVFPLNSIIKTIQ	15	orf1ab_KTIQPRVEKK 	-1	.	.	.	.	.	.	
+1	3136	3136	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T2871T:p.G957G,ORF1a:cds-YP_009725295.1:exon1:c.T2871T:p.G957G	-2.33	0.378772	0.818898	1.00	T	.	.	.	.	.	.	.	orf1ab_DYQGKPLEF 	-1	.	.	.	.	.	.	
+1	12685	12685	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G12420T:p.Q4140H,ORF1a:cds-YP_009725295.1:exon1:c.G12420T:p.Q4140H	1.65	4.256	1	0.00	D	.	.	.	.	.	orf1ab polyprotein_LIVTALRANSAVKLQ	11	.	.	.	.	.	.	.	.	
+1	14021	14021	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A554T:p.D185V	1.65	2.25587	1	0.00	D	.	.	.	.	.	.	.	.	.	.	SARS-CoV-2_IBS_RdRP3_F	Korea	.	.	.	
+1	15306	15306	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1839T:p.C613C	1.65	2.19157	1	1.00	T	.	RdRp_catalytic	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24763	24763	A	G	exonic	S	.	stopgain	S:cds-YP_009724390.1:exon1:c.T3201G:p.Y1067X	-2.82	0.0998898	0.976378	.	.	.	.	.	.	.	surface glycoprotein_VFLHVTYVPAQEKNF	20	surface glycoprotein_VTYVPAQEK	-1	.	.	.	.	.	.	
+1	24964	24964	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.C3402T:p.N1134N	-3.3	-0.539512	0.748031	1.00	T	.	.	glyco	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27121	27121	G	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.G599T:p.R200M	1.65	4.256	1	0.00	D	.	Intravirion	.	.	.	.	.	.	.	.	.	.	.	.	.	

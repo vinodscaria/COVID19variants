@@ -1,9 +1,0 @@
-Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Otherinfo
-1	240	240	G	T	upstream	ORF1a	dist=26	.	.	-0.79	0.378929	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	8803	8803	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8538T:p.T2846T,ORF1a:cds-YP_009725295.1:exon1:c.T8538T:p.T2846T	-3.3	-0.209039	0.858268	0.58	T	.	Lumenal	.	.	.	.	.	.	.	.	.	.	
-1	17768	17768	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T4301T:p.F1434F	1.65	2.16297	0.992228	1.00	T	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	orf1ab_RNPAWRKAVF 	-1	.	.	.	
-1	17879	17879	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4412G:p.Q1471R	1.65	2.24049	1	0.02	D	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	.	.	.	.	.	
-1	18081	18081	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4614T:p.V1538V	-1.39	0.612575	1	0.24	T	.	.	.	.	.	.	.	.	.	.	.	.	
-1	28165	28165	T	C	exonic	ORF8	.	nonsynonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.A272C:p.Q91P	1.33	1.80817	0.937008	0.00	D	.	.	.	.	.	.	.	.	.	nCoV-2019_92_RIGHT	.	.	
-1	29888	29888	T	A	downstream	N;ORF10	dist=214	.	.	0.971	1.47635	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	29889	29889	G	A	downstream	N;ORF10	dist=215	.	.	0.953	1.44425	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

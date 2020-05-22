@@ -1,0 +1,9 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	14665	14665	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1198T:p.T400S	1.65	2.24737	1	0.01	D	.	.	.	.	.	.	.	orf1ab_TVKPGNFNK 	-1	.	.	.	.	.	.	
+1	23896	23896	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.C2334G:p.T778T	-3.3	-3.19294	0	0.36	T	.	.	.	.	Surface glycoprotein_AVEQDKNTQE	.	.	surface glycoprotein_QEVFAQVKQIY	-1	.	.	.	.	.	.	
+1	29374	29374	G	A	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.G1101A:p.E367E	0.646	2.25106	1	1.00	T	.	.	.	.	.	.	.	nucleocapsid phosphoprotein_AYKTFPPTEPK	-1	nCoV-2019_96_RIGHT	.	.	.	.	.	
+1	29375	29375	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C1102A:p.P368T	1.65	3.25353	1	0.41	T	.	.	.	.	.	.	.	nucleocapsid phosphoprotein_AYKTFPPTEPK	-1	nCoV-2019_96_RIGHT	.	.	.	.	.	
+1	29376	29376	G	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C1103C:p.P368P	1.65	3.25353	1	0.92	T	.	.	.	.	.	.	.	nucleocapsid phosphoprotein_AYKTFPPTEPK	-1	nCoV-2019_96_RIGHT	.	.	.	.	.	

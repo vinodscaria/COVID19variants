@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5387	5387	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8814	8814	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8549T:p.A2850V,ORF1a:cds-YP_009725295.1:exon1:c.C8549T:p.A2850V	-1.33	0.615276	0.984252	0.10	T	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9835	9835	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T9570T:p.Y3190Y,ORF1a:cds-YP_009725295.1:exon1:c.T9570T:p.Y3190Y	-1.7	0.280055	1	1.00	T	.	.	.	.	.	orf1ab polyprotein_CTFLLNKEMYLKLRS	16	orf1ab_FLLNKEMYL 	-1	nCoV-2019_32_RIGHT	.	.	.	.	.	
+1	17779	17779	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T4312T:p.Y1438Y	1.65	2.16297	0.976685	1.00	T	.	+)RNA_virus_helicase_C_Terminal	.	.	.	orf1ab polyprotein_ISPYNSQNAVASKIL	17	orf1ab_SPYNSQNAVASKIL 	0.11	.	.	.	.	.	.	
+1	17890	17890	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4423G:p.T1475A	1.65	2.24049	1	0.01	D	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18092	18092	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T4625T:p.L1542L	1.65	2.16297	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20805	20805	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24964	24964	A	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.C3402T:p.N1134N	-3.3	-0.539512	0.748031	1.00	T	.	.	glyco	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28414	28414	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.T141C:p.N47N	0.454	1.02486	1	0.00	D	.	9b	.	.	.	.	.	nucleocapsid phosphoprotein_LPNNTASWF	0.09	nCoV-2019_94_LEFT	.	.	.	.	.	

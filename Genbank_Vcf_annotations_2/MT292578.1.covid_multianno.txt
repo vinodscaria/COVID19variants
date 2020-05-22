@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	242	242	G	T	upstream	ORF1a	dist=24	.	.	0.748	2.76482	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	244	244	C	T	upstream	ORF1a	dist=22	.	.	1.65	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8782	8782	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8517T:p.S2839S,ORF1a:cds-YP_009725295.1:exon1:c.C8517T:p.S2839S	-1.35	0.271811	1	0.67	T	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9477	9477	T	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T9212A:p.F3071Y,ORF1a:cds-YP_009725295.1:exon1:c.T9212A:p.F3071Y	1.65	2.17336	1	0.02	D	.	.	.	.	.	orf1ab polyprotein_AYYFMRFRRAFGEYS	17	orf1ab_FMRFRRAF 	0.14	nCoV-2019_32_LEFT	.	.	.	.	.	
+1	14805	14805	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C1338T:p.Y446Y	-2.03	0.629307	1	1.00	T	.	.	.	.	.	.	.	orf1ab_NAAISDYDY 	0.07	.	.	.	.	.	.	
+1	26524	26524	G	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.T2T:p.M1M	0.431	0.986118	0.992126	1.00	T	.	.	.	.	.	.	.	.	.	nCoV-2019_88_LEFT	.	.	.	.	.	
+1	28689	28689	T	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.T416C:p.L139S	1.65	2.13967	1	0.37	T	.	.	.	.	.	.	.	.	.	nCoV-2019_95_LEFT	2019-nCoV_N3-F	Centers for Disease Control and Prevention (CDC); KRISHGEN BIOSYSTEMS	.	.	.	
+1	29202	29202	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G929T:p.S310I	1.65	4.256	1	0.00	D	.	.	.	.	.	nucleocapsid phosphoprotein_WPQIAQFAPSASAFF	11	.	.	.	.	.	.	.	.	
+1	29408	29408	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A1135T:p.T379S	-0.277	1.58274	1	0.82	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

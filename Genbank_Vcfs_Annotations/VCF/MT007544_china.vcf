@@ -1,7 +1,0 @@
-##fileformat=VCFv4.1									
-##contig=<ID=1,length=29903>									
-##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">									
-#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	BetaCoV_Australia_VIC01_2020
-1	19065	.	T	C	.	.	.	GT	1
-1	22303	.	T	G	.	.	.	GT	1
-1	26144	.	G	T	.	.	.	GT	1

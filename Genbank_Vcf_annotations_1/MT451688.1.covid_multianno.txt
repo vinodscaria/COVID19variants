@@ -1,0 +1,14 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	3808	3808	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T3543C:p.N1181N,ORF1a:cds-YP_009725295.1:exon1:c.T3543C:p.N1181N	-2.44	0.517244	0.480315	0.55	T	.	Macro	.	.	.	.	.	orf1ab_AVFDKNLYDK 	-1	.	.	.	.	.	.	
+1	6332	6332	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7473	7473	T	C	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G7208C:p.G2403A,ORF1a:cds-YP_009725295.1:exon1:c.G7208C:p.G2403A	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7869	7869	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9645	9645	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A9380T:p.Q3127L,ORF1a:cds-YP_009725295.1:exon1:c.A9380T:p.Q3127L	1.65	2.23647	1	0.03	D	.	Lumenal	.	.	.	orf1ab polyprotein_SFLAHIQWMVMFTPL	18	orf1ab_FLAHIQWMV 	0.03	.	.	.	.	.	.	
+1	14574	14574	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1107T:p.P369P	-3.3	-2.43943	0.72789	1.00	T	.	.	.	.	.	orf1ab polyprotein_KELLVYAADPAMHAA	17	.	.	.	.	.	.	.	.	
+1	23640	23640	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T2078G:p.I693S	1.65	2.17468	1	0.14	T	.	.	.	.	Surface glycoprotein_SYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIA	.	.	surface glycoprotein_VASQSIIAY	0.02	.	.	.	.	.	.	
+1	26655	26655	T	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27101	27101	A	G	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.T579G:p.F193L	1.65	2.20759	1	0.12	T	.	Intravirion	.	.	Membrane glycoprotein_ITVATSRTLSYYKLGASQRVAGDSGFAA	.	.	membrane glycoprotein_ASQRVAGDSGFAAY	0.05	.	.	.	.	.	.	
+1	29701	29701	C	T	downstream	N;ORF10	dist=27	.	.	1.58	4.076	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

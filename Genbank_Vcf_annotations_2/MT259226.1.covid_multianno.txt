@@ -1,0 +1,8 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	565	565	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T300C:p.S100S,ORF1a:cds-YP_009725295.1:exon1:c.T300C:p.S100S	0.731	1.12452	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17825	17825	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C4358T:p.T1453I	1.65	3.32576	0.992228	0.24	T	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27384	27384	T	C	exonic	ORF6	.	synonymous SNV	ORF6:cds-YP_009724394.1:exon1:c.T183C:p.D61D	0.462	0.913858	0.944882	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29573	29573	G	A	exonic	ORF10	.	nonsynonymous SNV	ORF10:cds-YP_009725255.1:exon1:c.G16A:p.V6I	1.6	4.14461	1	.	.	.	.	.	.	.	ORF10 protein_MGYINVFAFPFTIYS	9.1	ORF10 protein_GYINVFAFPF	0.09	.	.	.	.	.	.	
+1	29861	29861	G	A	downstream	N;ORF10	dist=187	.	.	0.443	3.36992	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29868	29868	G	C	downstream	N;ORF10	dist=194	.	.	1.44	2.08614	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	

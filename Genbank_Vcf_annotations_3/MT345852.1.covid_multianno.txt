@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	265	265	C	T	upstream	ORF1a	dist=1	.	.	1.65	4.256	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1083	1083	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T818T:p.F273F,ORF1a:cds-YP_009725295.1:exon1:c.T818T:p.F273F	1.65	2.20517	1	0.45	T	.	.	.	.	.	orf1ab polyprotein_PNFVFPLNSIIKTIQ	15	.	.	.	.	.	.	.	.	
+1	3061	3061	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A2796T:p.E932D,ORF1a:cds-YP_009725295.1:exon1:c.A2796T:p.E932D	-3.06	-2.55282	0	0.28	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9011	9011	T	C	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G8746C:p.A2916P,ORF1a:cds-YP_009725295.1:exon1:c.G8746C:p.A2916P	1.65	4.256	0.992126	0.12	T	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9013	9013	T	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14536	14536	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C1069T:p.L357F	1.65	3.30748	1	0.01	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23652	23652	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T2090G:p.M697R	1.65	2.17468	1	0.35	T	.	.	.	.	Surface glycoprotein_SYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIA	.	.	surface glycoprotein_SIIAYTMSL	0.11	.	.	.	.	.	.	
+1	25812	25812	G	T	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.T420T:p.L140L	-3.3	-3.77857	0.023622	1.00	T	.	.	.	.	.	ORF3a protein_KNPLLYDANYFLCWH	13	ORF3a protein_NPLLYDANY	0.03	.	.	.	.	.	.	
+1	29802	29802	G	A	downstream	N;ORF10	dist=128	.	.	1.54	3.11317	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

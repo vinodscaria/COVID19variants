@@ -1,0 +1,15 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1090	1090	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T825T:p.F275F,ORF1a:cds-YP_009725295.1:exon1:c.T825T:p.F275F	-0.891	0.374063	1	1.00	T	.	.	.	.	.	orf1ab polyprotein_PNFVFPLNSIIKTIQ	15	.	.	.	.	.	.	.	.	
+1	3068	3068	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G2803T:p.D935Y,ORF1a:cds-YP_009725295.1:exon1:c.G2803T:p.D935Y	1.33	4.256	1	0.00	D	.	.	.	.	.	.	.	orf1ab_GDCEEEEFEPSTQY 	-1	.	.	.	.	.	.	
+1	3279	3279	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T3014A:p.I1005N,ORF1a:cds-YP_009725295.1:exon1:c.T3014A:p.I1005N	.	0.101827	0.023622	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14948	14948	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G1481T:p.G494V	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	orf1ab_KSAGFPFNK 	-1	.	.	.	.	.	.	
+1	16114	16114	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17575	17575	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	19250	19250	A	G	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G5783G:p.R1928R	1.65	4.256	0.992126	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24420	24420	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A2858G:p.N953S	1.65	2.28422	0.944882	0.00	D	.	.	.	.	Surface glycoprotein_LQDVVNQNAQALNTLVKQLSSNFGAISS	.	.	.	.	.	.	.	.	.	.	
+1	24975	24975	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26580	26580	G	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.T58T:p.W20W	1.65	2.20065	1	1.00	T	.	.	.	Transmembrane	.	.	.	membrane glycoprotein_EELKKLLEQW	-1	nCoV-2019_87_RIGHT	.	.	.	.	.	
+1	28740	28740	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29426	29426	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30236	30236	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

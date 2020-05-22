@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7	7	A	T	upstream	ORF1a	dist=259	.	.	1.25	3.43585	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	243	243	C	T	upstream	ORF1a	dist=23	.	.	1.65	2.16835	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1061	1061	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T796T:p.F266F,ORF1a:cds-YP_009725295.1:exon1:c.T796T:p.F266F	1.65	2.20517	0.897638	0.72	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3039	3039	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A2774T:p.Y925F,ORF1a:cds-YP_009725295.1:exon1:c.A2774T:p.Y925F	1.65	2.28901	0.0708661	0.34	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14410	14410	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A943T:p.T315S	1.65	2.24737	1	0.00	D	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	
+1	16914	16914	G	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G3447T:p.V1149V	1.65	4.256	1	1.00	T	.	.	.	.	.	orf1ab polyprotein_GDYFVLTSHTVMPLS	15	orf1ab_TYKLNVGDYFV 	-1	.	.	.	.	.	.	
+1	23405	23405	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G1843G:p.V615V	1.65	4.256	1	1.00	T	.	.	.	.	Surface glycoprotein_FGGVSVITPGTNTSNQVAVLYQDVNCTEV	.	.	.	.	.	.	.	.	.	.	
+1	25565	25565	G	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.G173T:p.S58I	0.72	2.55093	1	0.00	D	.	.	.	.	.	ORF3a protein_ALLAVFQSASKIITL	11	ORF3a protein_SASKIITLK	-1	.	.	.	.	.	.	
+1	29555	29555	G	A	upstream;downstream	ORF10;N	dist=3;dist=22	.	.	0.786	1.9169	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

@@ -1,0 +1,43 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	663	663	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3564	3564	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	4540	4540	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5758	5758	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6098	6098	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6686	6686	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6701	6701	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7235	7235	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7432	7432	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7464	7464	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8974	8974	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9000	9000	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8735T:p.A2912V,ORF1a:cds-YP_009725295.1:exon1:c.C8735T:p.A2912V	1.65	3.2943	1	0.02	D	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9008	9008	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9359	9359	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9695	9695	T	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T9430A:p.Y3144N,ORF1a:cds-YP_009725295.1:exon1:c.T9430A:p.Y3144N	1.65	2.17336	0.944937	0.00	D	.	.	.	Transmembrane	.	orf1ab polyprotein_VPFWITIAYIICIST	7.3	orf1ab_VPFWITIAY 	0.01	.	.	.	.	.	.	
+1	10972	10972	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11753	11753	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	12382	12382	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13411	13411	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13458	13458	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15023	15023	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1556T:p.F519F	1.65	2.19157	1	1.00	T	.	.	.	.	.	.	.	orf1ab_SYEDQDALFAY 	-1	.	.	.	.	.	.	
+1	16286	16286	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17314	17314	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18066	18066	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18356	18356	C	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20346	20346	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22129	22129	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22236	22236	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23753	23753	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23872	23872	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23967	23967	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24228	24228	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25395	25395	G	B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25814	25814	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26441	26441	G	T	exonic	E	.	nonsynonymous SNV	E:cds-YP_009724392.1:exon1:c.A197T:p.N66I	0.526	1.07954	1	0.00	D	.	Intravirion	.	.	.	envelope protein_FYVYSRVKNLNSSRV	15	.	.	.	.	.	.	.	.	
+1	28606	28606	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C333C:p.Y111Y	-3.13	-0.052189	0.992126	1.00	T	.	.	.	.	.	.	.	nucleocapsid phosphoprotein_SPRWYFYYL	0.07	.	.	.	.	.	.	
+1	28773	28773	C	T	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.T500T:p.L167L	1.65	2.13967	1	1.00	T	.	.	.	.	.	.	.	.	.	nCoV-2019_94_RIGHT	.	.	.	.	.	
+1	28979	28979	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29119	29119	C	T	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C846T:p.T282T	-2.68	0.134724	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29325	29325	C	T	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.T1052T:p.I351I	1.65	2.13967	0.992126	0.43	T	.	.	.	.	.	nucleocapsid phosphoprotein_FKDQVILLNKHIDAY	15	.	.	.	.	.	.	.	.	
+1	30167	30167	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

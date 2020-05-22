@@ -1,0 +1,13 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1218	1218	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C953T:p.S318L,ORF1a:cds-YP_009725295.1:exon1:c.C953T:p.S318L	1.65	3.30383	1	0.08	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	2500	2500	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A2235T:p.E745D,ORF1a:cds-YP_009725295.1:exon1:c.A2235T:p.E745D	-3.3	-0.585827	0.84252	1.00	T	.	.	.	.	.	.	.	orf1ab_KEIIFLEGETL 	0.1	.	.	.	.	.	.	
+1	4774	4774	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A4509T:p.E1503D,ORF1a:cds-YP_009725295.1:exon1:c.A4509T:p.E1503D	-3.23	0.110543	0.992126	0.51	T	.	.	.	.	.	.	.	orf1ab_TISLAGSYK 	-1	.	.	.	.	.	.	
+1	8345	8345	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8080A:p.C2694S,ORF1a:cds-YP_009725295.1:exon1:c.T8080A:p.C2694S	1.65	2.19521	1	0.11	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9893	9893	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C9628T:p.L3210F,ORF1a:cds-YP_009725295.1:exon1:c.C9628T:p.L3210F	-2.13	0.343165	0.921339	0.02	D	.	.	.	.	.	.	.	orf1ab_TQYNRYLAL 	0.04	.	.	.	.	.	.	
+1	14328	14328	C	A	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A861A:p.P287P	-3.3	-0.619307	0.960669	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	19598	19598	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G6131T:p.W2044L	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	orf1ab_VYKQFDTYNLW 	-1	nCoV-2019_64_RIGHT	.	.	.	.	.	
+1	19709	19709	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C6242G:p.T2081S	1.65	3.27702	1	0.01	D	.	.	.	.	.	.	.	orf1ab_SIINNTVYTK 	-1	.	.	.	.	.	.	
+1	19911	19911	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T6444T:p.S2148S	-3.3	-2.59683	0.385827	0.94	T	.	.	.	.	.	orf1ab polyprotein_VIWDYKRDAPAHIST	12	orf1ab_APAHISTI 	0.15	nCoV-2019_65_RIGHT	.	.	.	.	.	
+1	31179	31179	T	C	intergenic	ORF10;NONE	dist=1505;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	32253	32253	C	T	intergenic	ORF10;NONE	dist=2579;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

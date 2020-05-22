@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8971	8971	G	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8706A:p.L2902L,ORF1a:cds-YP_009725295.1:exon1:c.T8706A:p.L2902L	-3.3	-0.964661	0.874016	0.56	T	.	Lumenal	.	.	.	orf1ab polyprotein_AVGNICYTPSKLIEY	18	orf1ab_KLIEYTDFA 	0.04	nCoV-2019_29_RIGHT	.	.	.	.	.	
+1	9151	9151	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8886T:p.I2962I,ORF1a:cds-YP_009725295.1:exon1:c.T8886T:p.I2962I	0.468	0.340504	1	1.00	T	.	Lumenal	.	.	.	orf1ab polyprotein_DTRYVLMDGSIIQFP	6.2	orf1ab_SIIQFPNTY 	0.1	.	.	.	.	.	.	
+1	18116	18116	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4649T:p.H1550L	1.65	2.24049	1	0.16	T	.	.	.	.	.	.	.	orf1ab_HPTQAPTHL 	-1	.	.	.	.	.	.	
+1	18227	18227	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4760G:p.N1587S	1.65	2.24049	1	0.17	T	.	.	.	.	.	orf1ab polyprotein_YRRLISMMGFKMNYQ	7	orf1ab_SMMGFKMNY 	-1	.	.	.	.	.	.	
+1	18429	18429	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T4962T:p.N1654N	-3.3	-0.78278	0.114031	0.18	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26398	26398	C	A	exonic	E	.	nonsynonymous SNV	E:cds-YP_009724392.1:exon1:c.G154A:p.V52I	1.65	4.256	1	0.59	T	.	Intravirion	.	.	.	envelope protein_LVKPSFYVYSRVKNL	17	envelope protein_SLVKPSFYV	0.04	.	.	.	.	.	.	
+1	27160	27160	G	A	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.G638A:p.S213N	1.65	4.256	1	0.38	T	.	Intravirion	.	.	Membrane glycoprotein_NYKLNTDHSSSSDNIA	.	.	.	.	nCoV-2019_90_LEFT	.	.	.	.	.	
+1	28646	28646	T	G	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.G373G:p.A125A	1.65	4.256	1	0.42	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29386	29386	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C1113C:p.D371D	0.789	1.9169	1	0.68	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

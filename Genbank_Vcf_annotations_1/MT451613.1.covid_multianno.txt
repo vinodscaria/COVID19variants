@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	6723	6723	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C6458T:p.T2153I,ORF1a:cds-YP_009725295.1:exon1:c.C6458T:p.T2153I	0.761	1.59104	0.755906	0.01	D	.	.	.	.	.	.	.	.	.	nCoV-2019_23_LEFT	.	.	.	.	.	
+1	9112	9112	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13568	13568	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C101T:p.A34V	1.65	3.31844	1	0.00	D	.	.	.	.	.	.	.	orf1ab_IYNDKVAGFAKF 	-1	.	.	.	.	.	.	
+1	14408	14408	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C941T:p.P314L	1.65	3.30748	1	0.31	T	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	
+1	18745	18745	G	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G5278T:p.V1760F	1.65	4.256	1	0.01	D	.	.	.	.	.	orf1ab polyprotein_IGFDYVYNPFMIDVQ	16	orf1ab_HSIGFDYVY 	0.07	.	.	.	.	.	.	
+1	23587	23587	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G2025G:p.Q675Q	-3.09	-0.454362	0.944882	0.63	T	.	.	.	.	Surface glycoprotein_SYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIA	.	.	.	.	.	.	.	.	.	.	
+1	26278	26278	T	C	exonic	E	.	synonymous SNV	E:cds-YP_009724392.1:exon1:c.T34C:p.L12L	1.65	2.20065	1	1.00	T	.	Virion_surface	.	.	.	envelope protein_SEETGTLIVNSVLLF	14	.	.	.	SARS-CoV-2_IBS_E1_F | SARS-CoV-2_IBS_E2_F | E gene Forward | CDCV_GERMANY_E gene_1	Korea | Korea | GenScript; National Institute of Virology, Pune, India | Christian Drosten Charite Virology, Berlin, Germany	.	.	.	

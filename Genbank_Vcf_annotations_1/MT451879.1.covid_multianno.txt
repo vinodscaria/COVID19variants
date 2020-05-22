@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9367	9367	T	G	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A9102G:p.L3034L,ORF1a:cds-YP_009725295.1:exon1:c.A9102G:p.L3034L	-0.896	0.0276142	0.992134	1.00	T	.	Lumenal	.	.	.	.	.	orf1ab_TPLIQPIGAL 	0.05	.	.	.	.	.	.	
+1	9368	9368	C	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A9103A:p.I3035I,ORF1a:cds-YP_009725295.1:exon1:c.A9103A:p.I3035I	-0.487	0.911157	0.992134	0.61	T	.	Lumenal	.	.	.	.	.	orf1ab_TPLIQPIGAL 	0.05	.	.	.	.	.	.	
+1	9433	9433	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A9168T:p.V3056V,ORF1a:cds-YP_009725295.1:exon1:c.A9168T:p.V3056V	-3.21	0.0907244	0.992134	0.45	T	.	.	.	Transmembrane	.	.	.	.	.	.	.	.	.	.	.	
+1	21217	21217	G	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T7750T:p.F2584F	1.65	2.14095	0.992126	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23571	23571	G	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T2009T:p.I670I	1.65	2.17468	1	0.62	T	disulf_bond	.	.	.	.	.	.	surface glycoprotein_IPIGAGICASY	0.06	.	.	.	.	.	.	
+1	29351	29351	T	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.T1078C:p.Y360H	1.65	2.13967	1	0.00	D	.	.	.	.	.	nucleocapsid phosphoprotein_FKDQVILLNKHIDAY	15	nucleocapsid phosphoprotein_AYKTFPPTEPK	-1	.	.	.	.	.	.	
+1	30085	30085	G	A	downstream	N;ORF10	dist=411	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30949	30949	G	A	intergenic	ORF10;NONE	dist=1275;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

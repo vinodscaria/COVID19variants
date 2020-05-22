@@ -1,0 +1,15 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	36	36	C	T	upstream	ORF1a	dist=230	.	.	1.38	2.76482	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	291	291	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A26T:p.N9I,ORF1a:cds-YP_009725295.1:exon1:c.A26T:p.N9I	-0.664	0.453488	1	0.00	D	.	.	.	.	.	.	.	orf1ab_SLVPGFNEK 	-1	.	.	.	.	.	.	
+1	1109	1109	C	T	exonic	ORF1a	.	stopgain	ORF1a:cds-YP_009724389.1:exon1:c.A844T:p.K282X,ORF1a:cds-YP_009725295.1:exon1:c.A844T:p.K282X	0.46	0.886772	1	.	.	.	.	.	.	.	orf1ab polyprotein_PNFVFPLNSIIKTIQ	15	orf1ab_KTIQPRVEKK 	-1	.	.	.	.	.	.	
+1	3087	3087	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T2822T:p.F941F,ORF1a:cds-YP_009725295.1:exon1:c.T2822T:p.F941F	-3.03	-0.244354	0	0.70	T	.	.	.	.	.	.	.	orf1ab_GDCEEEEFEPSTQY 	-1	.	.	.	.	.	.	
+1	14517	14517	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1050T:p.V350V	1.65	2.24737	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23700	23700	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C2138G:p.A713G	1.65	3.27011	1	0.35	T	.	.	.	.	Surface glycoprotein_SYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIA	.	.	surface glycoprotein_AYSNNSIAIPTNF	0.09	.	.	.	.	.	.	
+1	25860	25860	G	T	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.T468T:p.Y156Y	0.627	0.799268	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29915	29915	G	A	downstream	N;ORF10	dist=241	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30236	30236	T	A	downstream	N;ORF10	dist=562	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30249	30249	G	A	downstream	N;ORF10	dist=575	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30252	30252	T	A	downstream	N;ORF10	dist=578	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30253	30253	G	A	downstream	N;ORF10	dist=579	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30255	30255	C	A	downstream	N;ORF10	dist=581	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

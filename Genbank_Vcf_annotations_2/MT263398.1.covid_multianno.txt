@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6406	6406	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C6141T:p.V2047V,ORF1a:cds-YP_009725295.1:exon1:c.C6141T:p.V2047V	1.61	3.29661	0.992126	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8878	8878	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8613T:p.G2871G,ORF1a:cds-YP_009725295.1:exon1:c.C8613T:p.G2871G	-2.58	-0.140346	0.992126	0.66	T	.	Lumenal	.	.	.	orf1ab polyprotein_GTILRTTNGDFLHFL	20	orf1ab_VVPGLPGTIL 	0.16	.	.	.	.	.	.	
+1	17843	17843	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C4376T:p.S1459L	1.65	3.32576	0.992228	0.01	D	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	orf1ab_TVDSSQGSEY 	0.02	.	.	.	.	.	.	
+1	17954	17954	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T4487G:p.L1496R	1.65	2.16297	1	0.00	D	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18156	18156	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T4689T:p.C1563C	1.65	2.16297	1	0.51	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27423	27423	G	T	exonic	ORF7a	.	synonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.A30T:p.I10I	-0.817	0.374803	0.110236	1.00	T	.	.	.	.	.	ORF7a protein_MKIILFLALITLATC	13	.	.	.	.	.	.	.	.	
+1	28240	28240	T	C	exonic	ORF8	.	nonsynonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.T347C:p.V116A	1.33	1.80817	0.92126	0.00	D	.	.	.	.	.	.	.	ORF8 protein_YEDFLEYHDVRVVL	-1	.	.	.	.	.	.	
+1	28474	28474	G	T	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.T201T:p.P67P	0.456	1.12277	1	1.00	T	.	9b	.	.	.	.	.	nucleocapsid phosphoprotein_KFPRGQGVPI	0.04	.	.	.	.	.	.	
+1	29964	29964	G	C	downstream	N;ORF10	dist=290	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29965	29965	A	T	downstream	N;ORF10	dist=291	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

@@ -1,0 +1,14 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1059	1059	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C794T:p.T265I,ORF1a:cds-YP_009725295.1:exon1:c.C794T:p.T265I	1.65	3.30383	0.992126	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	2923	2923	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	6903	6903	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	12841	12841	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15061	15061	C	T	exonic	ORF1b	.	stopgain	ORF1b:cds-YP_009724389.1:exon1:c.C1594T:p.Q532X	1.65	3.30748	1	.	.	.	.	.	.	.	orf1ab polyprotein_ITQMNLKYAISAKNR	15	orf1ab_IPTITQMNL 	0.07	.	.	.	.	.	.	
+1	24317	24317	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A2755G:p.N919D	1.65	2.28422	0.992126	0.00	D	.	.	.	.	Surface glycoprotein_VLYENQKLIANQFNSAIGKIQDSLSSTASALG	surface glycoprotein_VTQNVLYENQKLIAN	17	.	.	.	.	.	.	.	.	
+1	24768	24768	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C3206T:p.P1069L	1.65	3.2969	0.992126	0.00	D	.	.	.	.	.	surface glycoprotein_VFLHVTYVPAQEKNF	20	surface glycoprotein_VTYVPAQEK	-1	nCoV-2019_81_RIGHT	.	.	.	.	.	
+1	26176	26176	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26477	26477	G	T	upstream;downstream	M;ORF6;ORF7a;E;ORF3a	dist=46;dist=5	.	.	1.65	2.29407	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26507	26507	G	C	upstream;downstream	M;ORF6;ORF7a;E;ORF3a	dist=16;dist=35	.	.	1.65	2.29407	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

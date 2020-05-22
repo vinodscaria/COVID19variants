@@ -1,0 +1,7 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22161	22161	A	C	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A599C:p.Y200S	0.429	0.295811	0	0.42	T	.	BetaCoV_S1-NTD	.	.	.	surface glycoprotein_EFVFKNIDGYFKIYS	13	surface glycoprotein_FVFKNIDGY	0.09	.	.	.	.	.	.	
+1	22162	22162	T	A	exonic	S	.	stopgain	S:cds-YP_009724390.1:exon1:c.T600A:p.Y200X	-3.3	-2.00365	0	.	.	.	BetaCoV_S1-NTD	.	.	.	surface glycoprotein_EFVFKNIDGYFKIYS	13	surface glycoprotein_FVFKNIDGY	0.09	.	.	.	.	.	.	
+1	24015	24015	T	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T2453G:p.I818S	1.65	2.17468	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24872	24872	G	C	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G3310C:p.V1104L	0.509	0.526157	0.165354	0.30	T	disulf_bond	.	.	.	.	.	.	surface glycoprotein_GTHWFVTQR	0.09	.	.	.	.	.	.	
+1	24874	24874	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.A3312G:p.V1104V	-3.3	-1.39205	0.165354	0.19	T	disulf_bond	.	.	.	.	.	.	surface glycoprotein_GTHWFVTQR	0.09	.	.	.	.	.	.	

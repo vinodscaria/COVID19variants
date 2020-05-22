@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8857	8857	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8592T:p.F2864F,ORF1a:cds-YP_009725295.1:exon1:c.T8592T:p.F2864F	-3.3	-0.00296063	0.952756	0.16	T	.	Lumenal	.	.	.	.	.	orf1ab_REVGFVVPGL 	0.05	.	.	.	.	.	.	
+1	16002	16002	T	G	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T2535G:p.L845L	-2.34	0.0263465	1	1.00	T	.	.	.	.	.	orf1ab polyprotein_VDDIVKTDGTLMIER	15	orf1ab_LMIERFVSL 	-1	.	.	.	.	.	.	
+1	17822	17822	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C4355T:p.P1452L	1.65	3.32576	1	0.04	D	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17933	17933	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C4466G:p.T1489S	1.65	3.32576	1	0.00	D	.	+)RNA_virus_helicase_C_Terminal	.	.	.	orf1ab polyprotein_NVNRFNVAITRAKVG	19	.	.	.	.	.	.	.	.	
+1	18135	18135	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4668T:p.K1556N	0.534	1.07769	1	0.28	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18476	18476	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T5009T:p.F1670F	1.65	2.21939	0.968504	1.00	T	.	.	.	.	.	orf1ab polyprotein_PPGDQFKHLIPLMYK	19	.	.	.	.	.	.	.	.	
+1	27199	27199	C	T	upstream;downstream	ORF6;ORF7a;ORF7b;ORF8;E;M;ORF3a	dist=3;dist=8	.	.	1.65	3.2857	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28441	28441	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C168C:p.L56L	1.65	3.27687	1	0.48	T	.	9b	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29441	29441	C	T	exonic	N	.	stopgain	N:cds-YP_009724397.2:exon1:c.C1168T:p.Q390X	0.74	1.80551	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

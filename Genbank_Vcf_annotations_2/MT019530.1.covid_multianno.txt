@@ -1,0 +1,8 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	104	104	T	A	upstream	ORF1a	dist=162	.	.	1.57	2.09379	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	111	111	T	C	upstream	ORF1a	dist=155	.	.	0.679	1.04996	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	112	112	T	G	upstream	ORF1a	dist=154	.	.	0.401	0.975402	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	119	119	C	G	upstream	ORF1a	dist=147	.	.	0.71	1.79555	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	120	120	T	C	upstream	ORF1a	dist=146	.	.	-0.535	0.30437	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	124	124	G	A	upstream	ORF1a	dist=142	.	.	-2.39	0.751724	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

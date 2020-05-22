@@ -1,0 +1,6 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3555	3555	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T3290T:p.L1097L,ORF1a:cds-YP_009725295.1:exon1:c.T3290T:p.L1097L	1.65	2.17891	0.913386	1.00	T	.	Macro	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15690	15690	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T2223T:p.R741R	0.453	0.997087	1	0.93	T	.	RdRp_catalytic	.	.	.	orf1ab polyprotein_EFYAYLRKHFSMMIL	9.7	orf1ab_YAYLRKHF 	0.07	.	.	.	.	.	.	
+1	26252	26252	A	G	exonic	E	.	stopgain	E:cds-YP_009724392.1:exon1:c.C8G:p.S3X	1.65	3.32175	1	.	.	.	Virion_surface	.	.	.	.	.	.	.	.	.	.	.	.	.	

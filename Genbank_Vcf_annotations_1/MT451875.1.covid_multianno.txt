@@ -1,0 +1,9 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9218	9218	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A8953T:p.R2985W,ORF1a:cds-YP_009725295.1:exon1:c.A8953T:p.R2985W	0.541	0.406276	0.992134	0.00	D	.	Lumenal	.	.	.	.	.	.	.	nCoV-2019_31_LEFT	.	.	.	.	.	
+1	12289	12289	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T12024C:p.A4008A,ORF1a:cds-YP_009725295.1:exon1:c.T12024C:p.A4008A	0.431	0.964512	1	1.00	T	.	.	.	.	.	.	.	orf1ab_MADQAMTQMY 	-1	.	.	.	.	.	.	
+1	28681	28681	T	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G408C:p.E136D	0.646	2.25106	1	0.60	T	.	.	.	.	.	.	.	.	.	nCoV-2019_95_LEFT	2019-nCoV_N3-F	Centers for Disease Control and Prevention (CDC); KRISHGEN BIOSYSTEMS	.	.	.	
+1	29085	29085	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C812C:p.T271T	1.65	3.25353	1	1.00	T	.	.	.	.	.	.	.	nucleocapsid phosphoprotein_KAYNVTQAF	0.07	.	.	.	.	.	.	
+1	29819	29819	G	A	downstream	N;ORF10	dist=145	.	.	1.52	2.11824	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	30159	30159	C	T	downstream	N;ORF10	dist=485	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30683	30683	G	A	intergenic	ORF10;NONE	dist=1009;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

@@ -1,0 +1,9 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1059	1059	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C794T:p.T265I,ORF1a:cds-YP_009725295.1:exon1:c.C794T:p.T265I	1.65	3.30383	0.992126	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	3215	3215	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A2950T:p.S984C,ORF1a:cds-YP_009725295.1:exon1:c.A2950T:p.S984C	-1.05	-0.382827	0	0.05	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3319	3319	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3054T:p.P1018P,ORF1a:cds-YP_009725295.1:exon1:c.A3054T:p.P1018P	-0.308	0.309535	0.023622	1.00	T	.	.	.	.	.	.	.	orf1ab_LEMELTPVVQTI 	0.1	.	.	.	.	.	.	
+1	14690	14690	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1223T:p.K408I	1.65	2.24737	1	0.01	D	.	.	.	.	.	.	.	orf1ab_TVKPGNFNK 	-1	.	.	.	.	.	.	
+1	24220	24220	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G2658G:p.W886W	-0.309	1.51742	0.992126	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26380	26380	G	T	exonic	E	.	nonsynonymous SNV	E:cds-YP_009724392.1:exon1:c.A136T:p.I46F	1.65	2.29407	1	0.16	T	.	Intravirion	.	.	.	.	.	.	.	.	E gene Reverse | CDCV_GERMANY_E gene_2	GenScript; National Institute of Virology, Pune, India | Christian Drosten Charite Virology, Berlin, Germany	.	.	.	

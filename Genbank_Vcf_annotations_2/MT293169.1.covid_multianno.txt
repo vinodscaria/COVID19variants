@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8810	8810	C	T	exonic	ORF1a	.	stopgain	ORF1a:cds-YP_009724389.1:exon1:c.A8545T:p.K2849X,ORF1a:cds-YP_009725295.1:exon1:c.A8545T:p.K2849X	1.65	2.26391	1	.	.	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17354	17354	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T3887T:p.F1296F	1.65	2.21463	1	0.17	T	.	+)RNA_virus_helicase_ATP_binding	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17775	17775	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4308T:p.S1436S	0.504	1.00017	1	1.00	T	.	+)RNA_virus_helicase_C_Terminal	.	.	.	orf1ab polyprotein_ISPYNSQNAVASKIL	17	orf1ab_SPYNSQNAVASKIL 	0.11	.	.	.	.	.	.	
+1	17886	17886	A	G	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T4419G:p.T1473T	-3.3	-1.55798	0.898969	0.27	T	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17912	17912	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4445G:p.N1482S	1.65	2.24049	0.992228	0.00	D	.	+)RNA_virus_helicase_C_Terminal	.	.	.	orf1ab polyprotein_NVNRFNVAITRAKVG	19	.	.	.	.	.	.	.	.	
+1	18088	18088	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G4621T:p.G1541W	1.65	4.256	1	0.01	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	19673	19673	G	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A6206T:p.Q2069L	1.65	2.29805	0.944882	0.84	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28172	28172	T	C	exonic	ORF8	.	synonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.T279C:p.P93P	-1.14	-0.052189	0.228346	1.00	T	.	.	.	.	.	.	.	.	.	nCoV-2019_92_RIGHT	.	.	.	.	.	

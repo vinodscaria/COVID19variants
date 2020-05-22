@@ -1,0 +1,5 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6638	6638	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C6373T:p.H2125Y,ORF1a:cds-YP_009725295.1:exon1:c.C6373T:p.H2125Y	1.65	3.29661	1	0.09	T	.	.	.	.	.	orf1ab polyprotein_NELSRVLGLKTLATH	19	.	.	.	.	.	.	.	.	
+1	7050	7050	T	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26323	26323	C	T	exonic	E	.	synonymous SNV	E:cds-YP_009724392.1:exon1:c.T79T:p.L27L	1.65	2.20065	1	1.00	T	.	.	.	Transmembrane	.	envelope protein_SVLLFLAFVVFLLVT	17	.	.	.	.	.	.	.	.	

@@ -1,0 +1,14 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	8102	8102	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G7837T:p.V2613F,ORF1a:cds-YP_009725295.1:exon1:c.G7837T:p.V2613F	-0.324	1.56598	0.134724	0.02	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8767	8767	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14408	14408	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C941T:p.P314L	1.65	3.30748	1	0.31	T	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	
+1	22330	22330	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22332	22332	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22523	22523	T	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23561	23561	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G1999G:p.G667G	1.65	4.256	1	1.00	T	disulf_bond	.	.	.	.	.	.	surface glycoprotein_IPIGAGICASY	0.06	.	.	.	.	.	.	
+1	29039	29039	G	A	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.A766A:p.K256K	1.65	2.25106	0.88189	0.78	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29040	29040	G	A	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.A767A:p.K256K	0.529	1.02581	0.929134	0.78	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29041	29041	G	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G768C:p.K256N	-3.3	-0.0880472	0.937008	0.59	T	.	.	.	.	.	.	.	.	.	nCoV-2019_95_RIGHT	.	.	.	.	.	

@@ -1,0 +1,13 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	626	626	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G361T:p.V121F,ORF1a:cds-YP_009725295.1:exon1:c.G361T:p.V121F	1.65	4.256	1	0.56	T	.	.	.	.	.	.	.	orf1ab_GEIPVAYRKVLL 	-1	.	.	.	.	.	.	
+1	3231	3231	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3619	3619	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	4829	4829	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5772	5772	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9295	9295	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11459	11459	G	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T11194T:p.S3732S,ORF1a:cds-YP_009725295.1:exon1:c.T11194T:p.S3732S	0.456	1.09685	1	0.80	T	.	.	.	Transmembrane	.	orf1ab polyprotein_ISMWALIISVTSNYS	9.8	orf1ab_NALDQAISM 	0.04	.	.	.	.	.	.	
+1	15340	15340	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G1873T:p.A625S	1.65	4.256	1	1.00	T	.	RdRp_catalytic	.	.	.	orf1ab polyprotein_RAMPNMLRIMASLVL	3.6	.	.	.	.	.	.	.	.	
+1	17782	17782	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4315C:p.N1439H	1.65	2.24049	0.992228	0.00	D	.	+)RNA_virus_helicase_C_Terminal	.	.	.	orf1ab polyprotein_ISPYNSQNAVASKIL	17	orf1ab_SPYNSQNAVASKIL 	0.11	.	.	.	.	.	.	
+1	26084	26084	A	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27106	27106	G	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.C584T:p.A195V	0.68	1.56072	1	1.00	T	.	Intravirion	.	.	Membrane glycoprotein_ITVATSRTLSYYKLGASQRVAGDSGFAA	.	.	membrane glycoprotein_ASQRVAGDSGFAAY	0.05	.	.	.	.	.	.	

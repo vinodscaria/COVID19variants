@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	7114	7114	G	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T6849T:p.T2283T,ORF1a:cds-YP_009725295.1:exon1:c.T6849T:p.T2283T	-2.88	-0.327732	0.944882	0.64	T	.	Lumenal	.	.	.	.	.	.	.	nCoV-2019_23_RIGHT	.	.	.	.	.	
+1	14548	14548	C	T	exonic	ORF1b	.	stopgain	ORF1b:cds-YP_009724389.1:exon1:c.G1081T:p.E361X	1.65	4.256	1	.	.	.	.	.	.	.	orf1ab polyprotein_KELLVYAADPAMHAA	17	.	.	nCoV-2019_49_LEFT	.	.	.	.	.	
+1	23642	23642	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G2080G:p.A694A	1.65	4.256	1	0.67	T	.	.	.	.	Surface glycoprotein_SYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIA	.	.	surface glycoprotein_VASQSIIAY	0.02	.	.	.	.	.	.	
+1	29120	29120	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C847A:p.Q283K	1.65	3.25353	1	0.06	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29121	29121	G	A	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.A848A:p.Q283Q	1.65	2.25106	1	0.76	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29122	29122	G	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A849C:p.Q283H	-0.74	0.468882	1	0.02	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29325	29325	A	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	269	269	C	T	exonic	ORF1a	.	stopgain	ORF1a:cds-YP_009724389.1:exon1:c.G4T:p.E2X,ORF1a:cds-YP_009725295.1:exon1:c.G4T:p.E2X	1.65	4.256	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3065	3065	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G2800T:p.G934C,ORF1a:cds-YP_009725295.1:exon1:c.G2800T:p.G934C	1.53	4.256	0.952756	0.13	T	.	.	.	.	.	.	.	orf1ab_GDCEEEEFEPSTQY 	-1	.	.	.	.	.	.	
+1	14132	14132	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T665C:p.V222A	1.65	2.19337	1	0.01	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14436	14436	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A969T:p.K323N	-1.08	0.629307	1	0.01	D	.	.	.	.	.	orf1ab polyprotein_LVRKIFVDGVPFVVS	15	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	
+1	18905	18905	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G5438T:p.R1813L	1.65	4.256	1	0.04	D	.	.	.	.	.	.	.	.	.	nCoV-2019_63_LEFT	ORF1b Reverse	Nepal, China	.	.	.	
+1	21942	21942	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T380T:p.V127V	-0.767	0.040315	0	1.00	T	disulf_bond	BetaCoV_S1-NTD	.	.	.	surface glycoprotein_SLLIVNNATNVVIKV	14	.	.	.	.	.	.	.	.	
+1	23431	23431	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T1869G:p.A623A	-3.3	-4.60838	0	0.58	T	disulf_bond	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25591	25591	G	T	exonic	ORF3a	.	stopgain	ORF3a:cds-YP_009724391.1:exon1:c.A199T:p.K67X	1.65	2.23123	0.015748	.	.	.	.	.	.	.	ORF3a protein_KKRWQLALSKGVHFV	4.8	ORF3a protein_ASKIITLKK	-1	.	.	.	.	.	.	

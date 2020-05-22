@@ -1,0 +1,7 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18811	18811	A	G	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G5344G:p.D1782D	1.65	4.256	0.574803	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20255	20255	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A6788C:p.D2263A	1.65	2.29805	1	0.00	D	.	.	.	.	.	.	.	orf1ab_MEIDFLELAM 	0.12	nCoV-2019_66_RIGHT	.	.	.	.	.	
+1	26539	26539	C	A	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.G17A:p.G6D	0.646	2.29407	0.96063	0.14	T	.	Virion_surface	.	.	.	.	.	membrane glycoprotein_GTITVEELK	0.09	nCoV-2019_88_LEFT	.	.	.	.	.	
+1	29705	29705	A	G	downstream	N;ORF10	dist=31	.	.	1.58	4.076	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	31299	31299	G	T	intergenic	ORF10;NONE	dist=1625;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

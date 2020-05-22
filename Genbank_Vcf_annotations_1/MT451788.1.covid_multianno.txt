@@ -1,0 +1,36 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	203	203	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	2669	2669	C	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	4551	4551	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	4887	4887	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5164	5164	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5453	5453	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5555	5555	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7623	7623	T	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7626	7626	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8921	8921	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9534	9534	C	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11075	11075	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13379	13379	G	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14068	14068	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14640	14640	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1173T:p.A391A	-2.15	0.0713543	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17357	17357	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A3890T:p.D1297V	1.65	2.29024	1	0.00	D	.	+)RNA_virus_helicase_ATP_binding	.	.	.	.	.	orf1ab_DEISMATNY 	-1	.	.	.	.	.	.	
+1	18070	18070	T	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18666	18666	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A5199T:p.L1733L	-1.4	0.997417	1	0.91	T	.	.	.	.	.	.	.	.	.	nCoV-2019_61_RIGHT	.	.	.	.	.	
+1	23723	23723	C	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23999	23999	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A2437G:p.S813G	0.438	0.860157	0.401575	0.02	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24463	24463	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24796	24796	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25454	25454	G	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25690	25690	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26547	26547	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27598	27598	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28081	28081	T	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28408	28408	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A135T:p.L45F	0.438	0.829031	1	0.00	D	.	9b	.	.	.	.	.	nucleocapsid phosphoprotein_LPNNTASWF	0.09	nCoV-2019_94_LEFT	.	.	.	.	.	
+1	28473	28473	G	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C200T:p.P67L	1.65	3.27687	1	0.00	D	.	9b	.	.	.	.	.	nucleocapsid phosphoprotein_KFPRGQGVPI	0.04	.	.	.	.	.	.	
+1	29477	29477	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G1204A:p.D402N	1.65	4.256	1	0.65	T	.	.	.	.	.	.	.	nucleocapsid phosphoprotein_LPAADLDDF	0.06	.	.	.	.	.	.	
+1	29478	29478	G	A	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.A1205A:p.D402D	1.65	2.25106	1	0.85	T	.	.	.	.	.	.	.	nucleocapsid phosphoprotein_LPAADLDDF	0.06	.	.	.	.	.	.	
+1	29479	29479	G	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.T1206C:p.D402D	-0.825	0.357496	1	0.85	T	.	.	.	.	.	.	.	nucleocapsid phosphoprotein_LPAADLDDF	0.06	.	.	.	.	.	.	

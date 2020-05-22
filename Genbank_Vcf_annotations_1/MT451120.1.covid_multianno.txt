@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1545	1545	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	7838	7838	T	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9648	9648	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14667	14667	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1200T:p.T400T	1.65	2.19157	1	1.00	T	.	.	.	.	.	.	.	orf1ab_TVKPGNFNK 	-1	.	.	.	.	.	.	
+1	23701	23701	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.C2139G:p.A713A	-0.351	-0.235276	0.992126	0.93	T	.	.	.	.	Surface glycoprotein_SYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIA	.	.	surface glycoprotein_AYSNNSIAIPTNF	0.09	.	.	.	.	.	.	
+1	29179	29179	G	A	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.G906A:p.P302P	-0.391	1.47135	1	1.00	T	.	.	.	.	.	nucleocapsid phosphoprotein_WPQIAQFAPSASAFF	11	.	.	.	2019-nCoV_N2-F	Centers for Disease Control and Prevention (CDC); KRISHGEN BIOSYSTEMS	.	.	.	
+1	29180	29180	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C907A:p.Q303K	1.65	3.25353	1	0.20	T	.	.	.	.	.	nucleocapsid phosphoprotein_WPQIAQFAPSASAFF	11	.	.	.	2019-nCoV_N2-F	Centers for Disease Control and Prevention (CDC); KRISHGEN BIOSYSTEMS	.	.	.	
+1	29181	29181	G	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A908C:p.Q303P	1.65	2.25106	1	0.23	T	.	.	.	.	.	nucleocapsid phosphoprotein_WPQIAQFAPSASAFF	11	.	.	.	2019-nCoV_N2-F	Centers for Disease Control and Prevention (CDC); KRISHGEN BIOSYSTEMS	.	.	.	

@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1397	1397	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G1132A:p.V378I,ORF1a:cds-YP_009725295.1:exon1:c.G1132A:p.V378I	-1.81	0.227575	0.133858	0.62	T	.	.	.	.	.	.	.	orf1ab_ACHNSEVGPEHSL 	0.15	.	.	.	.	.	.	
+1	3481	3481	A	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3216C:p.A1072A,ORF1a:cds-YP_009725295.1:exon1:c.A3216C:p.A1072A	-3.3	-2.11373	0.582677	1.00	T	.	Macro	.	.	.	.	.	.	.	nCoV-2019_12_LEFT	.	.	.	.	.	
+1	8707	8707	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8442C:p.G2814G,ORF1a:cds-YP_009725295.1:exon1:c.T8442C:p.G2814G	-0.769	0.47789	0.992126	0.06	T	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	21823	21823	G	A	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T261A:p.N87K	-3.3	-9.66854	0	0.23	T	disulf_bond	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_LPFNDGVYF	-1	.	.	.	.	.	.	
+1	22563	22563	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A1001T:p.N334I	1.65	2.25839	0.637795	0.01	D	.	BetaCoV_S1-CTD	.	.	.	.	.	surface glycoprotein_RFPNITNLCPF	0.07	.	.	.	.	.	.	
+1	23671	23671	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T2109T:p.N703N	-3.3	-0.235276	0	1.00	T	.	.	.	.	Surface glycoprotein_SYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIA	.	.	surface glycoprotein_LGAENSVAY	0.07	.	.	.	.	.	.	
+1	29624	29624	T	C	exonic	ORF10	.	nonsynonymous SNV	ORF10:cds-YP_009725255.1:exon1:c.T67C:p.S23P	1.6	2.13967	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29766	29766	C	T	downstream	N;ORF10	dist=92	.	.	0.628	2.40709	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30678	30678	G	T	intergenic	ORF10;NONE	dist=1004;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

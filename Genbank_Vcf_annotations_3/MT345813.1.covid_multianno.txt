@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1134	1134	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A869T:p.K290M,ORF1a:cds-YP_009725295.1:exon1:c.A869T:p.K290M	1.65	2.27841	1	0.02	D	.	.	.	.	.	orf1ab polyprotein_PLNSIIKTIQPRVEK	17	orf1ab_KTIQPRVEKK 	-1	.	.	.	.	.	.	
+1	3112	3112	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T2847T:p.Y949Y,ORF1a:cds-YP_009725295.1:exon1:c.T2847T:p.Y949Y	-3.3	-1.07519	0.913386	1.00	T	.	.	.	.	.	.	.	orf1ab_EEEFEPSTQYEY 	-1	.	.	.	.	.	.	
+1	14483	14483	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1016T:p.F339F	1.65	2.19157	0.992646	0.85	T	.	.	.	.	.	orf1ab polyprotein_FVDGVPFVVSTGYHF	12	.	.	.	.	.	.	.	.	
+1	21187	21187	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7720C:p.N2574H	1.65	2.24167	1	0.15	T	.	.	.	.	.	.	.	orf1ab_ITEHSWNADLY 	-1	.	.	.	.	.	.	
+1	23505	23505	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G1943G:p.G648G	1.65	4.256	1	1.00	T	disulf_bond	.	.	.	.	.	.	.	.	nCoV-2019_77_RIGHT	.	.	.	.	.	
+1	25665	25665	G	T	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.C273T:p.Y91Y	-3.3	-3.21802	0	1.00	T	.	.	.	Transmembrane	.	.	.	ORF3a protein_TVYSHLLLV	0.14	nCoV-2019_84_RIGHT	.	.	.	.	.	
+1	27603	27603	T	C	exonic	ORF7a	.	synonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.C210C:p.G70G	-0.95	0.374803	0.992126	1.00	T	.	X4e	.	.	.	ORF7a protein_VKHVYQLRARSVSPK	15	ORF7a protein_FAFACPDGVKHVY	0.1	.	.	.	.	.	.	
+1	29570	29570	G	C	exonic	ORF10	.	nonsynonymous SNV	ORF10:cds-YP_009725255.1:exon1:c.A13C:p.N5H	1.6	2.25106	1	.	.	.	.	.	.	.	ORF10 protein_MGYINVFAFPFTIYS	9.1	ORF10 protein_GYINVFAFPF	0.09	.	.	.	.	.	.	
+1	29655	29655	G	A	exonic	ORF10	.	nonsynonymous SNV	ORF10:cds-YP_009725255.1:exon1:c.T98A:p.V33D	1.6	2.13967	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

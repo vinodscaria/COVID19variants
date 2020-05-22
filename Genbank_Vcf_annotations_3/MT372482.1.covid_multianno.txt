@@ -1,0 +1,49 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	77	77	T	A	upstream	ORF1a	dist=189	.	.	1.57	2.09379	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	84	84	C	A	upstream	ORF1a	dist=182	.	.	1.57	3.13761	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5440	5440	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6312	6312	C	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C6047A:p.T2016K,ORF1a:cds-YP_009725295.1:exon1:c.C6047A:p.T2016K	1.61	3.29661	1	0.03	D	.	.	.	.	.	.	.	orf1ab_TKPVETSNSF 	-1	.	.	.	.	.	.	
+1	11083	11083	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G10818T:p.L3606F,ORF1a:cds-YP_009725295.1:exon1:c.G10818T:p.L3606F	-3.3	-1.32286	0.92126	0.01	D	.	.	.	Transmembrane	.	orf1ab polyprotein_SLFFFLYENAFLPFA	18	orf1ab_FLYENAFLPFAM 	-1	.	.	.	.	homoplasic position	.	
+1	13398	13398	G	V	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13399	13399	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T13134C:p.G4378G,ORF1a:cds-YP_009725295.1:exon1:c.T13134C:p.G4378G	1.65	2.19337	1	1.00	T	.	.	.	.	.	.	.	.	.	nCoV-2019_44_RIGHT	.	.	.	.	.	
+1	13402	13402	T	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13825	13825	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T358T:p.Y120Y	1.65	2.19337	1	1.00	T	.	.	.	.	.	.	.	orf1ab_YTMADLVYAL 	0.14	.	.	.	.	.	.	
+1	19619	19619	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A6152T:p.Q2051L	1.65	2.29805	0.984252	0.00	D	.	.	.	.	.	.	.	orf1ab_NTFTRLQSL 	0.02	.	.	.	.	.	.	
+1	20633	20633	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T7166G:p.V2389G	0.488	0.932354	0.850394	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20634	20634	G	A	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7167A:p.V2389V	-3.3	-2.79416	0.354331	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20636	20636	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7169C:p.E2390A	1.65	2.24167	1	0.57	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20637	20637	G	A	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7170A:p.E2390E	0.48	1.03307	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20639	20639	G	A	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C7172A:p.T2391K	1.65	3.34955	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20642	20642	A	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T7175C:p.F2392S	1.65	2.14095	0.976378	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20645	20645	A	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7178T:p.Y2393F	1.65	2.24167	0.992126	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20646	20646	G	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C7179T:p.Y2393Y	-1.09	0.730921	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20647	20647	G	A	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C7180A:p.P2394T	1.65	3.34955	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20649	20649	T	A	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7182A:p.P2394P	-3.3	-0.276244	0.992126	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22607	22607	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T1045T:p.S349S	-3.3	-6.98054	0	1.00	T	disulf_bond	BetaCoV_S1-CTD	.	.	.	surface glycoprotein_VFNATRFASVYAWNR	9.3	surface glycoprotein_NATRFASVY	0.1	.	.	.	.	.	.	
+1	22609	22609	C	A	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T1047A:p.S349S	-3.3	-1.61197	0	1.00	T	disulf_bond	BetaCoV_S1-CTD	.	.	.	surface glycoprotein_VFNATRFASVYAWNR	9.3	surface glycoprotein_NATRFASVY	0.1	.	.	.	.	.	.	
+1	22611	22611	T	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T1049G:p.V350G	1.65	2.13354	0.346457	0.01	D	disulf_bond	BetaCoV_S1-CTD	.	.	.	surface glycoprotein_VFNATRFASVYAWNR	9.3	surface glycoprotein_NATRFASVY	0.1	.	.	.	.	.	.	
+1	22612	22612	G	A	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T1050A:p.V350V	-3.3	-7.97934	0	1.00	T	disulf_bond	BetaCoV_S1-CTD	.	.	.	surface glycoprotein_VFNATRFASVYAWNR	9.3	surface glycoprotein_NATRFASVY	0.1	.	.	.	.	.	.	
+1	22613	22613	A	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T1051T:p.Y351Y	1.65	2.13354	0.858268	0.57	T	disulf_bond	BetaCoV_S1-CTD	.	.	.	surface glycoprotein_VFNATRFASVYAWNR	9.3	surface glycoprotein_NATRFASVY	0.1	.	.	.	.	.	.	
+1	22616	22616	C	A	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G1054A:p.A352T	1.65	4.256	0.984252	0.30	T	disulf_bond	BetaCoV_S1-CTD	.	.	.	surface glycoprotein_VFNATRFASVYAWNR	9.3	.	.	.	.	.	.	.	.	
+1	22618	22618	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T1056T:p.A352A	-3.3	-10.9757	0	1.00	T	disulf_bond	BetaCoV_S1-CTD	.	.	.	surface glycoprotein_VFNATRFASVYAWNR	9.3	.	.	.	.	.	.	.	.	
+1	22620	22620	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G1058T:p.W353L	1.65	4.256	1	0.04	D	disulf_bond	BetaCoV_S1-CTD	.	.	.	surface glycoprotein_VFNATRFASVYAWNR	9.3	.	.	.	.	.	.	.	.	
+1	22622	22622	C	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A1060G:p.N354D	0.737	2.63294	0.992126	0.04	D	disulf_bond	BetaCoV_S1-CTD	.	.	.	surface glycoprotein_VFNATRFASVYAWNR	9.3	.	.	.	.	.	.	.	.	
+1	22623	22623	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A1061G:p.N354S	1.65	2.25839	0.937008	0.04	D	disulf_bond	BetaCoV_S1-CTD	.	.	.	surface glycoprotein_VFNATRFASVYAWNR	9.3	.	.	.	.	.	.	.	.	
+1	23204	23204	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G1642T:p.G548C	1.65	4.256	0.992126	0.00	D	disulf_bond	.	.	.	Surface glycoprotein_GPKKSTNLVKNKCVNFNFNGLTGTGVLTESN	.	.	.	.	nCoV-2019_76_RIGHT_alt0	SARS-CoV-2_IBS_S1_R	Korea	.	.	.	
+1	23340	23340	T	A	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G1778A:p.G593D	1.65	4.256	1	0.10	T	.	.	.	.	Surface glycoprotein_FGGVSVITPGTNTSNQVAVLYQDVNCTEV	.	.	.	.	.	.	.	.	.	.	
+1	24150	24150	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C2588T:p.P863L	1.65	3.27011	0.984252	0.01	D	.	.	.	.	.	.	.	surface glycoprotein_VLPPLLTDEMIAQY	0.05	nCoV-2019_79_RIGHT	.	.	.	.	.	
+1	27129	27129	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27133	27133	C	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.A611T:p.Y204F	1.65	2.20759	0.96063	0.14	T	.	Intravirion	.	.	Membrane glycoprotein_NYKLNTDHSSSSDNIA	.	.	.	.	.	.	.	.	.	.	
+1	27136	27136	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27139	27139	G	C	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.T617C:p.L206S	1.65	2.20759	1	0.07	T	.	Intravirion	.	.	Membrane glycoprotein_NYKLNTDHSSSSDNIA	.	.	.	.	.	.	.	.	.	.	
+1	27140	27140	C	A	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.A618A:p.L206L	1.65	2.20759	1	1.00	T	.	Intravirion	.	.	Membrane glycoprotein_NYKLNTDHSSSSDNIA	.	.	.	.	.	.	.	.	.	.	
+1	27142	27142	T	G	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.A620G:p.N207S	1.65	2.20759	1	0.72	T	.	Intravirion	.	.	Membrane glycoprotein_NYKLNTDHSSSSDNIA	.	.	.	.	nCoV-2019_90_LEFT	.	.	.	.	.	
+1	27143	27143	C	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28532	28532	C	T	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.T259T:p.Y87Y	1.65	2.19982	1	0.87	T	.	9b	.	.	.	nucleocapsid phosphoprotein_DDQIGYYRRATRRIR	9.2	nucleocapsid phosphoprotein_NTNSSPDDQIGYY	-1	.	.	.	.	.	.	
+1	30082	30082	G	A	downstream	N;ORF10	dist=408	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30083	30083	G	A	downstream	N;ORF10	dist=409	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30085	30085	G	A	downstream	N;ORF10	dist=411	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30088	30088	T	A	downstream	N;ORF10	dist=414	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30089	30089	G	A	downstream	N;ORF10	dist=415	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30091	30091	C	A	downstream	N;ORF10	dist=417	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

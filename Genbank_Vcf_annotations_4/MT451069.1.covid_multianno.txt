@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	2416	2416	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2151T:p.Y717Y,ORF1a:cds-YP_009725295.1:exon1:c.C2151T:p.Y717Y	-3.3	0.0194016	0.992126	1.00	T	.	.	.	.	.	orf1ab polyprotein_GETFVTHSKGLYRKC	19	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	4316	4316	A	G	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A4051G:p.S1351G,ORF1a:cds-YP_009725295.1:exon1:c.A4051G:p.S1351G	0.429	0.354394	0.992126	0.00	D	.	.	.	.	.	orf1ab polyprotein_SAFYILPSIISNEKQ	14	.	.	nCoV-2019_15_LEFT	.	.	.	.	.	
+1	11439	11439	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A11174T:p.N3725I,ORF1a:cds-YP_009725295.1:exon1:c.A11174T:p.N3725I	1.65	2.26436	1	0.01	D	.	.	.	.	.	orf1ab polyprotein_TLVYKVYYGNALDQA	16	orf1ab_NALDQAISM 	0.04	.	.	.	.	.	.	
+1	14734	14734	C	T	exonic	ORF1b	.	stopgain	ORF1b:cds-YP_009724389.1:exon1:c.G1267T:p.G423X	1.65	4.256	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23285	23285	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23828	23828	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T2266G:p.Y756D	1.65	2.17468	1	0.00	D	disulf_bond	.	.	.	.	.	.	.	.	nCoV-2019_78_RIGHT	.	.	.	.	.	
+1	25988	25988	G	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.A596T:p.D199V	1.65	2.29407	1	0.00	D	.	.	.	.	.	.	.	.	.	nCoV-2019_85_RIGHT	.	.	.	.	.	

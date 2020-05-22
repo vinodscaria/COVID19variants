@@ -1,0 +1,12 @@
+##fileformat=VCFv4.1									
+##contig=<ID=1,length=29923>									
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">									
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	LC528233.1
+1	13	.	A	G	.	.	.	GT	1
+1	11095	.	G	T	.	.	.	GT	1
+1	29647	.	C	T	.	.	.	GT	1
+1	29888	.	A	C	.	.	.	GT	1
+1	29890	.	A	G	.	.	.	GT	1
+1	29891	.	A	T	.	.	.	GT	1
+1	29892	.	A	G	.	.	.	GT	1
+1	29895	.	A	C	.	.	.	GT	1

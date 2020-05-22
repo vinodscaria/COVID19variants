@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	106	106	C	T	upstream	ORF1a	dist=160	.	.	-3.15	0.00613386	0.992126	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1643	1643	A	G	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A1378G:p.N460D,ORF1a:cds-YP_009725295.1:exon1:c.A1378G:p.N460D	0.48	1.03326	0.968504	0.44	T	.	.	.	.	.	.	.	.	.	nCoV-2019_5_RIGHT	.	.	.	.	.	
+1	8820	8820	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8555T:p.P2852L,ORF1a:cds-YP_009725295.1:exon1:c.C8555T:p.P2852L	1.65	3.2943	1	0.00	D	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17888	17888	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4421T:p.E1474V	1.65	2.24049	1	0.00	D	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17999	17999	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C4532G:p.T1511R	0.78	1.77537	0.976685	0.32	T	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	orf1ab_YDKLQFTSL 	0.12	.	.	.	.	.	.	
+1	18201	18201	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C4734T:p.L1578L	1.65	3.32576	1	1.00	T	.	.	.	.	.	orf1ab polyprotein_PKDMTYRRLISMMGF	9.4	orf1ab_MTYRRLISM 	0.12	.	.	.	.	.	.	
+1	19557	19557	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24861	24861	A	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C3299T:p.T1100I	0.769	1.91153	1	0.02	D	disulf_bond	.	.	.	.	.	.	surface glycoprotein_REGVFVSNGTHW	-1	.	.	.	.	.	.	
+1	28311	28311	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C38C:p.P13P	1.65	3.27687	1	1.00	T	.	9b	.	.	.	.	.	.	.	.	.	.	.	.	.	
