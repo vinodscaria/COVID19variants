@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	3741	3741	T	G	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T3476G:p.I1159R,ORF1a:cds-YP_009725295.1:exon1:c.T3476G:p.I1159R	0.411	0.932661	0.102362	0.64	T	.	Macro	.	.	.	orf1ab polyprotein_AGIFGADPIHSLRVC	15	.	.	.	.	.	.	.	.	
+1	3903	3903	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C3638T:p.P1213L,ORF1a:cds-YP_009725295.1:exon1:c.C3638T:p.P1213L	0.154	0.171063	0	0.02	D	.	.	.	.	.	.	.	orf1ab_AEIPKEEVKPF 	-1	.	.	.	.	.	.	
+1	5497	5497	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C5232T:p.C1744C,ORF1a:cds-YP_009725295.1:exon1:c.C5232T:p.C1744C	-3.3	-1.47417	0	0.04	D	.	Peptidase_C16	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14408	14408	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C941T:p.P314L	1.65	3.30748	1	0.31	T	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	
+1	23403	23403	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A1841G:p.D614G	1.65	2.25839	1	0.30	T	.	.	.	.	Surface glycoprotein_FGGVSVITPGTNTSNQVAVLYQDVNCTEV	.	.	.	.	.	.	.	.	.	.	
+1	26815	26815	C	A	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.C293A:p.A98D	1.65	3.2857	1	0.25	T	.	.	.	Transmembrane	.	membrane glycoprotein_MWLSYFIASFRLFAR	3.9	membrane glycoprotein_SYFIASFRLF	-1	.	.	.	.	.	.	
+1	27741	27741	C	T	exonic	ORF7a	.	synonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.C348T:p.L116L	0.219	0.241551	1	0.45	T	.	.	.	Transmembrane	.	.	.	.	.	.	.	.	.	.	.	

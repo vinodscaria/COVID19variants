@@ -1,0 +1,14 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6546	6546	C	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A6281A:p.D2094D,ORF1a:cds-YP_009725295.1:exon1:c.A6281A:p.D2094D	1.61	2.23063	1	1.00	T	.	.	.	.	.	.	.	orf1ab_ITEEVGHTDLMAAY 	0.02	nCoV-2019_21_RIGHT_alt0	.	.	.	.	.	
+1	8256	8256	T	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11317	11317	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G11052T:p.M3684I,ORF1a:cds-YP_009725295.1:exon1:c.G11052T:p.M3684I	1.65	4.256	1	0.54	T	.	.	.	Transmembrane	.	.	.	orf1ab_MYASAVVLL 	-1	nCoV-2019_38_LEFT	.	.	.	.	.	
+1	13187	13187	T	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13236	13236	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13241	13241	G	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13964	13964	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A497T:p.Y166F	1.65	2.25587	1	0.04	D	.	.	.	.	.	orf1ab polyprotein_PDILRVYANLGERVR	15	orf1ab_FVENPDILRVY 	-1	nCoV-2019_46_RIGHT_alt2	.	.	.	.	.	
+1	20943	20943	G	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22026	22026	A	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G464T:p.S155I	0.154	0.168063	0.0629921	0.45	T	disulf_bond	BetaCoV_S1-NTD	.	.	Surface glycoprotein_HKNNKSWMESEFRVYSSANNCTF	.	.	.	.	nCoV-2019_72_RIGHT	.	.	.	.	.	
+1	24108	24108	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T2546T:p.L849L	1.65	2.17468	0.889764	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24163	24163	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T2601T:p.D867D	-2.15	0.0933543	0.992126	0.49	T	.	.	.	.	Surface glycoprotein_DEMIAQYTSALLAG	.	.	surface glycoprotein_VLPPLLTDEMIAQY	0.05	nCoV-2019_79_RIGHT	.	.	.	.	.	
+1	28791	28791	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
