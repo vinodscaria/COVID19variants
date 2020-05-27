@@ -1,12 +1,12 @@
-##fileformat=VCFv4.1
-##contig=<ID=1,length=29998>
-##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
-#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	NC_045512.2	2020-04-26
-1	278	.	C	T	.	.	.	GT	0	1
-1	3074	.	C	T	.	.	.	GT	0	1
-1	10347	.	C	T	.	.	.	GT	0	1
-1	14478	.	C	T	.	.	.	GT	0	1
-1	18947	.	C	T	.	.	.	GT	0	1
-1	23473	.	A	G	.	.	.	GT	0	1
-1	25633	.	G	T	.	.	.	GT	0	1
-1	26805	.	C	T	.	.	.	GT	0	1
+##fileformat=VCFv4.1									
+##contig=<ID=1,length=29903>									
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">									
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	20200426
+1	241	.	C	T	.	.	.	GT	1
+1	3037	.	C	T	.	.	.	GT	1
+1	10277	.	C	T	.	.	.	GT	1
+1	14408	.	C	T	.	.	.	GT	1
+1	18877	.	C	T	.	.	.	GT	1
+1	23403	.	A	G	.	.	.	GT	1
+1	25563	.	G	T	.	.	.	GT	1
+1	26735	.	C	T	.	.	.	GT	1
