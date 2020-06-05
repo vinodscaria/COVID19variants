@@ -13,3 +13,5 @@ Variant calls from genomic data was performed computationally applying a range o
    Variant calling using SNP-SITES
 
  All the filtered VCFs are uploaded and those which have been excluded in the analysis are documented in Excluded.txt provided.
+
+

@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1462	1462	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G1197T:p.K399N,ORF1a:cds-YP_009725295.1:exon1:c.G1197T:p.K399N	0.75	2.79112	1	0.30	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7945	7945	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C7680T:p.Y2560Y,ORF1a:cds-YP_009725295.1:exon1:c.C7680T:p.Y2560Y	-3.06	-0.0312126	0.992134	1.00	T	.	.	.	.	.	.	.	orf1ab_SAKSASVYY 	0.1	nCoV-2019_27_LEFT	.	.	.	.	.	
+1	8782	8782	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8517T:p.S2839S,ORF1a:cds-YP_009725295.1:exon1:c.C8517T:p.S2839S	-1.35	0.271811	1	0.67	T	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	10339	10339	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T10074C:p.N3358N,ORF1a:cds-YP_009725295.1:exon1:c.T10074C:p.N3358N	-3.3	-0.494315	0.976378	1.00	T	.	Peptidase_C30	.	.	.	orf1ab polyprotein_QNCVLKLKVDTANPK	14	orf1ab_TANPKTPKY 	0.03	.	.	.	.	.	.	
+1	22468	22468	G	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.G906T:p.T302T	-3.3	-8.13556	0	1.00	T	.	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_SETKCTLKSF	-1	.	.	.	.	.	.	
+1	26681	26681	C	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.C159T:p.F53F	-3.3	-1.02674	0.779528	0.21	T	.	.	.	Transmembrane	.	membrane glycoprotein_NRNRFLYIIKLIFLW	14	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	28144	28144	T	C	exonic	ORF8	.	nonsynonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.T251C:p.L84S	-0.206	-1.52089	0	0.37	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28878	28878	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G605A:p.S202N	1.65	4.256	1	0.00	D	.	.	.	Transmembrane	Nucleocapsid phosphoprotein_RGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGG	.	.	.	.	.	.	.	.	.	.	
+1	29742	29742	G	A	downstream	N;ORF10	dist=68	.	.	1.54	3.97972	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

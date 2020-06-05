@@ -1,0 +1,7 @@
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	EPI_ISL_413523
+1	1691	.	A	G	.	.	.	GT	1
+1	6501	.	C	T	.	.	.	GT	1
+1	8782	.	C	T	.	.	.	GT	1
+1	16877	.	C	T	.	.	.	GT	1
+1	24351	.	C	T	.	.	.	GT	1
+1	28144	.	T	C	.	.	.	GT	1

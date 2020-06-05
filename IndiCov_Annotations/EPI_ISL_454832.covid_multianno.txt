@@ -1,0 +1,7 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6331	6331	C	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A6066A:p.S2022S,ORF1a:cds-YP_009725295.1:exon1:c.A6066A:p.S2022S	0.416	0.951449	1	0.33	T	.	.	.	.	.	.	.	orf1ab_TKPVETSNSF 	-1	.	.	.	.	.	.	
+1	11102	11102	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C10837T:p.P3613S,ORF1a:cds-YP_009725295.1:exon1:c.C10837T:p.P3613S	1.65	3.31698	1	0.07	T	.	.	.	Transmembrane	.	orf1ab polyprotein_SLFFFLYENAFLPFA	18	orf1ab_FLYENAFLPFAM 	-1	.	.	.	.	.	.	
+1	13749	13749	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G282T:p.K94N	0.646	2.25587	1	0.02	D	.	.	.	.	.	.	.	orf1ab_AVAKHDFFK 	-1	.	.	.	.	.	.	
+1	23948	23948	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G2386T:p.D796Y	0.741	2.72239	0.976378	0.20	T	.	.	.	.	.	.	.	surface glycoprotein_IYKTPPIKDF	-1	.	.	.	.	.	.	
+1	28330	28330	C	T	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.A57T:p.G19G	1.33	1.80817	1	0.00	D	.	9b	.	.	.	.	.	.	.	.	WH-NIC N-Forward	Thailand	.	.	.	
