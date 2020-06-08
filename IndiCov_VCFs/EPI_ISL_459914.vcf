@@ -1,0 +1,23 @@
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	
+1	241	.	C	T	.	.	.	GT	1
+1	313	.	C	T	.	.	.	GT	1
+1	347	.	G	R	.	.	.	GT	1
+1	1707	.	C	Y	.	.	.	GT	1
+1	3037	.	C	T	.	.	.	GT	1
+1	9384	.	C	Y	.	.	.	GT	1
+1	10958	.	G	K	.	.	.	GT	1
+1	11221	.	G	K	.	.	.	GT	1
+1	13730	.	C	Y	.	.	.	GT	1
+1	14408	.	C	Y	.	.	.	GT	1
+1	16359	.	A	R	.	.	.	GT	1
+1	19193	.	G	K	.	.	.	GT	1
+1	22049	.	G	R	.	.	.	GT	1
+1	22081	.	G	R	.	.	.	GT	1
+1	23403	.	A	R	.	.	.	GT	1
+1	27389	.	C	T	.	.	.	GT	1
+1	28311	.	C	Y	.	.	.	GT	1
+1	28712	.	G	R	.	.	.	GT	1
+1	28881	.	G	A	.	.	.	GT	1
+1	28882	.	G	A	.	.	.	GT	1
+1	28883	.	G	C	.	.	.	GT	1
+1	28952	.	T	Y	.	.	.	GT	1
