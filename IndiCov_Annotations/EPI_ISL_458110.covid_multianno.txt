@@ -1,11 +1,11 @@
-Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	IEDB_bCellEpitopes	IEDB_cd4Epitopes	IEDB_cd4Epitope_Score	IEDB_cd8Epitopes	IEDB_cd8Epitope_Score	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
-#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	5700	5700	C	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C5435A:p.A1812D,ORF1a:cds-YP_009725295.1:exon1:c.C5435A:p.A1812D	1.65	3.32318	1	0.38	T	.	Peptidase_C16	.	.	.	orf1ab polyprotein_ESPFVMMSAPPAQYE	11	.	.	.	.	.	.	.	.	
-1	18877	18877	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C5410T:p.L1804L	-3.3	0.101307	0.96063	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	21018	21018	A	G	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7551G:p.T2517T	-3.3	-0.477677	0.984252	0.30	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	25563	25563	G	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.G171T:p.Q57H	-3.3	-1.17891	0.929134	0.00	D	.	.	.	.	.	ORF3a protein_ALLAVFQSASKIITL	11	ORF3a protein_SASKIITLK	-1	.	.	.	.	.	hypermutable low-fitness site	
-1	26735	26735	C	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.C213T:p.Y71Y	-0.165	1.12948	1	1.00	T	.	Virion_surface	.	Transmembrane	.	membrane glycoprotein_TLACFVLAAVYRINW	11	.	.	.	.	.	.	.	.	
-1	28289	28289	C	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C16A:p.P6T	0.781	1.90608	1	0.00	D	.	.	.	.	.	.	.	.	.	.	2019-nCoV_N1-F	Centers for Disease Control and Prevention (CDC); KRISHGEN BIOSYSTEMS	.	.	.	
-1	29734	29734	G	T	downstream	N;ORF10	dist=60	.	.	1.58	4.076	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
-1	29743	29743	C	T	downstream	N;ORF10	dist=69	.	.	1.54	3.11317	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5700	5700	C	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C5435A:p.A1812D,ORF1a:cds-YP_009725295.1:exon1:c.C5435A:p.A1812D	1.65	3.32318	1	0.38	T	.	Peptidase_C16	.	.	.	orf1ab polyprotein_ESPFVMMSAPPAQYE	11	.	.	.	.	.	.	.	.	.	.	
+1	18877	18877	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C5410T:p.L1804L	-3.3	0.101307	0.96063	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	21018	21018	A	G	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7551G:p.T2517T	-3.3	-0.477677	0.984252	0.30	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25563	25563	G	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.G171T:p.Q57H	-3.3	-1.17891	0.929134	0.00	D	.	.	.	.	.	ORF3a protein_ALLAVFQSASKIITL	11	ORF3a protein_SASKIITLK	-1	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	26735	26735	C	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.C213T:p.Y71Y	-0.165	1.12948	1	1.00	T	.	Virion_surface	.	Transmembrane	.	membrane glycoprotein_TLACFVLAAVYRINW	11	.	.	.	.	.	.	.	.	.	.	
+1	28289	28289	C	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C16A:p.P6T	0.781	1.90608	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	2019-nCoV_N1-F	Centers for Disease Control and Prevention (CDC); KRISHGEN BIOSYSTEMS	.	.	.	
+1	29734	29734	G	T	downstream	N;ORF10	dist=60	.	.	1.58	4.076	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29743	29743	C	T	downstream	N;ORF10	dist=69	.	.	1.54	3.11317	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
