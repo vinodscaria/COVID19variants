@@ -2,12 +2,12 @@
 ##contig=<ID=1,length=29962>									
 ##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">									
 #CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	EPI_ISL_451666
-1	1303	.	A	G	.	.	.	GT	1
-1	1306	.	C	T	.	.	.	GT	1
-1	6337	.	C	A	.	.	.	GT	1
-1	11108	.	G	T	.	.	.	GT	1
-1	13749	.	C	T	.	.	.	GT	1
-1	13755	.	C	T	.	.	.	GT	1
-1	23954	.	C	T	.	.	.	GT	1
-1	28314	.	C	A	.	.	.	GT	1
-1	28336	.	C	T	.	.	.	GT	1
+1	1278	.	A	G	.	.	.	GT	1
+1	1281	.	C	T	.	.	.	GT	1
+1	6312	.	C	A	.	.	.	GT	1
+1	11083	.	G	T	.	.	.	GT	1
+1	13724	.	C	T	.	.	.	GT	1
+1	13730	.	C	T	.	.	.	GT	1
+1	23929	.	C	T	.	.	.	GT	1
+1	28289	.	C	A	.	.	.	GT	1
+1	28311	.	C	T	.	.	.	GT	1
