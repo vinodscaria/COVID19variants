@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3207	3207	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A2942T:p.D981V,ORF1a:cds-YP_009725295.1:exon1:c.A2942T:p.D981V	-2.67	0.240299	0.913386	0.11	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_10_RIGHT	.	.	.	.	.	
+1	4249	4249	A	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T3984T:p.T1328T,ORF1a:cds-YP_009725295.1:exon1:c.T3984T:p.T1328T	-1.63	0.354394	1	1.00	T	.	.	.	.	.	.	.	orf1ab_ALRKVPTDNYITTY 	0.04	.	.	.	.	.	.	.	.	
+1	6920	6920	A	C	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A6655C:p.K2219Q,ORF1a:cds-YP_009725295.1:exon1:c.A6655C:p.K2219Q	1.65	2.23063	1	0.08	T	.	.	.	.	.	orf1ab polyprotein_LEASFNYLKSPNFSK	7.2	orf1ab_ASFNYLKSPNFSK 	-1	.	.	.	.	.	.	.	.	
+1	15256	15256	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1789T:p.Y597Y	1.65	2.19157	1	0.47	T	.	.	.	.	.	.	.	orf1ab_TVYSDVENPHLMGW 	0.14	.	.	.	.	.	.	.	.	
+1	19855	19855	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A6388T:p.I2130F	1.65	2.29805	0.952756	0.01	D	.	.	.	.	.	orf1ab polyprotein_VKILNNLGVDIAANT	16	.	.	.	.	nCoV-2019_66_LEFT	.	.	.	.	.	
+1	25491	25491	A	G	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.A99G:p.A33A	-0.755	0.526157	1	1.00	T	.	.	glyco	.	.	ORF3a protein_SDFVRATATIPIQAS	14	.	.	.	.	.	.	.	.	.	.	
+1	27651	27651	G	T	exonic	ORF7a	.	synonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.G258T:p.L86L	-0.883	0.0457244	1	1.00	T	.	.	.	.	.	.	.	ORF7a protein_RARSVSPKL	0.1	.	.	.	.	.	.	.	.	
+1	27776	27776	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

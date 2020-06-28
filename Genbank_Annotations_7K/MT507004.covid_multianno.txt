@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9449	9449	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T9184T:p.Y3062Y,ORF1a:cds-YP_009725295.1:exon1:c.T9184T:p.Y3062Y	1.65	2.17336	1	1.00	T	.	.	.	Transmembrane	.	orf1ab polyprotein_AYYFMRFRRAFGEYS	17	.	.	.	.	.	.	.	.	.	.	
+1	18901	18901	C	T	exonic	ORF1b	.	stopgain	ORF1b:cds-YP_009724389.1:exon1:c.A5434T:p.K1812X	1.65	2.21939	1	.	.	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_63_LEFT	ORF1b Reverse	Nepal, China	.	.	.	
+1	19012	19012	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A5545G:p.K1849E	1.65	2.21939	0.968504	0.05	D	.	.	.	.	.	orf1ab polyprotein_KVQHMVVKAALLADK	16	orf1ab_LLADKFPVL 	-1	.	.	.	.	.	.	.	.	
+1	19214	19214	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A5747T:p.Y1916F	1.65	2.21939	1	0.00	D	.	.	.	.	.	.	.	orf1ab_YPANSIVCRF 	0.08	.	.	nCoV-2019_64_LEFT	.	.	.	.	.	
+1	25379	25379	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A3817G:p.T1273A	1.65	2.23123	1	0.00	D	.	.	.	.	.	.	.	.	.	Spike glycoprotein	CKFDEDDSEPVLKGVKLHYT	.	.	.	.	.	.	
+1	25425	25425	T	G	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.A33G:p.G11G	-3.3	-0.539512	0.0472441	1.00	T	.	.	.	.	.	ORF3a protein_MDLFMRIFTIGTVTL	16	ORF3a protein_RIFTIGTVTLK	-1	.	.	.	.	.	.	.	.	
+1	30986	30986	T	C	intergenic	ORF10;NONE	dist=1312;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	31559	31559	C	T	intergenic	ORF10;NONE	dist=1885;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

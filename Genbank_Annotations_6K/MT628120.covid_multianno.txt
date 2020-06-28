@@ -1,0 +1,13 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1441	1441	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C1176T:p.G392G,ORF1a:cds-YP_009725295.1:exon1:c.C1176T:p.G392G	-3.3	0.00784252	0.968504	0.65	T	.	.	.	.	.	.	.	orf1ab_AEYHNESGL 	0.04	.	.	.	.	.	.	.	.	
+1	3856	3856	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8525	8525	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G8260A:p.V2754I,ORF1a:cds-YP_009725295.1:exon1:c.G8260A:p.V2754I	0.509	0.546583	0.992126	0.33	T	.	.	.	.	.	.	.	orf1ab_RQVVNVVTTK 	-1	.	.	.	.	.	.	.	.	
+1	10556	10556	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	12133	12133	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	12177	12177	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	12944	12944	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	16208	16208	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17482	17482	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4015G:p.T1339A	1.65	2.24049	1	0.02	D	.	+)RNA_virus_helicase_ATP_binding	.	.	.	.	.	orf1ab_APRTLLTKGTL 	-1	.	.	.	.	.	.	.	.	
+1	28181	28181	C	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29268	29268	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C995T:p.T332I	0.792	1.9169	1	0.06	T	.	.	.	.	.	nucleocapsid phosphoprotein_PSGTWLTYTGAIKLD	17	nucleocapsid phosphoprotein_TPSGTWLTY	0.01	.	.	.	NIID_N2_R	National Institute of Infectious Disease (NIID); Yamanashi Central Hospital (YCH )	.	.	.	

@@ -1,0 +1,9 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8989	8989	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8724T:p.F2908F,ORF1a:cds-YP_009725295.1:exon1:c.T8724T:p.F2908F	1.65	2.19521	1	1.00	T	.	Lumenal	.	.	.	.	.	orf1ab_KLIEYTDFA 	0.04	.	.	.	.	.	.	.	.	
+1	18211	18211	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4744T:p.M1582L	1.65	2.24049	1	0.15	T	.	.	.	.	.	orf1ab polyprotein_PKDMTYRRLISMMGF	9.4	orf1ab_MTYRRLISM 	0.12	.	.	.	.	.	.	.	.	
+1	18322	18322	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C4855G:p.H1619D	1.65	3.32576	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18524	18524	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T5057T:p.V1686V	1.65	2.21939	1	1.00	T	.	.	.	.	.	orf1ab polyprotein_PLMYKGLPWNVVRIK	19	orf1ab_VVRIKIVQM 	0.03	.	.	.	.	.	.	.	.	
+1	19536	19536	G	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C6069T:p.N2023N	-3.3	-2.79263	0	1.00	T	.	.	.	.	.	orf1ab polyprotein_YRLYLDAYNMMISAG	17	orf1ab_LYLDAYNMM 	-1	.	.	.	.	.	.	.	.	
+1	26160	26160	A	T	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.T768T:p.V256V	-0.82	0.0518661	0.992126	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29610	29610	T	C	exonic	ORF10	.	nonsynonymous SNV	ORF10:cds-YP_009725255.1:exon1:c.T53C:p.L18S	1.6	2.13967	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

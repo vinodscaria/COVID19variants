@@ -1,0 +1,13 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1424	1424	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T1159A:p.Y387N,ORF1a:cds-YP_009725295.1:exon1:c.T1159A:p.Y387N	1.65	2.20517	0.755906	0.02	D	.	.	.	.	.	.	.	orf1ab_SEVGPEHSLAEY 	-1	.	.	.	.	.	.	.	.	
+1	4741	4741	A	G	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T4476G:p.S1492S,ORF1a:cds-YP_009725295.1:exon1:c.T4476G:p.S1492S	-3.3	-0.133307	0.984252	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8848	8848	T	C	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A8583C:p.E2861D,ORF1a:cds-YP_009725295.1:exon1:c.A8583C:p.E2861D	-3.3	-0.415118	0.968504	0.03	D	.	Lumenal	.	.	.	.	.	orf1ab_REVGFVVPGL 	0.05	.	.	.	.	.	.	.	.	
+1	15785	15785	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T2318C:p.F773S	1.65	2.17584	1	0.00	D	.	.	.	.	.	orf1ab polyprotein_GLVASIKNFKSVLYY	8	orf1ab_LVASIKNFK 	-1	.	.	.	.	.	.	.	.	
+1	15786	15786	C	A	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T2319A:p.F773L	-3.3	-0.251008	0.992189	0.00	D	.	.	.	.	.	orf1ab polyprotein_GLVASIKNFKSVLYY	8	orf1ab_LVASIKNFK 	-1	.	.	.	.	.	.	.	.	
+1	22128	22128	G	A	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T566A:p.L189H	1.65	2.21203	0	0.37	T	.	BetaCoV_S1-NTD	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22868	22868	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T1306T:p.W436W	1.65	2.13354	0.952756	0.44	T	disulf_bond	BetaCoV_S1-CTD	.	.	Surface glycoprotein_IAWNSNNLDSK	.	.	.	.	.	.	.	S Reverse	China	.	.	.	
+1	23976	23976	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T2414T:p.I805I	1.65	2.17468	1	0.65	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30064	30064	T	C	downstream	N;ORF10	dist=390	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30206	30206	C	T	downstream	N;ORF10	dist=532	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	31118	31118	G	T	intergenic	ORF10;NONE	dist=1444;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

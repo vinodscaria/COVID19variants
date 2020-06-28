@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	593	593	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C328T:p.H110Y,ORF1a:cds-YP_009725295.1:exon1:c.C328T:p.H110Y	-0.157	1.19908	1	1.00	T	.	.	.	.	.	.	.	orf1ab_TLGVLVPHV 	0.1	.	.	.	.	.	.	.	.	
+1	1059	1059	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C794T:p.T265I,ORF1a:cds-YP_009725295.1:exon1:c.C794T:p.T265I	1.65	3.30383	0.992126	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	3309	3309	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3044T:p.E1015V,ORF1a:cds-YP_009725295.1:exon1:c.A3044T:p.E1015V	0.5	0.378772	0.275591	0.08	T	.	.	.	.	.	.	.	orf1ab_LEMELTPVVQTI 	0.1	.	.	.	.	.	.	.	.	
+1	15410	15410	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1943T:p.N648I	1.65	2.24518	0.960945	0.00	D	.	RdRp_catalytic	.	.	.	.	.	orf1ab_RLANECAQV 	0.16	.	.	.	.	.	.	.	.	
+1	23927	23927	T	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T2365G:p.Y789D	1.65	2.17468	0.984252	0.21	T	.	.	.	.	.	.	.	surface glycoprotein_QEVFAQVKQIY	-1	.	.	.	.	.	.	.	.	
+1	25637	25637	A	G	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.A245G:p.N82S	0.492	0.986118	0.716535	0.00	D	.	.	.	Transmembrane	.	ORF3a protein_GVHFVCNLLLLFVTV	20	.	.	.	.	.	.	.	.	.	.	
+1	27705	27705	G	C	exonic	ORF7a	.	synonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.T312C:p.V104V	0.411	0.926945	1	1.00	T	.	.	.	Transmembrane	.	ORF7a protein_LYSPIFLIVAAIVFI	11	.	.	.	.	.	.	.	.	.	.	
+1	27797	27797	G	T	exonic	ORF7b	.	nonsynonymous SNV	ORF7b:cds-YP_009725318.1:exon1:c.A42T:p.L14F	1.65	2.29773	1	0.00	D	.	.	.	Transmembrane	.	.	.	.	.	.	.	nCoV-2019_92_LEFT	.	.	.	.	.	
+1	32709	32709	C	A	intergenic	ORF10;NONE	dist=3035;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

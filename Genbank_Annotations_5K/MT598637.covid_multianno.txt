@@ -1,0 +1,13 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1124	1124	G	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A859C:p.R287R,ORF1a:cds-YP_009725295.1:exon1:c.A859C:p.R287R	-0.388	0.300819	1	0.63	T	.	.	.	.	.	orf1ab polyprotein_PLNSIIKTIQPRVEK	17	orf1ab_KTIQPRVEKK 	-1	.	.	.	.	.	.	.	.	
+1	9611	9611	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C9346T:p.L3116F,ORF1a:cds-YP_009725295.1:exon1:c.C9346T:p.L3116F	0.474	0.469386	1	1.00	T	.	.	.	Transmembrane	.	orf1ab polyprotein_YLTFYLTNDVSFLAH	7.4	orf1ab_TFYLTNDVSFL 	-1	.	.	.	.	.	.	.	.	
+1	10998	10998	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G10733T:p.G3578V,ORF1a:cds-YP_009725295.1:exon1:c.G10733T:p.G3578V	1.65	4.256	1	0.02	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	19387	19387	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A5920T:p.S1974C	1.65	2.21939	1	0.01	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	19722	19722	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A6255T:p.K2085N	-1.72	0.340094	1	0.02	D	.	.	.	.	.	.	.	orf1ab_SIINNTVYTK 	-1	.	.	.	.	.	.	.	.	
+1	22718	22718	A	T	exonic	S	.	stopgain	S:cds-YP_009724390.1:exon1:c.A1156T:p.K386X	1.65	2.25839	0.976378	.	.	disulf_bond	BetaCoV_S1-CTD	.	.	.	.	.	.	.	.	.	.	S Forward	China	.	.	.	
+1	27431	27431	T	G	exonic	ORF7a	.	nonsynonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.C38G:p.A13G	0.72	1.88416	0.322835	0.07	T	.	.	.	.	.	ORF7a protein_MKIILFLALITLATC	13	.	.	.	.	.	.	.	.	.	.	
+1	31401	31401	A	T	intergenic	ORF10;NONE	dist=1727;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	31703	31703	A	C	intergenic	ORF10;NONE	dist=2029;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	32231	32231	G	T	intergenic	ORF10;NONE	dist=2557;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	32487	32487	G	C	intergenic	ORF10;NONE	dist=2813;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

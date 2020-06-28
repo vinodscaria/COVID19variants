@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8821	8821	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A8556T:p.P2852P,ORF1a:cds-YP_009725295.1:exon1:c.A8556T:p.P2852P	-3.3	-0.964661	0.944882	1.00	T	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13878	13878	T	A	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T411A:p.L137L	-2	0.193244	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	16530	16530	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T3063T:p.V1021V	-3.3	-0.885228	0.960709	0.48	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17984	17984	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4517T:p.D1506V	1.65	2.24049	1	0.01	D	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	orf1ab_YDKLQFTSL 	0.12	.	.	nCoV-2019_60_LEFT	.	.	.	.	.	
+1	18095	18095	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4628G:p.H1543R	1.65	2.24049	1	0.20	T	.	.	.	.	.	.	.	orf1ab_HPTQAPTHL 	-1	.	.	.	.	.	.	.	.	
+1	18297	18297	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G4830T:p.W1610C	1.65	4.256	1	0.00	D	.	.	.	.	.	orf1ab polyprotein_REEAIRHVRAWIGFD	16	orf1ab_REEAIRHVRAW 	-1	.	.	.	.	.	.	.	.	
+1	18918	18918	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T5451T:p.T1817T	1.65	2.21939	1	0.44	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_63_LEFT	.	.	.	.	.	
+1	26810	26810	A	G	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.C288G:p.F96L	-0.319	0.913858	0.992126	0.01	D	.	.	.	Transmembrane	.	membrane glycoprotein_MWLSYFIASFRLFAR	3.9	membrane glycoprotein_SYFIASFRLF	-1	.	.	.	.	.	.	.	.	
+1	28400	28400	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C127C:p.Q43Q	1.65	3.27687	1	0.49	T	.	9b	.	.	.	.	.	.	.	.	.	nCoV-2019_94_LEFT	.	.	.	.	.	
+1	29101	29101	G	A	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.A828A:p.R276R	-3.3	-1.75883	0.795276	0.78	T	.	.	.	.	.	.	.	.	.	Nucleocapsid phosphoprotein	YNVTQAFGRRGPEQTQGNF	.	.	.	.	.	.	

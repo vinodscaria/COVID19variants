@@ -1,0 +1,19 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3476	3476	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G3211T:p.V1071F,ORF1a:cds-YP_009725295.1:exon1:c.G3211T:p.V1071F	1.65	4.256	1	0.01	D	.	Macro	.	.	.	.	.	.	.	.	.	nCoV-2019_12_LEFT	.	.	.	.	.	
+1	15693	15693	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A2226T:p.K742N	-2.5	-0.0429921	0.992189	0.00	D	.	RdRp_catalytic	.	.	.	orf1ab polyprotein_EFYAYLRKHFSMMIL	9.7	orf1ab_YAYLRKHF 	0.07	.	.	.	.	.	.	.	.	
+1	15934	15934	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C2467T:p.P823S	1.65	3.28526	1	0.00	D	.	.	.	.	.	.	.	orf1ab_YLPYPDPSRIL 	-1	.	.	.	.	.	.	.	.	
+1	18142	18142	A	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4675T:p.T1559S	1.65	2.24049	1	0.07	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23020	23020	A	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T1458T:p.F486F	-3.3	-3.11017	0	0.71	T	disulf_bond	BetaCoV_S1-CTD	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25228	25228	A	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T3666T:p.A1222A	-3.3	-0.432945	0.984252	0.23	T	.	.	.	Transmembrane	.	surface glycoprotein_IWLGFIAGLIAIVMV	18	surface glycoprotein_FIAGLIAIV	0.1	.	.	.	.	.	.	.	.	
+1	25231	25231	C	A	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.C3669A:p.G1223G	-3.3	-0.326378	0.188976	1.00	T	.	.	.	Transmembrane	.	surface glycoprotein_IWLGFIAGLIAIVMV	18	surface glycoprotein_FIAGLIAIV	0.1	.	.	.	.	.	.	.	.	
+1	27648	27648	A	G	exonic	ORF7a	.	synonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.A255G:p.K85K	0.492	1.02167	1	1.00	T	.	.	.	.	.	ORF7a protein_VKHVYQLRARSVSPK	15	ORF7a protein_RARSVSPKL	0.1	.	.	.	.	.	.	.	.	
+1	33426	33426	C	T	intergenic	ORF10;NONE	dist=3752;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	33751	33751	G	A	intergenic	ORF10;NONE	dist=4077;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	33752	33752	G	A	intergenic	ORF10;NONE	dist=4078;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	33753	33753	G	C	intergenic	ORF10;NONE	dist=4079;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	33977	33977	C	T	intergenic	ORF10;NONE	dist=4303;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	33983	33983	A	T	intergenic	ORF10;NONE	dist=4309;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	34070	34070	T	C	intergenic	ORF10;NONE	dist=4396;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	34072	34072	C	G	intergenic	ORF10;NONE	dist=4398;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

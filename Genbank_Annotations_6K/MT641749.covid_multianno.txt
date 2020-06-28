@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	4540	4540	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C4275T:p.Y1425Y,ORF1a:cds-YP_009725295.1:exon1:c.C4275T:p.Y1425Y	-3.3	-0.133307	0.992126	0.36	T	.	.	.	.	.	orf1ab polyprotein_RFYFYTSKTTVASLI	18	.	.	.	.	.	.	.	.	.	.	
+1	9498	9498	T	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T9233A:p.V3078D,ORF1a:cds-YP_009725295.1:exon1:c.T9233A:p.V3078D	0.489	0.974268	1	0.00	D	.	.	.	Transmembrane	.	orf1ab polyprotein_FGEYSHVVAFNTLLF	16	orf1ab_GEYSHVVAFNTLL 	-1	.	.	nCoV-2019_32_LEFT	.	.	.	.	.	
+1	14826	14826	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1359T:p.T453T	1.65	2.24737	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26233	26233	G	T	upstream;downstream	E;M;ORF6;ORF3a;S	dist=12;dist=13	.	.	1.65	4.256	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28398	28398	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C125C:p.P42P	1.65	3.27687	1	0.49	T	.	9b	.	.	.	.	.	.	.	.	.	nCoV-2019_94_LEFT	.	.	.	.	.	
+1	28565	28565	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G292T:p.D98Y	1.65	4.256	1	0.01	D	.	9b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28911	28911	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A638T:p.N213I	-0.367	1.69413	1	0.06	T	.	.	.	Transmembrane	Nucleocapsid phosphoprotein_RGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGG	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29117	29117	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A844T:p.T282S	1.65	2.25106	1	0.76	T	.	.	.	.	.	.	.	.	.	Nucleocapsid phosphoprotein	YNVTQAFGRRGPEQTQGNF	.	.	.	.	.	.	
+1	29435	29435	A	T	exonic	N	.	stopgain	N:cds-YP_009724397.2:exon1:c.A1162T:p.K388X	1.65	2.25106	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

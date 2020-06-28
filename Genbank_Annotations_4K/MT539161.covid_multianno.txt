@@ -1,0 +1,18 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	4453	4453	T	C	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A4188C:p.K1396N,ORF1a:cds-YP_009725295.1:exon1:c.A4188C:p.K1396N	-3.3	-0.377157	0.732283	0.13	T	.	.	.	.	.	.	.	orf1ab_KLMPVCVETK 	0.09	.	.	.	.	.	.	.	.	
+1	14015	14015	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T548T:p.F183F	1.65	2.19337	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	SARS-CoV-2_IBS_RdRP3_F	Korea	.	.	.	
+1	16497	16497	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A3030T:p.G1010G	0.438	0.929323	1	1.00	T	.	.	.	.	.	.	.	orf1ab_FPLCANGQVF 	0.07	.	.	nCoV-2019_54_RIGHT	.	.	.	.	.	
+1	16717	16717	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A3250G:p.R1084G	1.65	2.29024	1	0.00	D	.	.	.	.	.	.	.	orf1ab_REVLSDRELHLSW 	-1	.	.	.	.	.	.	.	.	
+1	23306	23306	T	C	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.C1744C:p.L582L	-3.3	-1.61197	0	0.53	T	disulf_bond	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24459	24459	A	C	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T2897C:p.L966P	1.65	2.17468	0.992126	0.00	D	.	.	.	.	Surface glycoprotein_LQDVVNQNAQALNTLVKQLSSNFGAISS	.	.	.	.	.	.	nCoV-2019_80_RIGHT	.	.	.	.	.	
+1	24617	24617	T	C	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.A3055C:p.R1019R	1.65	2.23123	1	0.57	T	.	.	.	.	Surface glycoprotein_RASANLAATKMSECVLGQ	surface glycoprotein_AEIRASANLAATKMS	13	surface glycoprotein_AEIRASANL	-1	Spike glycoprotein 	RASANLAATKMSECVLG, AATKMSECVLGQSKRVD	.	.	.	.	.	.	
+1	24619	24619	A	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A3057T:p.R1019S	-1.85	-1.07235	0.944882	0.14	T	.	.	.	.	Surface glycoprotein_RASANLAATKMSECVLGQ	surface glycoprotein_AEIRASANLAATKMS	13	surface glycoprotein_AEIRASANL	-1	Spike glycoprotein 	RASANLAATKMSECVLG, AATKMSECVLGQSKRVD	.	.	.	.	.	.	
+1	25700	25700	A	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.C308T:p.A103V	-1.08	0.705842	0.755906	0.00	D	.	.	.	Transmembrane	.	.	.	ORF3a protein_GLEAPFLYLY	-1	.	.	.	.	.	.	.	.	
+1	27525	27525	A	G	exonic	ORF7a	.	synonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.A132G:p.S44S	1.65	2.20759	1	1.00	T	disulf_bond	X4e	.	.	.	.	.	ORF7a protein_YEGNSPFHPL	0.18	.	.	nCoV-2019_90_RIGHT	.	.	.	.	.	
+1	30134	30134	T	G	downstream	N;ORF10	dist=460	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	32477	32477	T	A	intergenic	ORF10;NONE	dist=2803;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	34189	34189	G	A	intergenic	ORF10;NONE	dist=4515;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	34190	34190	G	A	intergenic	ORF10;NONE	dist=4516;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	34191	34191	G	C	intergenic	ORF10;NONE	dist=4517;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

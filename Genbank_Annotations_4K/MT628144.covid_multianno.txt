@@ -1,0 +1,23 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	931	931	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1253	1253	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3285	3285	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3020T:p.E1007V,ORF1a:cds-YP_009725295.1:exon1:c.A3020T:p.E1007V	.	0.171063	0.0393701	0.01	D	.	.	.	.	.	.	.	orf1ab_VEVQPQLEM 	-1	.	.	.	.	.	.	.	.	
+1	5766	5766	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7528	7528	G	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C7263A:p.V2421V,ORF1a:cds-YP_009725295.1:exon1:c.C7263A:p.V2421V	-3.3	-0.703717	0.968535	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	10104	10104	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15010	15010	C	T	exonic	ORF1b	.	stopgain	ORF1b:cds-YP_009724389.1:exon1:c.C1543T:p.Q515X	1.65	3.30748	1	.	.	.	.	.	.	.	.	.	orf1ab_SYEDQDALFAY 	-1	.	.	.	.	.	.	.	.	
+1	16296	16296	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	16407	16407	C	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22256	22256	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G694T:p.G232C	-0.341	1.82879	0.425197	0.01	D	.	BetaCoV_S1-NTD	.	.	.	surface glycoprotein_IGINITRFQTLLALH	18	surface glycoprotein_LPIGINITRF	0.06	.	.	.	.	.	.	.	.	
+1	22931	22931	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24005	24005	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A2443G:p.R815G	-0.709	0.421984	0.708661	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26751	26751	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27981	27981	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28681	28681	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29428	29428	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29483	29483	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.T1210A:p.S404T	1.65	2.13967	1	0.96	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29484	29484	G	A	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C1211A:p.S404Y	1.65	3.25353	1	0.04	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29485	29485	G	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C1212C:p.S404S	-0.119	1.24858	1	1.00	T	.	.	.	.	Nucleocapsid phosphoprotein_KQLQQSMSSADS	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30445	30445	T	A	downstream	N;ORF10	dist=771	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

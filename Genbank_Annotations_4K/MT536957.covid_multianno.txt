@@ -1,0 +1,28 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	2442	2442	G	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A2177A:p.E726E,ORF1a:cds-YP_009725295.1:exon1:c.A2177A:p.E726E	1.65	2.28901	0.992126	0.40	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9401	9401	G	C	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T9136C:p.S3046P,ORF1a:cds-YP_009725295.1:exon1:c.T9136C:p.S3046P	1.65	2.17336	1	0.00	D	.	.	.	Transmembrane	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	10514	10514	T	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	10521	10521	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	10571	10571	A	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	10574	10574	C	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	12742	12742	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A12477T:p.T4159T,ORF1a:cds-YP_009725295.1:exon1:c.A12477T:p.T4159T	-0.692	0.427126	1	0.41	T	.	.	.	.	.	.	.	orf1ab_TTQTACTDDNALAY 	0.01	.	.	.	.	.	.	.	.	
+1	14722	14722	A	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1255T:p.F419F	1.65	2.19157	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	19896	19896	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T6429T:p.A2143A	-3.3	-5.53376	0	0.46	T	.	.	.	.	.	orf1ab polyprotein_VIWDYKRDAPAHIST	12	orf1ab_APAHISTI 	0.15	.	.	.	.	.	.	.	.	
+1	20725	20725	C	T	exonic	ORF1b	.	stopgain	ORF1b:cds-YP_009724389.1:exon1:c.G7258T:p.E2420X	1.65	4.256	1	.	.	.	.	.	.	.	.	.	orf1ab_KMQRMLLEK 	0.1	.	.	.	.	.	.	.	.	
+1	21841	21841	C	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T279G:p.A93A	-3.3	-7.11357	0	1.00	T	disulf_bond	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_GVYFASTEK	-1	.	.	.	.	.	.	.	.	
+1	25533	25533	G	A	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.T141A:p.I47I	1.65	2.12466	0.984252	0.84	T	.	.	.	Transmembrane	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25872	25872	C	T	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.C480T:p.Y160Y	-3.3	-1.34951	0.645669	1.00	T	.	.	.	.	.	.	.	ORF3a protein_PYNSVTSSI	0.08	.	.	.	.	.	.	.	.	
+1	29316	29316	C	G	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A1043G:p.D348G	1.65	2.25106	1	0.55	T	.	.	.	.	.	nucleocapsid phosphoprotein_FKDQVILLNKHIDAY	15	.	.	.	.	nCoV-2019_97_LEFT	.	.	.	.	.	
+1	32340	32340	C	A	intergenic	ORF10;NONE	dist=2666;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	32343	32343	C	A	intergenic	ORF10;NONE	dist=2669;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	32347	32347	C	A	intergenic	ORF10;NONE	dist=2673;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	32629	32629	A	G	intergenic	ORF10;NONE	dist=2955;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	33025	33025	C	T	intergenic	ORF10;NONE	dist=3351;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	33362	33362	T	C	intergenic	ORF10;NONE	dist=3688;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	35883	35883	G	A	intergenic	ORF10;NONE	dist=6209;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	36131	36131	A	G	intergenic	ORF10;NONE	dist=6457;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	36693	36693	A	T	intergenic	ORF10;NONE	dist=7019;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	36698	36698	A	C	intergenic	ORF10;NONE	dist=7024;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	39819	39819	A	C	intergenic	ORF10;NONE	dist=10145;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	42069	42069	G	A	intergenic	ORF10;NONE	dist=12395;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

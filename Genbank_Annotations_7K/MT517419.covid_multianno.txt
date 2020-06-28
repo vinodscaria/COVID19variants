@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14962	14962	C	T	exonic	ORF1b	.	stopgain	ORF1b:cds-YP_009724389.1:exon1:c.A1495T:p.K499X	1.65	2.24737	0.992646	.	.	.	.	.	.	.	.	.	orf1ab_KSAGFPFNK 	-1	.	.	.	ORF1b Forward	China	.	.	.	
+1	16536	16536	G	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C3069T:p.S1023S	-0.891	0.551291	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24165	24165	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A2603G:p.E868G	1.65	2.28422	0.937008	0.29	T	.	.	.	.	Surface glycoprotein_DEMIAQYTSALLAG	.	.	surface glycoprotein_VLPPLLTDEMIAQY	0.05	.	.	nCoV-2019_79_RIGHT	.	.	.	.	.	
+1	28047	28047	C	T	exonic	ORF8	.	stopgain	ORF8:cds-YP_009724396.1:exon1:c.A154T:p.R52X	-2.67	0.143638	0	.	.	.	.	.	.	.	ORF8 protein_FYSKWYIRVGARKSA	13	.	.	.	.	.	.	.	.	.	.	
+1	29882	29882	G	A	downstream	N;ORF10	dist=208	.	.	1.3	1.89357	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29883	29883	G	A	downstream	N;ORF10	dist=209	.	.	1.29	1.89357	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29884	29884	G	C	downstream	N;ORF10	dist=210	.	.	1.28	1.89357	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	

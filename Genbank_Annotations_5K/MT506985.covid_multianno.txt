@@ -1,0 +1,14 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	490	490	T	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T225A:p.D75E,ORF1a:cds-YP_009725295.1:exon1:c.T225A:p.D75E	-3.3	-1.9324	0.740157	0.40	T	.	.	.	.	.	orf1ab polyprotein_QPYVFIKRSDARTAP	19	.	.	.	.	.	.	.	.	.	.	
+1	3449	3449	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3184T:p.N1062Y,ORF1a:cds-YP_009725295.1:exon1:c.A3184T:p.N1062Y	1.65	2.24815	1	0.00	D	.	Macro	.	.	.	orf1ab polyprotein_KVKPTVVVNAANVYL	17	orf1ab_VVNAANVYLK 	0.06	.	.	.	.	.	.	.	.	
+1	9685	9685	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A9420T:p.I3140I,ORF1a:cds-YP_009725295.1:exon1:c.A9420T:p.I3140I	0.39	1.1636	1	0.83	T	.	.	.	Transmembrane	.	orf1ab polyprotein_IQWMVMFTPLVPFWI	13	orf1ab_VPFWITIAY 	0.01	.	.	.	.	.	.	.	.	
+1	14401	14401	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T934G:p.F312V	1.65	2.19157	1	0.13	T	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	.	.	
+1	20130	20130	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A6663C:p.E2221D	-0.728	0.437992	1	0.91	T	.	.	.	.	.	.	.	orf1ab_GEAVKTQFNY 	-1	.	.	.	.	.	.	.	.	
+1	26820	26820	C	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.T298T:p.F100F	1.65	2.20759	0.992126	0.40	T	.	.	.	Transmembrane	.	membrane glycoprotein_MWLSYFIASFRLFAR	3.9	membrane glycoprotein_SYFIASFRLF	-1	.	.	.	.	.	.	.	.	
+1	29767	29767	T	C	downstream	N;ORF10	dist=93	.	.	1.54	2.15033	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29773	29773	C	T	downstream	N;ORF10	dist=99	.	.	0.631	2.50337	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	31644	31644	G	C	intergenic	ORF10;NONE	dist=1970;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	31711	31711	T	C	intergenic	ORF10;NONE	dist=2037;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	33259	33259	A	C	intergenic	ORF10;NONE	dist=3585;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	33392	33392	A	G	intergenic	ORF10;NONE	dist=3718;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

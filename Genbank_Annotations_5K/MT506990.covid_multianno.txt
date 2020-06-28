@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	2416	2416	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2151T:p.Y717Y,ORF1a:cds-YP_009725295.1:exon1:c.C2151T:p.Y717Y	-3.3	0.0194016	0.992126	1.00	T	.	.	.	.	.	orf1ab polyprotein_GETFVTHSKGLYRKC	19	.	.	.	.	.	.	.	.	.	.	
+1	3059	3059	C	T	exonic	ORF1a	.	stopgain	ORF1a:cds-YP_009724389.1:exon1:c.G2794T:p.E932X,ORF1a:cds-YP_009725295.1:exon1:c.G2794T:p.E932X	0.629	2.44032	0.173228	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11379	11379	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C11114T:p.A3705V,ORF1a:cds-YP_009725295.1:exon1:c.C11114T:p.A3705V	1.65	3.29452	1	0.13	T	.	.	.	.	.	orf1ab polyprotein_LLILMTARTVYDDGA	8.1	orf1ab_DGARRVWTL 	0.04	.	.	nCoV-2019_37_RIGHT	.	.	.	.	.	
+1	14592	14592	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1125T:p.S375S	0.412	0.908283	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_48_RIGHT	.	.	.	.	.	
+1	15386	15386	G	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C1919T:p.S640L	1.65	3.28526	1	0.01	D	.	RdRp_catalytic	.	.	.	.	.	orf1ab_SLSHRFYRL 	0.06	.	.	.	.	.	.	.	.	
+1	23119	23119	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T1557T:p.H519H	-3.3	-0.238614	0.889764	0.80	T	disulf_bond	BetaCoV_S1-CTD	.	.	.	surface glycoprotein_QPYRVVVLSFELLHA	14	.	.	.	.	.	SARS-CoV-2_IBS_S1_F	Korea	.	.	.	
+1	24078	24078	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A2516G:p.D839G	1.65	2.28422	0.992126	0.11	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_80_LEFT	.	.	.	.	.	
+1	26522	26522	G	T	upstream;downstream	M;ORF6;ORF7a;E;ORF3a	dist=1;dist=50	.	.	-1.86	0.986118	0.929134	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27187	27187	C	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.A665T:p.Q222L	1.65	2.20759	1	0.00	D	.	Intravirion	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

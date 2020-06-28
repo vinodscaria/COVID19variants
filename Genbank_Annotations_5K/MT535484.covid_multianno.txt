@@ -1,0 +1,14 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3295	3295	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T3030T:p.P1010P,ORF1a:cds-YP_009725295.1:exon1:c.T3030T:p.P1010P	-0.352	-0.175118	0.00787402	1.00	T	.	.	.	.	.	.	.	orf1ab_VEVQPQLEM 	-1	.	.	.	.	.	.	.	.	
+1	12437	12437	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	12666	12666	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A12401T:p.N4134I,ORF1a:cds-YP_009725295.1:exon1:c.A12401T:p.N4134I	1.65	2.2408	0.976425	0.01	D	.	.	.	.	.	orf1ab polyprotein_LIVTALRANSAVKLQ	11	orf1ab_ALRANSAVK 	0.11	.	.	.	.	.	.	.	.	
+1	14998	14998	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1531T:p.S511C	1.65	2.24737	1	0.00	D	.	.	.	.	.	.	.	orf1ab_RLYYDSMSY 	-1	.	.	.	.	.	.	.	.	
+1	22270	22270	G	A	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T708A:p.T236T	-3.3	-9.28529	0	1.00	T	.	BetaCoV_S1-NTD	.	.	.	surface glycoprotein_IGINITRFQTLLALH	18	surface glycoprotein_LPIGINITRF	0.06	.	.	nCoV-2019_74_LEFT	.	.	.	.	.	
+1	24086	24086	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25215	25215	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T3653G:p.L1218R	1.65	2.12466	0.992126	0.00	D	.	.	.	Transmembrane	.	surface glycoprotein_IWLGFIAGLIAIVMV	18	.	.	.	.	.	.	.	.	.	.	
+1	28022	28022	T	C	exonic	ORF8	.	synonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.T129C:p.S43S	-2.56	-1.6188	0	1.00	T	.	.	.	.	.	ORF8 protein_FYSKWYIRVGARKSA	13	.	.	.	.	.	.	.	.	.	.	
+1	28925	28925	A	M	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	32018	32018	G	T	intergenic	ORF10;NONE	dist=2344;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	32020	32020	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

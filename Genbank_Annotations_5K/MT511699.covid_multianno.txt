@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3309	3309	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3044T:p.E1015V,ORF1a:cds-YP_009725295.1:exon1:c.A3044T:p.E1015V	0.5	0.378772	0.275591	0.08	T	.	.	.	.	.	.	.	orf1ab_LEMELTPVVQTI 	0.1	.	.	.	.	.	.	.	.	
+1	3600	3600	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3335T:p.K1112I,ORF1a:cds-YP_009725295.1:exon1:c.A3335T:p.K1112I	0.46	0.932661	1	0.08	T	.	Macro	.	.	.	.	.	orf1ab_VLSGHNLAK 	0.02	.	.	.	.	.	.	.	.	
+1	8484	8484	A	G	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T8219G:p.F2740C,ORF1a:cds-YP_009725295.1:exon1:c.T8219G:p.F2740C	1.65	2.19521	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	12429	12429	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G12164T:p.G4055V,ORF1a:cds-YP_009725295.1:exon1:c.G12164T:p.G4055V	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_42_LEFT	.	.	.	.	.	
+1	14861	14861	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1394T:p.E465V	1.65	2.24737	1	0.00	D	.	.	.	.	.	.	.	orf1ab_FVVEVVDKY 	0.06	.	.	.	.	.	.	.	.	
+1	18708	18708	G	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T5241T:p.T1747T	-3.3	-0.306016	0.976378	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	19479	19479	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T6012T:p.G2004G	-3.3	-3.38002	0.220472	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24805	24805	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T3243G:p.I1081M	0.453	0.952425	1	0.02	D	disulf_bond	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26965	26965	G	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.A443T:p.H148L	1.65	2.20759	1	0.64	T	.	Intravirion	.	.	.	membrane glycoprotein_SELVIGAVILRGHLR	20	membrane glycoprotein_HLRIAGHHL	0.14	.	.	.	.	.	.	.	.	

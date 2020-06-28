@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3112	3112	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T2847T:p.Y949Y,ORF1a:cds-YP_009725295.1:exon1:c.T2847T:p.Y949Y	-3.3	-1.07519	0.913386	1.00	T	.	.	.	.	.	.	.	orf1ab_EEEFEPSTQYEY 	-1	.	.	.	.	.	.	.	.	
+1	9312	9312	T	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9486	9486	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A9221T:p.Y3074F,ORF1a:cds-YP_009725295.1:exon1:c.A9221T:p.Y3074F	1.65	2.23647	1	0.00	D	.	.	.	.	.	orf1ab polyprotein_AYYFMRFRRAFGEYS	17	orf1ab_GEYSHVVAFNTLL 	-1	.	.	nCoV-2019_32_LEFT	.	.	.	.	.	
+1	14930	14930	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A1463T:p.N488I	1.65	2.24737	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20840	20840	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T7373C:p.V2458A	1.65	2.14095	1	0.00	D	.	.	.	.	.	orf1ab polyprotein_TQLCQYLNTLTLAVP	15	orf1ab_YLNTLTLAV 	0.03	.	.	.	.	.	.	.	.	
+1	20848	20848	T	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7381G:p.N2461D	1.65	2.24167	0.992126	0.04	D	.	.	.	.	.	orf1ab polyprotein_YLNTLTLAVPYNMRV	20	orf1ab_VPYNMRVIHF 	-1	.	.	.	.	.	.	.	.	
+1	24295	24295	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T2733G:p.V911V	-3.3	-0.235276	0.992126	1.00	T	.	.	.	.	.	surface glycoprotein_VTQNVLYENQKLIAN	17	.	.	Spike glycoprotein	GAALQIPFAMQMAYRFN, PFAMQMAYRFNGIGVTQ, MAYRFNGIGVTQNVLYE	.	.	.	.	.	.	

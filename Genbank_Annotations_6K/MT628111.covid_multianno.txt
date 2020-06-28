@@ -1,0 +1,13 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	4120	4120	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8525	8525	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G8260A:p.V2754I,ORF1a:cds-YP_009725295.1:exon1:c.G8260A:p.V2754I	0.509	0.546583	0.992126	0.33	T	.	.	.	.	.	.	.	orf1ab_RQVVNVVTTK 	-1	.	.	.	.	.	.	.	.	
+1	14097	14097	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C630T:p.F210F	0.787	1.25581	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14528	14528	G	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G1061T:p.S354I	0.739	2.52635	1	0.09	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17482	17482	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4015G:p.T1339A	1.65	2.24049	1	0.02	D	.	+)RNA_virus_helicase_ATP_binding	.	.	.	.	.	orf1ab_APRTLLTKGTL 	-1	.	.	.	.	.	.	.	.	
+1	19407	19407	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20397	20397	A	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G6930T:p.K2310N	0.509	0.53589	0.984252	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20586	20586	T	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	21568	21568	C	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T6G:p.F2L	-2.4	-1.74816	0	0.87	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24533	24533	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29303	29303	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C1030T:p.P344S	1.65	3.25353	1	0.16	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_97_LEFT	.	.	.	.	.	

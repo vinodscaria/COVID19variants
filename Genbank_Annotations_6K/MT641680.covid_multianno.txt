@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3096	3096	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2831T:p.S944L,ORF1a:cds-YP_009725295.1:exon1:c.C2831T:p.S944L	1.65	0.171063	0.992126	0.25	T	.	.	.	.	.	.	.	orf1ab_GDCEEEEFEPSTQY 	-1	.	.	.	.	.	.	.	.	
+1	9659	9659	T	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11603	11603	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A11338T:p.M3780L,ORF1a:cds-YP_009725295.1:exon1:c.A11338T:p.M3780L	1.65	2.26436	1	1.00	T	.	.	.	Transmembrane	.	orf1ab polyprotein_CPIFFITGNTLQCIM	20	.	.	.	.	.	.	.	.	.	.	
+1	13301	13301	C	T	exonic	ORF1a	.	stopgain	ORF1a:cds-YP_009724389.1:exon1:c.A13036T:p.K4346X,ORF1a:cds-YP_009725295.1:exon1:c.A13036T:p.K4346X	1.65	2.2408	1	.	.	.	.	.	.	.	.	.	orf1ab_DLKGKYVQI 	0.03	.	.	.	.	.	.	.	.	
+1	14368	14368	G	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T901T:p.C301C	1.65	2.19157	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	15546	15546	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C2079T:p.A693A	-3.3	-0.805717	0.945323	1.00	T	.	RdRp_catalytic	.	.	.	.	.	.	.	.	.	nCoV-2019_51_RIGHT	SARS-CoV-2_IBS_RdRP1_R	Korea	.	.	.	
+1	16281	16281	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A2814T:p.R938S	-0.845	0.373039	1	0.00	D	.	CV_ZBD	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27343	27343	G	T	exonic	ORF6	.	stopgain	ORF6:cds-YP_009724394.1:exon1:c.A142T:p.K48X	0.315	0.806047	0.23622	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29537	29537	A	G	upstream;downstream	ORF10;N	dist=21;dist=4	.	.	1.65	3.25353	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30023	30023	C	G	downstream	N;ORF10	dist=349	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

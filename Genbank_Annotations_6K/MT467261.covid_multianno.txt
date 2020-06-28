@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	12644	12644	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A12379T:p.I4127F,ORF1a:cds-YP_009725295.1:exon1:c.A12379T:p.I4127F	1.65	2.2408	1	0.01	D	.	.	.	.	.	orf1ab polyprotein_LIVTALRANSAVKLQ	11	orf1ab_SPNLAWPLI 	0.17	.	.	.	.	.	.	.	.	
+1	14436	14436	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A969T:p.K323N	-1.08	0.629307	1	0.01	D	.	.	.	.	.	orf1ab polyprotein_LVRKIFVDGVPFVVS	15	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	.	.	
+1	18905	18905	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G5438T:p.R1813L	1.65	4.256	1	0.04	D	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_63_LEFT	ORF1b Reverse	Nepal, China	.	.	.	
+1	21823	21823	G	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T261T:p.N87N	-3.3	-9.66854	0	1.00	T	disulf_bond	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_LPFNDGVYF	-1	.	.	.	.	.	.	.	.	
+1	23431	23431	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T1869G:p.A623A	-3.3	-4.60838	0	0.58	T	disulf_bond	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25591	25591	G	T	exonic	ORF3a	.	stopgain	ORF3a:cds-YP_009724391.1:exon1:c.A199T:p.K67X	1.65	2.23123	0.015748	.	.	.	.	.	.	.	ORF3a protein_KKRWQLALSKGVHFV	4.8	ORF3a protein_ASKIITLKK	-1	.	.	.	.	.	.	.	.	
+1	26763	26763	C	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.G241T:p.A81S	1.65	4.256	1	1.00	T	.	.	.	Transmembrane	.	.	.	.	.	.	.	.	.	.	.	.	.	

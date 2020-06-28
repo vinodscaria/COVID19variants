@@ -1,0 +1,21 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1251	1251	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C986T:p.T329I,ORF1a:cds-YP_009725295.1:exon1:c.C986T:p.T329I	-3.22	-0.21189	0.976378	0.42	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_5_LEFT	.	.	.	.	.	
+1	3269	3269	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3004T:p.I1002F,ORF1a:cds-YP_009725295.1:exon1:c.A3004T:p.I1002F	.	0.171063	0	0.10	T	.	.	.	.	.	.	.	orf1ab_SEDNQTTTI 	0.09	.	.	.	.	.	.	.	.	
+1	8494	8494	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A8229C:p.T2743T,ORF1a:cds-YP_009725295.1:exon1:c.A8229C:p.T2743T	-2.56	-0.277732	0.984252	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14362	14362	A	C	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C895C:p.L299L	1.65	3.30748	1	0.62	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	16483	16483	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T3016T:p.L1006L	1.65	2.21463	0.976425	1.00	T	.	CV_ZBD	.	.	.	.	.	orf1ab_FPLCANGQVF 	0.07	.	.	.	.	.	.	.	.	
+1	19925	19925	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G6458C:p.C2153S	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_65_RIGHT	.	.	.	.	.	
+1	20495	20495	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G7028C:p.C2343S	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_68_LEFT	.	.	.	.	.	
+1	20497	20497	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T7030C:p.S2344P	1.65	2.14095	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	21719	21719	T	C	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G157C:p.D53H	1.65	4.256	0.0472441	0.26	T	disulf_bond	BetaCoV_S1-NTD	.	.	.	surface glycoprotein_TQDLFLPFFSNVTWF	19	.	.	.	.	nCoV-2019_71_RIGHT	.	.	.	.	.	
+1	21721	21721	G	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.C159T:p.D53D	-3.3	-0.598425	0	0.91	T	disulf_bond	BetaCoV_S1-NTD	.	.	.	surface glycoprotein_TQDLFLPFFSNVTWF	19	.	.	.	.	nCoV-2019_71_RIGHT	.	.	.	.	.	
+1	22822	22822	C	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T1260G:p.D420E	-2.52	-1.23742	0.125984	0.32	T	disulf_bond	BetaCoV_S1-CTD	.	.	.	.	.	surface glycoprotein_KIADYNYKL	0.04	.	.	.	.	.	.	.	.	
+1	24368	24368	A	C	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G2806C:p.D936H	1.65	4.256	1	0.02	D	.	.	.	.	Surface glycoprotein_VLYENQKLIANQFNSAIGKIQDSLSSTASALG	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24371	24371	T	C	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T2809C:p.S937P	1.65	2.17468	0.992126	0.01	D	.	.	.	.	Surface glycoprotein_VLYENQKLIANQFNSAIGKIQDSLSSTASALG	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25519	25519	C	A	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.T127A:p.F43I	1.65	2.12466	1	0.00	D	.	.	.	Transmembrane	.	.	.	ORF3a protein_IPIQASLPF	-1	.	.	.	.	.	.	.	.	
+1	25753	25753	C	A	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.G361A:p.V121I	0.55	0.799268	0	0.15	T	.	.	.	.	.	ORF3a protein_LVYFLQSINFVRIIM	7.9	.	.	.	.	.	.	.	.	.	.	
+1	25844	25844	C	A	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.C452A:p.T151N	1.65	3.32175	0.338583	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26093	26093	A	C	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.A701C:p.N234T	-3.3	-0.60211	0.716535	0.29	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29646	29646	G	T	exonic	ORF10	.	synonymous SNV	ORF10:cds-YP_009725255.1:exon1:c.T89T:p.V30V	1.6	2.13967	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

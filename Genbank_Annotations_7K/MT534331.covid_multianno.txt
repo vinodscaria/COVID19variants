@@ -1,0 +1,8 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	12593	12593	A	G	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C12328G:p.Q4110E,ORF1a:cds-YP_009725295.1:exon1:c.C12328G:p.Q4110E	1.65	3.31557	1	0.10	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18401	18401	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20706	20706	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24979	24979	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T3417T:p.D1139D	-2.21	0.0998898	1	1.00	T	.	.	.	.	.	.	.	surface glycoprotein_TVYDPLQPELDSFK	-1	.	.	nCoV-2019_83_LEFT	.	.	.	.	.	
+1	25991	25991	C	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.G599T:p.C200F	0.509	0.518992	1	0.79	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_85_RIGHT	.	.	.	.	.	
+1	27434	27434	A	G	exonic	ORF7a	.	nonsynonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.C41G:p.T14S	-0.191	1.12948	0.125984	1.00	T	.	.	.	.	.	ORF7a protein_MKIILFLALITLATC	13	.	.	.	.	.	.	.	.	.	.	

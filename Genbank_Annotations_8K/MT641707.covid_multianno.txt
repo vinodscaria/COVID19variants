@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1574	1574	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G1309T:p.G437C,ORF1a:cds-YP_009725295.1:exon1:c.G1309T:p.G437C	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_6_LEFT	.	.	.	.	.	
+1	3052	3052	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G2787T:p.E929D,ORF1a:cds-YP_009725295.1:exon1:c.G2787T:p.E929D	-3.3	-0.056252	0.96063	0.57	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7480	7480	T	C	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T7215C:p.N2405N,ORF1a:cds-YP_009725295.1:exon1:c.T7215C:p.N2405N	-3.3	-0.199339	0.819079	0.70	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14450	14450	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G983T:p.G328V	1.65	4.256	1	0.00	D	.	.	.	.	.	orf1ab polyprotein_LVRKIFVDGVPFVVS	15	orf1ab_KIFVDGVPFV 	0.04	.	.	.	.	.	.	.	.	
+1	23877	23877	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T2315G:p.V772G	0.49	0.969701	0	0.38	T	.	.	.	.	Surface glycoprotein_AVEQDKNTQE	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27338	27338	A	G	exonic	ORF6	.	nonsynonymous SNV	ORF6:cds-YP_009724394.1:exon1:c.A137G:p.E46G	0.482	1.12948	1	0.05	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30080	30080	C	T	downstream	N;ORF10	dist=406	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30478	30478	G	T	downstream	N;ORF10	dist=804	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

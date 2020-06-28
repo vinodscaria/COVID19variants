@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5713	5713	C	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T5448A:p.L1816L,ORF1a:cds-YP_009725295.1:exon1:c.T5448A:p.L1816L	-2.59	-0.474724	0.291339	1.00	T	.	Peptidase_C16	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18904	18904	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C5437T:p.R1813C	1.65	3.27843	1	0.03	D	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_63_LEFT	ORF1b Reverse	Nepal, China	.	.	.	
+1	21045	21045	A	G	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T7578G:p.S2526R	-3.3	-0.074811	0.992126	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25590	25590	G	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.A198T:p.K66N	-2.09	-0.113244	0.00787402	0.80	T	.	.	.	.	.	ORF3a protein_KKRWQLALSKGVHFV	4.8	ORF3a protein_SASKIITLK	-1	.	.	.	.	.	.	.	.	
+1	26762	26762	C	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.T240T:p.I80I	-2.14	0.0513701	1	0.53	T	.	.	.	Transmembrane	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28316	28316	C	A	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.A43A:p.I15I	1.65	2.29773	1	1.00	T	.	9b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29761	29761	G	T	downstream	N;ORF10	dist=87	.	.	1.54	2.15033	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29770	29770	C	T	downstream	N;ORF10	dist=96	.	.	1.54	2.15033	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

@@ -1,0 +1,13 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1059	1059	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C794T:p.T265I,ORF1a:cds-YP_009725295.1:exon1:c.C794T:p.T265I	1.65	3.30383	0.992126	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	5418	5418	A	G	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G5153G:p.C1718C,ORF1a:cds-YP_009725295.1:exon1:c.G5153G:p.C1718C	1.65	4.256	1	0.13	T	.	Peptidase_C16	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7954	7954	T	C	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G7689C:p.Q2563H,ORF1a:cds-YP_009725295.1:exon1:c.G7689C:p.Q2563H	0.72	2.57474	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_27_LEFT	.	.	.	.	.	
+1	11970	11970	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A11705T:p.K3902I,ORF1a:cds-YP_009725295.1:exon1:c.A11705T:p.K3902I	1.65	2.26436	0.992157	0.09	T	.	.	.	.	.	.	.	orf1ab_LAKDTTEAF 	0.03	.	.	.	.	.	.	.	.	
+1	16059	16059	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T2592T:p.P864P	-0.806	0.095685	1	0.30	T	.	.	.	.	.	.	.	orf1ab_YPLTKHPNQEY 	0.07	.	.	.	.	.	.	.	.	
+1	26888	26888	A	G	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.G366G:p.V122V	1.65	4.256	1	0.93	T	.	Intravirion	.	.	.	.	.	membrane glycoprotein_VPLHGTIL	0.17	.	.	.	.	.	.	.	.	
+1	29275	29275	G	T	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.A1002T:p.T334T	0.438	0.914425	1	0.70	T	.	.	.	.	.	nucleocapsid phosphoprotein_PSGTWLTYTGAIKLD	17	.	.	.	.	.	NIID_N2_R	National Institute of Infectious Disease (NIID); Yamanashi Central Hospital (YCH )	.	.	.	
+1	33472	33472	G	A	intergenic	ORF10;NONE	dist=3798;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	33959	33959	C	T	intergenic	ORF10;NONE	dist=4285;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	34505	34505	G	C	intergenic	ORF10;NONE	dist=4831;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

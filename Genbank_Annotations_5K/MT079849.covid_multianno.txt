@@ -1,0 +1,17 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	5	5	A	G	upstream	ORF1a	dist=261	.	.	-1.54	0.826283	0.968504	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	16	16	A	G	upstream	ORF1a	dist=250	.	.	0.495	2.76482	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	18	18	A	T	upstream	ORF1a	dist=248	.	.	0.0446	0.0806929	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	19	19	C	A	upstream	ORF1a	dist=247	.	.	-1.52	1.42276	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	21	21	T	C	upstream	ORF1a	dist=245	.	.	1.38	2.76482	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	23	23	C	G	upstream	ORF1a	dist=243	.	.	1.38	3.51041	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	24	24	C	G	upstream	ORF1a	dist=242	.	.	1.38	3.51041	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	25	25	C	G	upstream	ORF1a	dist=241	.	.	0.154	0.602606	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	27	27	G	A	upstream	ORF1a	dist=239	.	.	1.38	1.87011	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29	29	T	G	upstream	ORF1a	dist=237	.	.	1.38	1.87011	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	30	30	A	T	upstream	ORF1a	dist=236	.	.	1.38	1.87011	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	32	32	C	T	upstream	ORF1a	dist=234	.	.	1.38	2.76482	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	8786	8786	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8521T:p.R2841C,ORF1a:cds-YP_009725295.1:exon1:c.C8521T:p.R2841C	1.65	3.2943	1	0.00	D	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	16329	16329	G	C	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C2862C:p.Y954Y	0.475	0.997087	1	1.00	T	.	CV_ZBD	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28148	28148	T	C	exonic	ORF8	.	synonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.T255C:p.P85P	-1.75	-5.33951	0	1.00	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_92_RIGHT	.	.	.	.	.	

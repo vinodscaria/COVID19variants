@@ -1,0 +1,13 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	2439	2439	A	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A2174T:p.E725V,ORF1a:cds-YP_009725295.1:exon1:c.A2174T:p.E725V	1.65	2.28901	0.992126	0.04	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3445	3445	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3180T:p.A1060A,ORF1a:cds-YP_009725295.1:exon1:c.A3180T:p.A1060A	-2.58	-0.244354	0.992126	1.00	T	.	Macro	.	.	.	orf1ab polyprotein_KVKPTVVVNAANVYL	17	orf1ab_VVNAANVYLK 	0.06	.	.	.	.	.	.	.	.	
+1	13096	13096	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T12831T:p.A4277A,ORF1a:cds-YP_009725295.1:exon1:c.T12831T:p.A4277A	0.484	0.964512	1	1.00	T	.	.	.	.	.	orf1ab polyprotein_VLSFCAFAVDAAKAY	12	orf1ab_FAVDAAKAYK 	-1	.	.	nCoV-2019_43_RIGHT	.	.	.	.	.	
+1	16338	16338	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C2871T:p.V957V	-3.3	-0.112331	0.992189	1.00	T	.	CV_ZBD	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	17132	17132	G	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A3665T:p.Y1222F	1.65	2.29024	1	0.20	T	.	+)RNA_virus_helicase_ATP_binding	.	.	.	orf1ab polyprotein_GKSHFAIGLALYYPS	16	orf1ab_FAIGLALYY 	0.04	.	.	nCoV-2019_56_RIGHT	.	.	.	.	.	
+1	23591	23591	G	T	exonic	S	.	stopgain	S:cds-YP_009724390.1:exon1:c.C2029T:p.Q677X	0.597	1.51742	0.732283	.	.	.	.	.	.	Surface glycoprotein_SYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIA	.	.	.	.	Spike glycoprotein	DIPIGAGICASYHTVSLL	.	.	.	.	.	.	
+1	26484	26484	C	T	upstream;downstream	M;ORF6;ORF7a;E;ORF3a	dist=39;dist=12	.	.	1.61	2.20065	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27443	27443	A	G	exonic	ORF7a	.	nonsynonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.T50G:p.L17R	1.65	2.20759	0.992126	0.00	D	.	X4e	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29905	29905	G	T	downstream	N;ORF10	dist=231	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30820	30820	C	T	intergenic	ORF10;NONE	dist=1146;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

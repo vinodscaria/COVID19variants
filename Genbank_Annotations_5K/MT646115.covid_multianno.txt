@@ -1,0 +1,13 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	353	353	G	A	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G88A:p.G30S,ORF1a:cds-YP_009725295.1:exon1:c.G88A:p.G30S	1.65	4.256	1	0.26	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3306	3306	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T3041T:p.M1014M,ORF1a:cds-YP_009725295.1:exon1:c.T3041T:p.M1014M	-0.409	1.07113	0.251969	0.23	T	.	.	.	.	.	.	.	orf1ab_VEVQPQLEM 	-1	.	.	.	.	.	.	.	.	
+1	5795	5795	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A5530T:p.T1844S,ORF1a:cds-YP_009725295.1:exon1:c.A5530T:p.T1844S	1.65	2.2571	1	0.97	T	.	Peptidase_C16	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14907	14907	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1440T:p.N480N	-0.757	0.406126	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_49_RIGHT	.	.	.	.	.	
+1	17803	17803	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T4336T:p.S1446S	0.484	0.380016	0.976685	0.41	T	.	+)RNA_virus_helicase_C_Terminal	.	.	.	orf1ab polyprotein_ISPYNSQNAVASKIL	17	orf1ab_SPYNSQNAVASKIL 	0.11	.	.	.	.	.	.	.	.	
+1	24625	24625	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T3063G:p.S1021S	1.65	2.12466	1	1.00	T	.	.	.	.	Surface glycoprotein_RASANLAATKMSECVLGQ	surface glycoprotein_AEIRASANLAATKMS	13	surface glycoprotein_AEIRASANL	-1	Spike glycoprotein 	RASANLAATKMSECVLG, AATKMSECVLGQSKRVD	.	.	.	.	.	.	
+1	26414	26414	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30103	30103	G	A	downstream	N;ORF10	dist=429	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30104	30104	G	A	downstream	N;ORF10	dist=430	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30105	30105	G	C	downstream	N;ORF10	dist=431	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

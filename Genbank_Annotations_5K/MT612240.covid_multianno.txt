@@ -1,0 +1,17 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3205	3205	A	G	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A2940G:p.L980L,ORF1a:cds-YP_009725295.1:exon1:c.A2940G:p.L980L	-3.3	-1.07519	0.826772	1.00	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_10_RIGHT	.	.	.	.	.	
+1	5008	5008	G	A	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G4743A:p.T1581T,ORF1a:cds-YP_009725295.1:exon1:c.G4743A:p.T1581T	-3.3	-0.946142	0.724409	1.00	T	.	.	.	.	.	.	.	orf1ab_QVVDMSMTY 	0.03	.	.	nCoV-2019_16_RIGHT	.	.	.	.	.	
+1	5382	5382	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11540	11540	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G11275T:p.V3759F,ORF1a:cds-YP_009725295.1:exon1:c.G11275T:p.V3759F	1.65	4.256	1	0.00	D	.	Lumenal	.	.	.	.	.	orf1ab_MFLARGIVF 	-1	.	.	.	.	.	.	.	.	
+1	13754	13754	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G287T:p.R96I	0.752	2.75591	1	0.01	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14410	14410	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A943T:p.T315S	1.65	2.24737	1	0.00	D	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	.	.	
+1	17282	17282	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	20496	20496	G	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T7029T:p.C2343C	-3.3	-0.074811	0.992126	1.00	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_68_LEFT	.	.	.	.	.	
+1	21405	21405	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23310	23310	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25323	25323	A	W	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25324	25324	C	T	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.C3762T:p.C1254C	-0.366	1.05899	1	1.00	T	.	.	.	.	.	.	.	.	.	Spike glycoprotein	CKFDEDDSEPVLKGVKLHYT	.	.	.	.	.	.	
+1	25607	25607	T	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28867	28867	C	T	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.T594T:p.T198T	-2.26	0.0233386	1	0.40	T	.	.	.	.	Nucleocapsid phosphoprotein_RGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGG	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29744	29744	C	T	downstream	N;ORF10	dist=70	.	.	1.54	3.97972	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

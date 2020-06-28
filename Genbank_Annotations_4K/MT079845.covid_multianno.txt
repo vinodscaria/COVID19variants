@@ -1,0 +1,34 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	12	12	T	C	upstream	ORF1a	dist=254	.	.	-0.0509	0.00613386	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	13	13	A	G	upstream	ORF1a	dist=253	.	.	1.06	0.602606	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	8799	8799	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A8534T:p.Y2845F,ORF1a:cds-YP_009725295.1:exon1:c.A8534T:p.Y2845F	1.65	2.26391	0.937008	0.18	T	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	19013	19013	T	C	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A5546C:p.K1849T	1.65	2.21939	0.968504	0.04	D	.	.	.	.	.	orf1ab polyprotein_KVQHMVVKAALLADK	16	orf1ab_LLADKFPVL 	-1	.	.	.	.	.	.	.	.	
+1	24387	24387	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C2825T:p.A942V	0.737	1.7365	0.732283	0.03	D	.	.	.	.	Surface glycoprotein_VLYENQKLIANQFNSAIGKIQDSLSSTASALG	.	.	surface glycoprotein_SSTASALGK	0.09	.	.	.	.	.	.	.	.	
+1	28161	28161	T	C	exonic	ORF8	.	nonsynonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.T268C:p.C90R	1.33	1.80817	0.826772	0.00	D	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_92_RIGHT	.	.	.	.	.	
+1	29046	29046	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C773C:p.P258P	1.65	3.25353	1	0.37	T	.	.	.	.	.	.	.	.	.	Nucleocapsid phosphoprotein	QQQGQTVTKKSAAEASKK, KKSAAEASKKPRQKRTA	nCoV-2019_95_RIGHT	.	.	.	.	.	
+1	29856	29856	A	G	downstream	N;ORF10	dist=182	.	.	1.44	1.95776	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29859	29859	T	A	downstream	N;ORF10	dist=185	.	.	-1.23	0.160472	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29875	29875	T	A	downstream	N;ORF10	dist=201	.	.	1.36	1.95776	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29891	29891	G	T	downstream	N;ORF10	dist=217	.	.	0.745	1.31587	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29892	29892	C	G	downstream	N;ORF10	dist=218	.	.	0.624	1.1875	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29894	29894	T	A	downstream	N;ORF10	dist=220	.	.	0.351	0.866551	0.997283	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29895	29895	C	G	downstream	N;ORF10	dist=221	.	.	.	0.577701	0.995472	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29903	29903	G	A	downstream	N;ORF10	dist=229	.	.	.	0	0.885	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	sequencing/mapping error site	.	.	
+1	29905	29905	G	T	downstream	N;ORF10	dist=231	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29906	29906	A	T	downstream	N;ORF10	dist=232	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29914	29914	G	C	downstream	N;ORF10	dist=240	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29921	29921	A	G	downstream	N;ORF10	dist=247	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29924	29924	A	G	downstream	N;ORF10	dist=250	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29926	29926	A	C	downstream	N;ORF10	dist=252	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29927	29927	A	T	downstream	N;ORF10	dist=253	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29929	29929	A	T	downstream	N;ORF10	dist=255	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29931	29931	A	T	downstream	N;ORF10	dist=257	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29933	29933	A	T	downstream	N;ORF10	dist=259	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29934	29934	A	C	downstream	N;ORF10	dist=260	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29940	29940	A	C	downstream	N;ORF10	dist=266	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29941	29941	A	G	downstream	N;ORF10	dist=267	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29942	29942	A	G	downstream	N;ORF10	dist=268	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29947	29947	A	G	downstream	N;ORF10	dist=273	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29948	29948	A	C	downstream	N;ORF10	dist=274	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29949	29949	A	G	downstream	N;ORF10	dist=275	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

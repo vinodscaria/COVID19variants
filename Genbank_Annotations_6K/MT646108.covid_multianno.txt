@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	313	313	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C48T:p.L16L,ORF1a:cds-YP_009725295.1:exon1:c.C48T:p.L16L	1.65	3.28673	1	0.84	T	.	.	.	.	.	orf1ab polyprotein_KTHVQLSLPVLQVRD	19	.	.	.	.	.	.	.	.	.	.	
+1	3309	3309	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3044T:p.E1015V,ORF1a:cds-YP_009725295.1:exon1:c.A3044T:p.E1015V	0.5	0.378772	0.275591	0.08	T	.	.	.	.	.	.	.	orf1ab_LEMELTPVVQTI 	0.1	.	.	.	.	.	.	.	.	
+1	6076	6076	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T5811T:p.F1937F,ORF1a:cds-YP_009725295.1:exon1:c.T5811T:p.F1937F	-3.22	-0.874504	0.88189	0.35	T	.	.	.	.	.	orf1ab polyprotein_DNFKFVCDNIKFADD	16	orf1ab_FADDLNQLTGY 	0.02	.	.	.	.	.	.	.	.	
+1	15503	15503	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C2036T:p.A679V	1.65	3.28526	1	0.00	D	.	RdRp_catalytic	.	.	.	.	.	orf1ab_AYANSVFNI 	-1	.	.	nCoV-2019_52_LEFT	.	.	.	.	.	
+1	18399	18399	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A4932T:p.V1644V	0.438	0.845134	1	0.47	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25500	25500	A	G	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.G108G:p.P36P	-1.56	0.845858	0.992126	1.00	T	.	.	.	Transmembrane	.	ORF3a protein_SDFVRATATIPIQAS	14	ORF3a protein_IPIQASLPF	-1	.	.	.	.	.	.	.	.	
+1	30978	30978	G	A	intergenic	ORF10;NONE	dist=1304;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30979	30979	G	A	intergenic	ORF10;NONE	dist=1305;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	30980	30980	G	C	intergenic	ORF10;NONE	dist=1306;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

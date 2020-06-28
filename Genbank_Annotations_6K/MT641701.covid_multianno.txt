@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	264	264	C	T	upstream	ORF1a	dist=2	.	.	1.65	2.24291	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3504	3504	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3239T:p.N1080I,ORF1a:cds-YP_009725295.1:exon1:c.A3239T:p.N1080I	0.48	1.07113	0.787402	0.01	D	.	Macro	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8923	8923	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	10088	10088	C	T	exonic	ORF1a	.	stopgain	ORF1a:cds-YP_009724389.1:exon1:c.A9823T:p.K3275X,ORF1a:cds-YP_009725295.1:exon1:c.A9823T:p.K3275X	1.65	2.23647	1	.	.	.	Peptidase_C30	.	.	.	.	.	.	.	.	.	nCoV-2019_34_LEFT	.	.	.	.	.	
+1	16598	16598	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T3131T:p.I1044I	1.65	2.21463	1	0.87	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	22337	22337	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A775G:p.T259A	-0.949	-4.04762	0	0.30	T	.	BetaCoV_S1-NTD	.	.	Surface glycoprotein_PGDSSSGWTAGA	.	.	surface glycoprotein_WTAGAAAYY	0.03	.	.	nCoV-2019_73_RIGHT	.	.	.	.	.	
+1	22340	22340	A	C	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G778C:p.A260P	-0.652	1.0623	0	0.14	T	.	BetaCoV_S1-NTD	.	.	Surface glycoprotein_PGDSSSGWTAGA	.	.	surface glycoprotein_WTAGAAAYY	0.03	.	.	nCoV-2019_73_RIGHT	SARS-CoV-2_IBS_S2_F	Korea	.	.	.	
+1	27971	27971	A	G	exonic	ORF8	.	synonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.T78G:p.T26T	1.33	1.80817	0.015748	0.98	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	33866	33866	G	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	33868	33868	G	S	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

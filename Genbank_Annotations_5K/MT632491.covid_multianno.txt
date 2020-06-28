@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8997	8997	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8732T:p.S2911L,ORF1a:cds-YP_009725295.1:exon1:c.C8732T:p.S2911L	1.65	3.2943	0.992126	0.00	D	.	Lumenal	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18078	18078	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G4611T:p.K1537N	-0.253	1.77537	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	18189	18189	A	G	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C4722G:p.T1574T	-0.175	1.15521	1	1.00	T	.	.	.	.	.	orf1ab polyprotein_PKDMTYRRLISMMGF	9.4	orf1ab_IPGIPKDMTY 	0.03	.	.	.	.	.	.	.	.	
+1	18391	18391	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G4924T:p.V1642F	1.65	4.256	1	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	21141	21141	G	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.A7674T:p.L2558L	-3.3	-0.074811	0.858268	1.00	T	.	.	.	.	.	.	.	orf1ab_FIQQKLAL 	0.05	.	.	.	.	.	.	.	.	
+1	26621	26621	G	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.T99T:p.C33C	-0.443	0.799268	0.433071	0.06	T	.	.	.	Transmembrane	.	membrane glycoprotein_WICLLQFAYANRNRF	11	.	.	.	.	.	.	.	.	.	.	
+1	26741	26741	G	C	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.A219C:p.I73I	-3.3	-1.99704	0.708661	0.99	T	.	Virion_surface	.	.	.	membrane glycoprotein_TLACFVLAAVYRINW	11	.	.	.	.	.	.	.	.	.	.	
+1	27862	27862	T	C	exonic	ORF7b	.	nonsynonymous SNV	ORF7b:cds-YP_009725318.1:exon1:c.A107C:p.D36A	1.65	1.80817	0.952756	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28622	28622	T	C	exonic	N	.	synonymous SNV	N:cds-YP_009724397.2:exon1:c.C349C:p.P117P	1.65	3.27687	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	28931	28931	C	T	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.G658T:p.A220S	1.65	4.256	1	0.08	T	.	.	.	Transmembrane	.	nucleocapsid phosphoprotein_DAALALLLLDRLNQL	15	.	.	.	.	.	.	.	.	.	.	

@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	6723	6723	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C6458T:p.T2153I,ORF1a:cds-YP_009725295.1:exon1:c.C6458T:p.T2153I	0.761	1.59104	0.755906	0.01	D	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_23_LEFT	.	.	.	.	.	
+1	14588	14588	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C1121T:p.A374V	1.65	3.30748	1	0.00	D	.	.	.	.	.	orf1ab polyprotein_KELLVYAADPAMHAA	17	.	.	.	.	nCoV-2019_48_RIGHT	.	.	.	.	.	
+1	21851	21851	C	A	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.A289A:p.K97K	-3.3	-0.215181	0	0.37	T	disulf_bond	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_GVYFASTEK	-1	.	.	.	.	.	.	.	.	
+1	22493	22493	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23995	23995	A	G	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.A2433G:p.K811K	-1.65	0.312441	0.984252	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26402	26402	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26436	26436	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26711	26711	T	C	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.T189C:p.A63A	-0.73	0.482614	1	1.00	T	.	.	.	Transmembrane	.	membrane glycoprotein_TLACFVLAAVYRINW	11	.	.	Membrane glycoprotein	TLACFVLAAV	.	.	.	.	.	.	

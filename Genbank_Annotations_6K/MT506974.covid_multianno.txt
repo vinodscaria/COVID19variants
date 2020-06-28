@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3113	3113	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G2848T:p.G950C,ORF1a:cds-YP_009725295.1:exon1:c.G2848T:p.G950C	1.65	4.256	1	0.04	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8539	8539	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A8274T:p.I2758I,ORF1a:cds-YP_009725295.1:exon1:c.A8274T:p.I2758I	-3.3	-0.621197	0.968504	0.72	T	.	.	.	.	.	.	.	orf1ab_VVTTKIALK 	-1	.	.	.	.	.	.	.	.	
+1	14558	14558	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1091T:p.V364V	1.65	2.19157	1	0.29	T	.	.	.	.	.	orf1ab polyprotein_KELLVYAADPAMHAA	17	.	.	.	.	nCoV-2019_49_LEFT	.	.	.	.	.	
+1	24393	24393	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C2831G:p.A944G	1.65	3.27011	1	0.00	D	.	.	.	.	Surface glycoprotein_VLYENQKLIANQFNSAIGKIQDSLSSTASALG	.	.	surface glycoprotein_SSTASALGK	0.09	.	.	nCoV-2019_81_LEFT	.	.	.	.	.	
+1	26469	26469	T	A	exonic	E	.	synonymous SNV	E:cds-YP_009724392.1:exon1:c.C225A:p.V75V	0.786	1.92037	1	1.00	T	.	Intravirion	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26795	26795	G	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.G273T:p.M91I	1.65	4.256	1	0.23	T	.	.	.	Transmembrane	.	membrane glycoprotein_MWLSYFIASFRLFAR	3.9	.	.	.	.	.	.	.	.	.	.	
+1	28332	28332	C	G	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.C59G:p.P20R	0.68	1.61234	1	0.00	D	.	9b	.	.	.	.	.	.	.	.	.	.	WH-NIC N-Forward	Thailand	.	.	.	
+1	29638	29638	G	A	exonic	ORF10	.	synonymous SNV	ORF10:cds-YP_009725255.1:exon1:c.A81A:p.I27I	1.6	2.25106	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

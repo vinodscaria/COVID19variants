@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3057	3057	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A2792T:p.E931V,ORF1a:cds-YP_009725295.1:exon1:c.A2792T:p.E931V	1.65	2.28901	0.984252	0.00	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	4995	4995	G	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T4730T:p.I1577I,ORF1a:cds-YP_009725295.1:exon1:c.T4730T:p.I1577I	0.627	0.760811	1	0.26	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_16_RIGHT	.	.	.	.	.	
+1	14472	14472	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T1005T:p.T335T	-3.3	-0.765575	0.963228	0.58	T	.	.	.	.	.	orf1ab polyprotein_FVDGVPFVVSTGYHF	12	orf1ab_FVDGVPFVVSTGY 	-1	.	.	.	.	.	.	.	.	
+1	25735	25735	G	T	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.T343T:p.L115L	-0.448	0.425567	0.370079	1.00	T	.	.	.	.	.	ORF3a protein_LYLYALVYFLQSINF	16	ORF3a protein_YLYALVYFL	0.04	.	.	.	.	.	.	.	.	
+1	25775	25775	G	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.G383T:p.W128L	1.65	4.256	1	0.00	D	.	.	.	.	.	ORF3a protein_QSINFVRIIMRLWLC	5.4	.	.	.	.	.	.	.	.	.	.	
+1	26135	26135	T	C	exonic	ORF3a	.	synonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.C743C:p.T248T	1.65	3.32175	1	1.00	T	.	.	.	.	.	.	.	ORF3a protein_EEHVQIHTI	-1	.	.	.	.	.	.	.	.	
+1	28081	28081	T	C	exonic	ORF8	.	nonsynonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.A188C:p.D63A	0.0153	0.731118	0.0944882	0.20	T	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_93_LEFT	.	.	.	.	.	
+1	29406	29406	T	C	exonic	N	.	nonsynonymous SNV	N:cds-YP_009724397.2:exon1:c.A1133C:p.E378A	1.65	2.25106	1	0.42	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

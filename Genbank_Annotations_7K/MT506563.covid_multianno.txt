@@ -1,0 +1,10 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1059	1059	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C794T:p.T265I,ORF1a:cds-YP_009725295.1:exon1:c.C794T:p.T265I	1.65	3.30383	0.992126	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	3063	3063	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A2798T:p.E933V,ORF1a:cds-YP_009725295.1:exon1:c.A2798T:p.E933V	-3.06	0.0950551	0	0.22	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	14730	14730	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G1263T:p.K421N	0.751	2.74953	1	0.02	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24422	24422	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C2860G:p.Q954E	1.65	3.27011	1	0.43	T	.	.	.	.	Surface glycoprotein_LQDVVNQNAQALNTLVKQLSSNFGAISS	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26582	26582	G	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.G60T:p.W20C	1.65	4.256	1	0.00	D	.	.	.	Transmembrane	.	.	.	membrane glycoprotein_EELKKLLEQW	-1	.	.	nCoV-2019_87_RIGHT	.	.	.	.	.	
+1	27545	27545	G	T	exonic	ORF7a	.	nonsynonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.A152T:p.D51V	1.65	2.20759	0.96063	0.00	D	disulf_bond	X4e	.	.	.	.	.	ORF7a protein_SPFHPLADNKFAL	0.11	.	.	.	.	.	.	.	.	
+1	28259	28259	G	T	exonic	ORF8	.	stoploss	ORF8:cds-YP_009724396.1:exon1:c.A366T:p.X122Y	1.65	2.29773	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

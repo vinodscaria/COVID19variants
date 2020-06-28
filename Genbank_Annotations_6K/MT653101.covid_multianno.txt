@@ -1,0 +1,12 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	3277	3277	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.A3012T:p.T1004T,ORF1a:cds-YP_009725295.1:exon1:c.A3012T:p.T1004T	.	0.171063	0.015748	0.53	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7407	7407	G	K	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	7420	7420	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	11488	11488	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T11223T:p.T3741T,ORF1a:cds-YP_009725295.1:exon1:c.T11223T:p.T3741T	-3.3	-0.757433	0.929417	0.15	T	.	.	.	Transmembrane	.	orf1ab polyprotein_ISMWALIISVTSNYS	9.8	.	.	.	.	.	.	.	.	.	.	
+1	14945	14945	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C1478T:p.A493V	1.65	3.30748	1	0.00	D	.	.	.	.	.	.	.	orf1ab_KSAGFPFNK 	-1	.	.	.	.	.	.	.	.	
+1	24668	24668	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C3106G:p.Q1036E	1.65	3.2969	1	0.00	D	disulf_bond	.	.	.	Surface glycoprotein_RASANLAATKMSECVLGQ	.	.	.	.	Spike glycoprotein 	RASANLAATKMSECVLG, AATKMSECVLGQSKRVD	.	.	.	.	.	.	
+1	27278	27278	C	T	exonic	ORF6	.	synonymous SNV	ORF6:cds-YP_009724394.1:exon1:c.T77T:p.I26I	1.65	2.20759	0.314961	1.00	T	.	.	.	.	.	ORF6 protein_LIIMRTFKVSIWNLD	5.9	.	.	.	.	.	.	.	.	.	.	
+1	27521	27521	C	T	exonic	ORF7a	.	nonsynonymous SNV	ORF7a:cds-YP_009724395.1:exon1:c.A128T:p.N43I	1.65	2.20759	1	0.00	D	disulf_bond	X4e	.	.	.	.	.	ORF7a protein_YEGNSPFHPL	0.18	.	.	nCoV-2019_90_RIGHT	.	.	.	.	.	
+1	31307	31307	C	T	intergenic	ORF10;NONE	dist=1633;dist=NONE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
