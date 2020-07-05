@@ -1,8 +1,8 @@
-Last Updated on : 28/06/2020
+Last Updated on : 05/07/2020
 
 Indian Genome Statistics
-- Total number of Indian Genomes available - 1026
-- Genomes of high quality - 805
+- Total number of Indian Genomes available - 1294
+- Genomes of high quality - 993
 
 Genbank Genome Statistics
 - Total number of genomes - 7985
