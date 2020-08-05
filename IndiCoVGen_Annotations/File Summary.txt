@@ -1,0 +1,2 @@
+Data Summary
+Total number of unique variants - 1143
