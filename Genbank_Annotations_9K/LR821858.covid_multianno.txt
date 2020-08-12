@@ -1,0 +1,11 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1209	1209	T	C	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.T944C:p.M315T,ORF1a:cds-YP_009725295.1:exon1:c.T944C:p.M315T	1.65	2.20517	1	0.11	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	6024	6024	A	R	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8053	8053	T	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	8917	8917	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C8652T:p.F2884F,ORF1a:cds-YP_009725295.1:exon1:c.C8652T:p.F2884F	-0.891	0.546583	1	1.00	T	.	Lumenal	.	.	.	orf1ab polyprotein_GTILRTTNGDFLHFL	20	orf1ab_FLPRVFSAV 	0.1	.	.	.	.	.	.	.	.	
+1	10543	10543	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C10278T:p.H3426H,ORF1a:cds-YP_009725295.1:exon1:c.C10278T:p.H3426H	-3.3	-0.549551	0.968504	1.00	T	.	Peptidase_C30	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	16349	16349	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C2882T:p.S961L	1.65	3.28526	0.992189	0.04	D	.	CV_ZBD	.	.	.	orf1ab polyprotein_TSHKLVLSVNPYVCN	9.5	.	.	.	.	.	.	.	.	.	.	
+1	17898	17898	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C4431T:p.H1477H	0.68	1.62033	1	1.00	T	.	+)RNA_virus_helicase_C_Terminal	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	26058	26058	C	Y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	27128	27128	C	T	exonic	M	.	synonymous SNV	M:cds-YP_009724393.1:exon1:c.C606T:p.G202G	-3.3	-0.703307	0.944882	1.00	T	.	Intravirion	.	.	Membrane glycoprotein_NYKLNTDHSSSSDNIA	.	.	.	.	.	.	.	.	.	.	.	.	

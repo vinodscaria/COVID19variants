@@ -1,0 +1,17 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	920	920	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C655T:p.L219L,ORF1a:cds-YP_009725295.1:exon1:c.C655T:p.L219L	-0.243	0.900843	1	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	1059	1059	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C794T:p.T265I,ORF1a:cds-YP_009725295.1:exon1:c.C794T:p.T265I	1.65	3.30383	0.992126	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	6036	6036	G	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G5771T:p.S1924I,ORF1a:cds-YP_009725295.1:exon1:c.G5771T:p.S1924I	0.652	2.45699	1	0.31	T	.	.	.	.	.	.	.	orf1ab_PYPNASFDNFKF 	-1	.	.	.	.	.	.	.	.	
+1	10188	10188	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C9923T:p.T3308I,ORF1a:cds-YP_009725295.1:exon1:c.C9923T:p.T3308I	1.65	3.30935	1	0.05	D	.	Peptidase_C30	.	.	.	.	.	orf1ab_TSEDMLNPNY 	-1	.	.	.	.	.	.	.	.	
+1	14408	14408	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C941T:p.P314L	1.65	3.30748	1	0.31	T	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	.	.	
+1	22220	22220	T	C	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.T658C:p.F220L	-2.42	0.168063	0	0.16	T	.	BetaCoV_S1-NTD	.	.	.	.	.	surface glycoprotein_LPQGFSAL	0.1	.	.	.	.	.	.	.	.	
+1	23403	23403	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A1841G:p.D614G	1.65	2.25839	1	0.30	T	.	.	.	.	Surface glycoprotein_FGGVSVITPGTNTSNQVAVLYQDVNCTEV	.	.	.	.	.	.	.	.	.	.	.	.	
+1	23439	23439	C	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.C1877T:p.A626V	0.761	1.88384	0.88189	0.50	T	disulf_bond	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	24982	24982	T	C	exonic	S	.	synonymous SNV	S:cds-YP_009724390.1:exon1:c.T3420C:p.P1140P	-0.824	0.419591	1	0.51	T	.	.	.	.	.	.	.	surface glycoprotein_TVYDPLQPELDSFK	-1	.	.	nCoV-2019_83_LEFT	.	.	.	.	.	
+1	25563	25563	G	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.G171T:p.Q57H	-3.3	-1.17891	0.929134	0.00	D	.	.	.	.	.	ORF3a protein_ALLAVFQSASKIITL	11	ORF3a protein_SASKIITLK	-1	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	26814	26814	G	T	exonic	M	.	nonsynonymous SNV	M:cds-YP_009724393.1:exon1:c.G292T:p.A98S	1.65	4.256	1	0.38	T	.	.	.	Transmembrane	.	membrane glycoprotein_MWLSYFIASFRLFAR	3.9	membrane glycoprotein_SYFIASFRLF	-1	.	.	.	.	.	.	.	.	
+1	27964	27964	C	T	exonic	ORF8	.	nonsynonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.C71T:p.S24L	0.174	0.143638	0	0.10	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	29625	29625	C	T	exonic	ORF10	.	nonsynonymous SNV	ORF10:cds-YP_009725255.1:exon1:c.C68T:p.S23F	1.6	3.25353	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	

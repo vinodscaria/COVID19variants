@@ -1,0 +1,21 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	GERP++_RS	PhyoP44wayCoV_score	PhastCons44wayCoV_score	SIFT_score	SIFT_pred	UNIPROT_Disulphite_Bonds	UNIPROT_domains	UNIPROT_glyphos	UNIPROT_Transmembrane	b_CellEpitopes	cd4_Epitopes	cd4_Epitope_Score	cd8_Epitopes	cd8_Epitope_Score	MPDI_Potential Immunogenic Regions	MPDI_Potential Immunodominant Epitopes	ARTIC_Primers	RT_PCR-Primer_Probe_Name	RT_PCR-Primer_Probe_Organization	Sequencing_Error_Sites	Homoplasic_positions	Hypermutable_Sites	Otherinfo
+#CHROM	POS	POS	REF	ALT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	216	216	G	A	upstream	ORF1a	dist=50	.	.	1.6	4.10688	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	241	241	C	T	upstream	ORF1a	dist=25	.	.	1.61	3.28673	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	775	775	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C510T:p.T170T,ORF1a:cds-YP_009725295.1:exon1:c.C510T:p.T170T	-2.47	0.229811	0.362205	0.69	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	832	832	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C567T:p.N189N,ORF1a:cds-YP_009725295.1:exon1:c.C567T:p.N189N	-3.12	0.0806929	0.992126	1.00	T	.	.	.	.	.	.	.	orf1ab_YVDNNFCGPDGY 	0.05	.	.	.	.	.	.	.	.	
+1	1059	1059	C	T	exonic	ORF1a	.	nonsynonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C794T:p.T265I,ORF1a:cds-YP_009725295.1:exon1:c.C794T:p.T265I	1.65	3.30383	0.992126	0.03	D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	3037	3037	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C2772T:p.F924F,ORF1a:cds-YP_009725295.1:exon1:c.C2772T:p.F924F	-3.3	-2.0989	0.00787402	0.66	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	6406	6406	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C6141T:p.V2047V,ORF1a:cds-YP_009725295.1:exon1:c.C6141T:p.V2047V	1.61	3.29661	0.992126	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	9967	9967	C	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.C9702T:p.L3234L,ORF1a:cds-YP_009725295.1:exon1:c.C9702T:p.L3234L	-2.41	-0.161717	0.992134	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	13459	13459	G	T	exonic	ORF1a	.	synonymous SNV	ORF1a:cds-YP_009724389.1:exon1:c.G13194T:p.S4398S,ORF1a:cds-YP_009725295.1:exon1:c.G13194T:p.S4398S	0.731	2.6934	1	0.53	T	.	.	.	.	.	.	.	.	.	.	.	.	ORF1ab gene Reverse	GenScript; China CDC; PerkinElmer, Inc.	.	.	.	
+1	14408	14408	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C941T:p.P314L	1.65	3.30748	1	0.31	T	.	.	.	.	.	.	.	orf1ab_TVFPPTSFGPLVRK 	-1	.	.	.	.	.	.	.	.	
+1	17104	17104	C	T	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C3637T:p.H1213Y	1.65	3.34872	1	0.00	D	.	+)RNA_virus_helicase_ATP_binding	.	.	.	orf1ab polyprotein_GKSHFAIGLALYYPS	16	.	.	.	.	.	.	.	.	.	.	
+1	18877	18877	C	T	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C5410T:p.L1804L	-3.3	0.101307	0.96063	1.00	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+1	19506	19506	T	C	exonic	ORF1b	.	synonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.T6039C:p.N2013N	-2.51	0.0464016	0.992126	0.30	T	.	.	.	.	.	.	.	orf1ab_HANEYRLYL 	0.19	.	.	.	.	.	.	.	.	
+1	21304	21304	C	A	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.C7837A:p.R2613S	0.509	0.328055	0.0314961	0.27	T	.	.	.	.	.	.	.	orf1ab_KPREQIDGYVM 	-1	.	.	.	.	.	.	.	.	
+1	21305	21305	G	A	exonic	ORF1b	.	nonsynonymous SNV	ORF1b:cds-YP_009724389.1:exon1:c.G7838A:p.R2613H	0.509	0.529488	0.0314961	0.04	D	.	.	.	.	.	.	.	orf1ab_KPREQIDGYVM 	-1	.	.	.	.	.	.	.	.	
+1	23403	23403	A	G	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.A1841G:p.D614G	1.65	2.25839	1	0.30	T	.	.	.	.	Surface glycoprotein_FGGVSVITPGTNTSNQVAVLYQDVNCTEV	.	.	.	.	.	.	.	.	.	.	.	.	
+1	25297	25297	G	T	exonic	S	.	nonsynonymous SNV	S:cds-YP_009724390.1:exon1:c.G3735T:p.K1245N	-1.31	1.16556	1	0.02	D	.	.	.	.	.	.	.	.	.	.	.	nCoV-2019_84_LEFT	.	.	.	.	.	
+1	25563	25563	G	T	exonic	ORF3a	.	nonsynonymous SNV	ORF3a:cds-YP_009724391.1:exon1:c.G171T:p.Q57H	-3.3	-1.17891	0.929134	0.00	D	.	.	.	.	.	ORF3a protein_ALLAVFQSASKIITL	11	ORF3a protein_SASKIITLK	-1	.	.	.	.	.	.	.	hypermutable low-fitness site	
+1	27964	27964	C	T	exonic	ORF8	.	nonsynonymous SNV	ORF8:cds-YP_009724396.1:exon1:c.C71T:p.S24L	0.174	0.143638	0	0.10	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
