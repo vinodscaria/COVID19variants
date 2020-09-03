@@ -1,2 +1,4 @@
 Data Summary
-Total number of unique variants - 1143
+Variant Calling has been performed using VarScan
+Total number of unique variants Batch 1 - 1143
+Total number of unique variants Batch 1 - 1395
