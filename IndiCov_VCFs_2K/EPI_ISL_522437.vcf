@@ -1,0 +1,22 @@
+##fileformat=VCFv4.1									
+##contig=<ID=1,length=29984>									
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">									
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	EPI_ISL_522437
+1	26	.	A	T	.	.	.	GT	1
+1	241	.	C	T	.	.	.	GT	1
+1	1471	.	C	T	.	.	.	GT	1
+1	3037	.	C	T	.	.	.	GT	1
+1	3634	.	C	T	.	.	.	GT	1
+1	13446	.	C	T	.	.	.	GT	1
+1	14408	.	C	T	.	.	.	GT	1
+1	15540	.	C	T	.	.	.	GT	1
+1	21624	.	G	T	.	.	.	GT	1
+1	22993	.	C	T	.	.	.	GT	1
+1	23403	.	A	G	.	.	.	GT	1
+1	25855	.	G	T	.	.	.	GT	1
+1	28907	.	G	T	.	.	.	GT	1
+1	29755	.	G	T	.	.	.	GT	1
+1	29757	.	G	T	.	.	.	GT	1
+1	29854	.	C	T	.	.	.	GT	1
+1	29857	.	C	A	.	.	.	GT	1
+1	29868	.	G	A	.	.	.	GT	1
