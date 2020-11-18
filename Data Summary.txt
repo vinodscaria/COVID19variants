@@ -1,4 +1,4 @@
-Last Updated on : 01/09/2020
+Last Updated on : 18/11/2020
 
 Indian Genome Statistics
 - Total number of Indian Genomes available - 2512
@@ -6,3 +6,6 @@ Indian Genome Statistics
 
 Genbank Genome Statistics
 - Total number of genomes - 12180
+
+List of functionally relevant genetic variants compiled from literature sources are listed in FaviCOV_Variantlist.tsv file
+Total number of variants compiled - 430
